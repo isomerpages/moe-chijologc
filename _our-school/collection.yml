@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Sexuality Education.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md
@@ -17,3 +16,4 @@ collections:
       - School Rules.md
       - School Services.md
       - Counselling Services.md
+      - Sexuality Education.md

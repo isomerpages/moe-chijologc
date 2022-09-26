@@ -7,7 +7,7 @@ description: ""
 
 <img style="width: 25%;" src="/images/schoolrule.png" align = "center" /> 
 
-**Code of Conduct**
+##### Code of Conduct
 
 1.  Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.  
     
@@ -28,7 +28,7 @@ description: ""
 
   
 
-**Attire**
+##### Attire
 
 1.  Students are to wear the prescribed school uniform. Modification to the uniform is not allowed.  
     
@@ -39,3 +39,38 @@ description: ""
 4.  School Physical Education attire is to be worn during Physical Education and Co-Curricular Activities only. Sports shoes may only be worn during CCA training and on days when students participate in tournaments.  
     
 5.  Students are encouraged to wear the official school cardigan. Alternative jacket/cardigan should be plain and dark blue.
+
+##### Appearances
+
+<img style="width: 50%;" src="/images/school_uniform.jpeg" align = "center" /> 
+
+**Grooming of Hair**
+
+*   Fringe should be short or neatly pushed back with hair band or hair clips.  
+    
+*   Shoulder length hair should be neatly tied up in pony-tails. Hair longer than shoulder length should be plaited.  
+    
+*   Hair bands or hair clips should be black or dark blue.
+
+**Mobile Phones/Smart Devices**
+
+1.  Electronic devices such as mobile phones may be brought to school only when necessary and for the purpose of communication with parents or caregivers only. Such devices must be switched off at all times during curriculum and CCA hours. The use of such devices is restricted to postcurriculum hours at dismissal and at pick-up points, namely the Foyer and side gate to Crichton Close.  
+    
+2.  Any misuse of mobile phones and electronic devices may result in confiscation of device and student(s) involved may face disciplinary actions accordingly. Parent/Guardian will be informed and will be required to collect the confiscated mobile phone/smart device from the school personally.  
+    
+3.  Students are to take full responsibility for the use and safekeeping of their mobile phone/device. The school will not be held responsible for the loss or damage of mobile phone/device. The staff of the school is not obliged to conduct any investigation following the report of loss or damage of the device.  
+    
+
+**Possession of Weapons**  
+
+1.  Students are not allowed to have in their possession any weapon.  
+    
+2.  Students are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others
+
+  
+
+**IJ Board’s Anti-Bullying Policy**
+
+In our CHIJ Schools, we uphold the basic principle of respecting the dignity of each person we interact with. Everyone in our school community has the responsibility and a role to play in building a safe learning environment where we treat each other with respect and understanding. As such our school will not tolerate any unlawful or disruptive behaviour, including any form of bullying, cyber-bullying,
+
+intimidation or retaliation.

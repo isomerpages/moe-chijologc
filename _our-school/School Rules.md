@@ -71,6 +71,4 @@ description: ""
 
 **IJ Board’s Anti-Bullying Policy**
 
-In our CHIJ Schools, we uphold the basic principle of respecting the dignity of each person we interact with. Everyone in our school community has the responsibility and a role to play in building a safe learning environment where we treat each other with respect and understanding. As such our school will not tolerate any unlawful or disruptive behaviour, including any form of bullying, cyber-bullying,
-
-intimidation or retaliation.
+In our CHIJ Schools, we uphold the basic principle of respecting the dignity of each person we interact with. Everyone in our school community has the responsibility and a role to play in building a safe learning environment where we treat each other with respect and understanding. As such our school will not tolerate any unlawful or disruptive behaviour, including any form of bullying, cyber-bullying, intimidation or retaliation.

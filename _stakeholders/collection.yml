@@ -2,8 +2,8 @@ collections:
   stakeholders:
     output: true
     order:
-      - LJ Board of Management/.keep
       - Parents Support Group (PSG).md
-      - Alumnae/Alumnae Member Registration.md
       - Alumnae/.keep
+      - Alumnae/Alumnae Member Registration.md
       - Alumnae/About Alumnae.md
+      - LJ Board of Management/.keep

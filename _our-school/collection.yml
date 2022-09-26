@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Financial Information.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md
@@ -18,3 +17,4 @@ collections:
       - School Services.md
       - Counselling Services.md
       - Sexuality Education Programme.md
+      - Financial Information.md

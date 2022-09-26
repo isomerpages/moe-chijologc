@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Frequently Asked Questions.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md
@@ -20,3 +19,4 @@ collections:
       - Sexuality Education Programme.md
       - Financial Information.md
       - Contact Us.md
+      - Frequently Asked Questions.md

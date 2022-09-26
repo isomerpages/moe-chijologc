@@ -19,7 +19,7 @@ Students will be able to be:
 
 ### Programme
 
-The Learning Foci (the **3E**s):
+The Learning Foci (the&nbsp;**3E**s):
 
 *   Exposure: Students are exposed to real world problems to work on, apply their knowledge of Robotics and come up with plausible solutions. They are also exposed to the technical aspects of robotics through programming (logical thinking) and construction (critical thinking skills)  
     
@@ -31,7 +31,7 @@ The Learning Foci (the **3E**s):
 ### Competitions
 
 
-The Robotics Club CCA provides opportunities for students to participate in competitions such as the [Asia Pacific Youth Robotics Competition](http://www.apyrc.com/) (APYRC), the [National Robotics Competition](http://www.nrc.sg/) (NRC), and the [World Robo Tournament](http://wrt.tribalstudioz.com/) (WRT).Content
+The Robotics Club CCA provides opportunities for students to participate in competitions such as the&nbsp;[Asia Pacific Youth Robotics Competition](http://www.apyrc.com/)&nbsp;(APYRC), the&nbsp;[National Robotics Competition](http://www.nrc.sg/)&nbsp;(NRC), and the&nbsp;[World Robo Tournament](http://wrt.tribalstudioz.com/)&nbsp;(WRT).Content
 
 ### Achievements
 
@@ -40,4 +40,4 @@ The Robotics Club CCA provides opportunities for students to participate in comp
 | APYRC | 1st Runner-up in the Sumo category |  2017 |
 |   WRT |   2nd Runner-up in Best Teamwork   | 2018  |
 
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLqe-N9X6y1GumPvSd6Af0EtX4e0zlju-2GlPO-P06qcPYJY0ZzEJiABBkVgtZjJVu7GFB6_vllkNc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

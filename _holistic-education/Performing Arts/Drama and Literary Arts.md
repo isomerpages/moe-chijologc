@@ -10,7 +10,7 @@ To enhance the Applied Learning Programme (ALP), OLGC Drama and Literary Arts CC
 
 ### Programme
 
-We teach a range of vocal and speech techniques such as, diction, articulation, tone, accents and voice projection. In addition to these speech techniques, we also teach the girls drama techniques. These include mime, movement, characterisation, gestures and stage blocking. 
+We teach a range of vocal and speech techniques such as, diction, articulation, tone, accents and voice projection. In addition to these speech techniques, we also teach the girls drama techniques. These include mime, movement, characterisation, gestures and stage blocking.&nbsp;
 
   
 
@@ -32,12 +32,11 @@ From the lessons and training, students would build self-esteem and increase the
 | International Science Drama Competition    | Third prize in the finals Best actress in the Junior Category | 2017 |
 | Speak Up! Kids Public Speaking Competition |                         2nd  Runner up                        | 2017 |
 
-#### Activities & Events
+#### Activities &amp; Events
 
-|     Activities & Events     |                                                                  Description                                                                  |    Date    |
+|     Activities &amp; Events     |                                                                  Description                                                                  |    Date    |
 |:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|
 | KidsConnect 2019 @ Playeum  | Students performed in the performance category at pop up event KidsConnect which collaborates with Playeum, Children’s Centre for Creativity. | March 2019 |
 | Aesthetics Showcase @ OLGC  | Students performed during OLGC end of year Aesthetics Showcase.                                                                               |  Nov 2017  |
 
-
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4FAdU_LdiLue4OwSqReAHEhTvyvpRyEEKQahSGPVmdcA3u5Goixo82IPCDkfviqrD6A8KCqQ1eZ5c/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

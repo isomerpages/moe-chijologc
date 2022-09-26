@@ -12,7 +12,7 @@ Our Founder - Father Nicholas Barre (1621 - 1686)
 
 Early Life
 
-<img style="width: 35%;" src="/images/FrBarre2.jpeg" align = "left" />  Nicolas Barré was born in Amiens, France on 21 October 1621, the ﬁrst-born and only son to Louis and Antoinette Barré. He grew up in a wealthy merchant family and was educated at a Jesuit college in his hometown. As a young child, he had a deep sense of God. When one of his sisters fell ill, his strong faith in God and prayers led to her recovery.  
+<img style="width: 25%;" src="/images/FrBarre2.jpeg" align = "left" />  Nicolas Barré was born in Amiens, France on 21 October 1621, the ﬁrst-born and only son to Louis and Antoinette Barré. He grew up in a wealthy merchant family and was educated at a Jesuit college in his hometown. As a young child, he had a deep sense of God. When one of his sisters fell ill, his strong faith in God and prayers led to her recovery.  
   
 **Responding to God’s call**
 
@@ -38,8 +38,7 @@ In commemoration of this great man and what he has done, CHIJ Schools in Singapo
 **Early Life : “ Be Holy as I am Holy.”**
 
 
-<img style="width: 35%;" src="/images/mother%20mathilde.jpeg" align = "left" /> &nbsp; Mother Mathilde was born Marie Justine &nbsp; Raclot in France in 1814, the ﬁrst born 
+<img style="width: 25%;" src="/images/mother%20mathilde.jpeg" align = "left" /> &nbsp; Mother Mathilde was born Marie Justine &nbsp; Raclot in France in 1814, the ﬁrst born 
 &nbsp;and only daughter of a family of farmers
 &nbsp;who were deeply religious. In her 
 &nbsp;childhood, Justine learned much from her father who was kind to the poor especially those stranded without shelter in the severe cold of winter. She was shy and loved the beauty of the garden and the surrounding countryside. One of her childhood joys was to dress up her dolls as little nuns and she would visualise them going away on missionary journeys. At an early age, Justine was already a prayerful child. At age 6, she went to a Primary school and at the age of 12, her father recognising her need for a secondary education, sent her to a boarding school run by the IJ Sisters, who were then known as Dames of St Maur, in France.
-

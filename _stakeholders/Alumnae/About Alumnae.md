@@ -18,3 +18,4 @@ We would like to renew and maintain the special bond we have by inviting you to 
 Our school has come a long way from being the little convent school in Serangoon Gardens. You should come see our spanking new premises if you have not had a chance . While the school building may have changed, the spirit of our dear school is very much alive.
 
 Do support our efforts to keep the OLGC spirit burning by indicating your interest to be a member of the future Alumni. Also, do help us in this endeavour by encouraging all your former schoolmates whom we might have missed, to sign up. The Principal and teachers (some of them old girls of the school themselves) and everyone else in the OLGC family look forward to seeing you and welcoming you. We will get back to you as soon as we are able to get a good number of past pupils.
+

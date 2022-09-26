@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Uniform Groups & Clubs/InfoComm Club.md
       - Uniform Groups & Clubs/Uniform Groups & Clubs.md
       - Uniform Groups & Clubs/.keep
       - Departments/English.md

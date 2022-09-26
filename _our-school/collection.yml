@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Services.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md
@@ -15,3 +14,4 @@ collections:
       - School Staff/Teaching Staff.md
       - Calendar.md
       - School Rules.md
+      - School Services.md

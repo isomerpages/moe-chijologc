@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Performing Arts.md
       - Departments/.keep
       - Departments/English.md
       - Co Curricular Activities (CCA).md

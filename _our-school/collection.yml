@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Staff/Teaching Staff.md
       - School Staff/Key Personnel.md
       - School Staff/.keep
       - Principal's Message.md

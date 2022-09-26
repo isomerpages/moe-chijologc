@@ -62,3 +62,60 @@ At age 58, Mother Mathilde set out once again on her next mission to Japan. With
 The CHIJ story started in 1662 when Blessed Nicolas Barre established the first Infant Jesus (IJ) school in Rouen, France. The IJ mission spread throughout the world in Asia, Europe, the Americas and Africa.
 
 <img style="width: 50%;" src="/images/Map.jpeg" align = "center" />
+
+The IJ mission in Asia and Europe
+---------------------------------
+
+Mgr. Bouchot, the Apostolic Vicar to Malaya asked for IJ sisters to set up Christian girls’ schools. Five brave sisters agreed and started on the very long journey from France to Asia ① on 6 December 1851. The sisters arrived in Penang and established a school on 12 April 1852. Over the next 100  years, the IJ sisters started other missions and schools in other parts of Asia. This includes Town Convent (1874) and other IJ schools in Singapore, an international school and an orphanage in Yokohama, Japan (1872) and a kindergarten in Manchuria, China (1936).   
+  
+Besides Asia, schools were also set up by the sisters to educate children in Europe ②, firstly in Spain, and then in England, Belgium and Italy. In 1909, the sisters set up a boarding school in Drishane, Ireland as well as a sawmill and factories to provide jobs for the community. The mission in Ireland flourished and provided 179 sisters for the CHIJ missions overseas.  
+
+The IJ mission in United States, South America and Africa
+---------------------------------------------------------
+
+In 1950, the IJ mission spread to California, United States ③  and three schools were set up to teach local girls. The IJ sisters also reached out to the sick and helped children with special needs. In 1967, the IJ sisters opened a hostel for university students in Cusco, Peru before arriving in Bolivia in 1992 ④.   
+
+  
+
+In the 1960s, upon the request of the local communities, the IJ sisters arrived in Africa ⑤, first in Cameroon and later in Nigeria in 1983. There as in elsewhere in the world, the sisters set up missions to see to the education and formation of young women.  
+
+  
+
+In recent decades, the IJ Sisters have reached out to the Philippines, Northern Thailand, Myanmar, East Timor and Cambodia. 
+
+  
+
+Thank you, God, for the IJ sisters who remain steadfast and faithful in their mission of making Christ known and loved and who continue to respond whenever and wherever God calls.  
+
+### Our School Heritage
+
+The Convent of Our Lady of Good Counsel, as the school was originally called, was established in the 1960 in a single building block with its main school gate at Cooling Close, Serangoon Gardens. At that time the school was built to cater to the schooling needs of the daughters of families living in Serangoon Gardens as well as in the rural areas of Yio Chu Kang and Seletar Hills. It was built adjoining the Convent residence where the community of Catholic nuns lived. The ﬁrst few Principals of the school were Catholic Sisters (nuns) and they lived in this residence in the school.  
+  
+Soon, because of an overwhelming enrolment, an extension was added and this was completed in 1964. The school became a full school in 1967 when the primary classes graduated into secondary ones.  
+  
+In 1970, the Convent of Our Lady of Good Counsel and St. Joseph’s Convent, another IJ school at Hillside Drive, changed from full school status to primary school and secondary school respectively. The secondary students of the school were transferred to St. Joseph’s Convent while the primary students came over to the Convent of Our Lady of Good Counsel. These two schools have remained afﬁliated over the years.  
+  
+In mid 1980, the school was renovated and extended again and the main school gate was relocated to Burghley Drive. This extension was completed in 1988.  
+  
+In 1992, the name CHIJ was preﬁxed to all the IJ schools in Singapore to show a common identity. The name of the school thus became CHIJ Our Lady of Good Counsel.  
+  
+In June 2004, CHIJ Our Lady of Good Counsel was relocated to a holding school at 10 Ang Mo Kio St 54 to facilitate the rebuilding of the new school. Construction was completed in 2006, and the school returned to its current premise at 2C Burghley Drive. The school held its ofﬁcial opening in 2008 and celebrated its 50th Anniversary in 2010.  
+  
+Under the PERI Recommendations, the school was provided with a new wing "Father Barré Block" consisting of a Student Care Centre, Special Rooms & Classrooms. The new facilities began its function in 2018.  
+  
+CHIJ Our Lady of Good Counsel is one of the eleven IJ Schools in Singapore.
+
+#### Principals of CHIJ - OLGC
+
+|   Serving Period   |            Name            |
+|:------------------:|:--------------------------:|
+|     1960 -1964     | Sister Catherine Hendricks |
+|     1965 -1966     | Sister Aidan Dempsey       |
+|     1966 -1967     | Sister Josephine Healy     |
+|     1968 -1971     | Mrs Mavis Yetts            |
+|     1972 -1976     | Sister Bernard Aw          |
+|     1977 -1984     | Miss Isabel Rodrigues      |
+| 1985 -1996 (April) | Mrs Josephine Colaco       |
+|     1996 - 2005    | Mrs Christina Sim Sze Vui  |
+|     2006 - 2017    | Mrs Catherine Seah         |
+|    2018 - Present  | Miss Grace Tan             |

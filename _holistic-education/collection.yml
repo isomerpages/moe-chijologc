@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Performing Arts/.keep
       - Departments/.keep
       - Departments/English.md
       - Co Curricular Activities (CCA).md
@@ -18,3 +17,4 @@ collections:
       - Uniform Groups & Clubs/Robotics Club.md
       - Uniform Groups & Clubs/Art Club.md
       - Uniform Groups & Clubs/Brownies.md
+      - Performing Arts/.keep

@@ -4,7 +4,7 @@ permalink: /our-school/principal-message/
 description: ""
 ---
 ## Principal's Message
-<img style="width: 35%;" src="/images/2018_Miss%20Grace%20Tan.jpeg" align = "right" />
+<img style="width: 25%;" src="/images/2018_Miss%20Grace%20Tan.jpeg" align = "right" />
 
 Dear Parents / Guardians  
 

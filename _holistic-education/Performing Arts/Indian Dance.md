@@ -11,7 +11,7 @@ The Indian Dance CCA which started in 2008 in OLGC, aspires to groom and bring o
 ### Programme
 
 
-Students are taught a carefully chosen selection of dance moves that allows for self-expression. These include intricate footwork, hand gestures, facial expressions and various body postures. 
+Students are taught a carefully chosen selection of dance moves that allows for self-expression. These include intricate footwork, hand gestures, facial expressions and various body postures.&nbsp;
 
   
 
@@ -43,3 +43,4 @@ Students are also given opportunities to perform to showcase their talents and b
 | IJHCC Fund Raising Concert @ CHIJ Toa Payoh | Students performed a classical dance item titled “Panja Bootha Alaripu” |    19 May 2018   |
 | Awards Day                                  | Dance performance in OLGC during Awards Day                             | 15 November 2017 |
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTX6aK07sQSmF9CU0W_0JacVtGe607BHqioaVF4kDcvfIphOA-0qv5P8toQM5FIcvQz4zdtmOxFiPEw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

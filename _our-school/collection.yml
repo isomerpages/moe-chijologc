@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Counselling Services.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md
@@ -16,3 +15,4 @@ collections:
       - Calendar.md
       - School Rules.md
       - School Services.md
+      - Counselling Services.md

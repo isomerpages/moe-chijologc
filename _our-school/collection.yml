@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - School Hymn.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md
       - Crest & Motto.md
       - School Values.md
       - School Song.md
+      - School Hymn.md

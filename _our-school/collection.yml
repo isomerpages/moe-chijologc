@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - School Staff/Teaching Staff.md
-      - School Staff/Key Personnel.md
       - School Staff/.keep
+      - School Staff/Key Personnel.md
+      - School Staff/Teaching Staff.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md

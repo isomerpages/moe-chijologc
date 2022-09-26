@@ -49,3 +49,15 @@ During the CCA sessions, Brownies are exposed to a range of indoor and outdoor a
 | Chief Commissioner’s Award Outreach Programme  | Beach cleanup at PA Water Venture (Sembawang) organised by GGS                                          |    16 Mar     |
 | South Division Day                             | Competitions and activities organised at the Division Level at Mayflower Secondary School               |     25 May    |
 | Girl Guides Cookie Project                     | Fundraising project organised by GGS                                                                    |    Term 2     |
+
+<br>
+
+|                Activity / Event               |                                               Description                                              |   2019  |
+|:---------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:-------:|
+| World Thinking Day                            | Coastal cleanup at East Coast Park and Celebration activities for World Thinking Day at Marina Barrage |  24 Feb |
+| Chief Commissioner’s Award Outreach Programme | Beach cleanup at PA Water Venture (Sembawang) organised by GGS                                         |  10 Mar |
+|  Inter-unit Challenge                         | Inter-unit competitions with Holy Innocents’ Primary and CHIJ Our Lady of Nativity                     |  13 Apr |
+| South Division Learning Day                   | Division activities at Camp Christine                                                                  | 26 May  |
+| South Division Day                            | Division competitions at MayFlower Secondary                                                           | 21 Jul  |
+|  National Brownie Revel                       | Brownie Competitions at Chongfu School                                                                 |  31 Nov |
+

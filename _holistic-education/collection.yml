@@ -2,4 +2,5 @@ collections:
   holistic-education:
     output: true
     order:
+      - CO CURRICULAR ACTIVITIES (CCA).md
       - Departments/.keep

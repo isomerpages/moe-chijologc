@@ -2,5 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
+      - Sports & Games/.keep
       - Departments/.keep
       - Co Curricular Activities (CCA).md

@@ -2,5 +2,6 @@ collections:
   stakeholders:
     output: true
     order:
+      - About Alumnae/About Alumnae.md
       - About Alumnae/.keep
       - Parents Support Group (PSG).md

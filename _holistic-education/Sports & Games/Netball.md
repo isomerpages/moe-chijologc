@@ -46,3 +46,4 @@ Students acquire new skills and learn the importance of teamwork, resilience and
     
 *   game: 3v3, half court
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCmDoi78lqbcCCYJr31X_YZTYAijeNw_5_d0lDKki0-qkAOLcnYibPLcgyI-MTVqaU0IVCenxELQBe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

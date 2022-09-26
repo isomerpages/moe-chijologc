@@ -22,12 +22,12 @@ Do support our efforts to keep the OLGC spirit burning by indicating your intere
 
 <figure>
 <img src="/images/_MG_9460.png">
-<figcaption> <strong> P6 Career Awareness Talk</strong> </figcaption>
+<figcaption>P6 Career Awareness Talk
 </figure>
 
 <figure>
 <img src="/images/_MG_9524.png">
-<figcaption> <strong>Speakers Circuit Programme on Entrepreneurship</strong> </figcaption>
+<figcaption>Speakers Circuit Programme on Entrepreneurship </figcaption>
 </figure>
 
 Our Alumnae members, Ms Corinne Foo, Ms Melissa Har, Ms Gwyneth Har and Ms Audrey Tan inspired our girls to work towards their career aspirations with their passionate sharing on their professions.

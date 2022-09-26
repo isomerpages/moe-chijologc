@@ -31,5 +31,3 @@ Do support our efforts to keep the OLGC spirit burning by indicating your intere
 </figure>
 
 Our Alumnae members, Ms Corinne Foo, Ms Melissa Har, Ms Gwyneth Har and Ms Audrey Tan inspired our girls to work towards their career aspirations with their passionate sharing on their professions.
-
-

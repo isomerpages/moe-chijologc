@@ -56,3 +56,9 @@ During those early years, Mother Mathilde faced many difﬁculties as there was 
 **Celebration of Mother Mathilde’s Legacy : “Go, good and faithful servant. You have deserved well of the Lord.”**  
 
 At age 58, Mother Mathilde set out once again on her next mission to Japan. With the same spirit and faith in God, she toiled tirelessly to build the foundations of IJ schools in Yokohama, Tokyo and Shizuoka. Mother Mathilde died at the age of 97 and lies buried at Yokohama. She is deeply honoured by the IJ schools she helped to establish in Japan and at her funeral in Yokohama was paid this compliment by a Protestant Minister in the crowd who called out, **“Go, good and faithful servant. You have deserved well of the Lord.”** Mother Mathilde was recognised by the government of Singapore in the Women’s Hall of Fame in 2014 for her contributions to education in Singapore. Today, the eleven Convent of the Holy Infant Jesus (CHIJ) schools in Singapore stand as a testament to Mother Mathilde’s work.
+
+### The Spread of the IJ Mission
+
+The CHIJ story started in 1662 when Blessed Nicolas Barre established the first Infant Jesus (IJ) school in Rouen, France. The IJ mission spread throughout the world in Asia, Europe, the Americas and Africa.
+
+<img style="width: 50%;" src="/images/Map.jpeg" align = "center" />

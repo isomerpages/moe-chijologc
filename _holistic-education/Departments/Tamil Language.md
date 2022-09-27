@@ -26,5 +26,3 @@ Build friendship through Combined IJ Schools Language and Cultural Camp-P6 2019
 
 ### 2019 P5&6 Motivational Talk titled “Are you far from Ordinary” to boost self-esteem and build confidence
 
-
-

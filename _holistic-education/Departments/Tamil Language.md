@@ -12,17 +12,18 @@ The department particularly embarks on student–centric education with planned 
 
 ### P1&amp;2 Speech and Drama Programme:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkfZ5es10MJXqlmddRAE4P8hamxRAXeyH6DF5wJbpS5wT0s75-8DrYVkYJlvw2j0VdyaLxpl4VsdRq/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkfZ5es10MJXqlmddRAE4P8hamxRAXeyH6DF5wJbpS5wT0s75-8DrYVkYJlvw2j0VdyaLxpl4VsdRq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Build friendship through Combined IJ Schools Language and Cultural Camp-P6 2019
 
 Build friendship through Combined IJ Schools Language and Cultural Camp-P6 2019
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZNUWaPJGNs2CPW2ZydV7DZg85-j4x0N-rZS08pHbnbo66Tb37Trhz3iRDrpwrlk5n6pwFYtZs7GQ5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZNUWaPJGNs2CPW2ZydV7DZg85-j4x0N-rZS08pHbnbo66Tb37Trhz3iRDrpwrlk5n6pwFYtZs7GQ5/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Experiential Learning: P4 Learning Journey 2019 Pongal Heritage Experience @Little India
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0Q4-Pvd8JMYPhAfWqUr0qU5kn92rjTfzeDuTADqijTHIqeQv4rh06w0KfsnTYtmKQhUA12-bfJFtU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0Q4-Pvd8JMYPhAfWqUr0qU5kn92rjTfzeDuTADqijTHIqeQv4rh06w0KfsnTYtmKQhUA12-bfJFtU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-### 2019 P5&6 Motivational Talk titled “Are you far from Ordinary” to boost self-esteem and build confidence
+### 2019 P5&amp;6 Motivational Talk titled “Are you far from Ordinary” to boost self-esteem and build confidence
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtK-Y4qredQs-6-7FiHnNe6-h3nBmsYFMUDdpNqWQbOU1noWhLNqSO776domwWoo-KzqWqNoe3zKPS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

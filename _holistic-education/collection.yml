@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Departments/NFORMATION COMMUNICATION TECHNOLOGY (ICT).md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -15,6 +14,7 @@ collections:
       - Departments/Events.md
       - Departments/Lets Jam.md
       - Departments/Music.md
+      - Departments/NFORMATION COMMUNICATION TECHNOLOGY (ICT).md
       - Co Curricular Activities (CCA).md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md

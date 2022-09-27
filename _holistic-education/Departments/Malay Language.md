@@ -16,6 +16,7 @@ The programmes and activities that the department engages students in are as fol
 |  P3-P4 | Speech & Drama Workshop (story telling through drawing, acting and from an origami) |
 |  P3-P5 | ML cultural camp                                                                    |
 |  P3-P6 | Learning journey to ML Performance ‘ Tracing Singapore History through Malay Music’ |
+<br>
 
 |  Level |                                                                   MT Fortnight Activities                                                                  |
 |:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -24,5 +25,3 @@ The programmes and activities that the department engages students in are as fol
 | P1-P2  |  Playing traditional games (Nenek-nenek Si Bongkok Tiga)                                                                                                   |
 |  P4-P6 | Learning journey to Media Corporation (an interactive journey through the world of media and broadcasting of a TV show,  a radio DJ and a news presenter ) |
 |  P1-P4 | Sharing of local stories by an invited storyteller                                                                                                         |
-
-

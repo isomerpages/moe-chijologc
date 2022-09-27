@@ -2,11 +2,11 @@ collections:
   holistic-education:
     output: true
     order:
-      - Departments/Chinese Language.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
       - Departments/Science.md
+      - Departments/Chinese Language.md
       - Co Curricular Activities (CCA).md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md

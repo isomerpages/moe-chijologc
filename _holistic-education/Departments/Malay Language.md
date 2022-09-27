@@ -25,3 +25,4 @@ The programmes and activities that the department engages students in are as fol
 |  P4-P6 | Learning journey to Media Corporation (an interactive journey through the world of media and broadcasting of a TV show,  a radio DJ and a news presenter ) |
 |  P1-P4 | Sharing of local stories by an invited storyteller                                                                                                         |
 
+

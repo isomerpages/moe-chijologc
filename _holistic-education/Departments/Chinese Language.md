@@ -14,14 +14,16 @@ To enhance the various language skills, cultivate an appreciation for the Chines
 
 Games/ Activity based learning for students
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0BbYafhSNRSQstlzJR-ixQHY0v89IVio53vKYslNKhSAP_kHBKQKWbAJR3EFB_prOgJ9X9M4F56pb/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0BbYafhSNRSQstlzJR-ixQHY0v89IVio53vKYslNKhSAP_kHBKQKWbAJR3EFB_prOgJ9X9M4F56pb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Speech and Drama Programme
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQV116uyNk-ncK61C9iSzzQUoK-z-caZXYqKzkyY8oGa5beTgH8CrNOZc1N-yiDy2IDsjQmuU0TpPOg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV116uyNk-ncK61C9iSzzQUoK-z-caZXYqKzkyY8oGa5beTgH8CrNOZc1N-yiDy2IDsjQmuU0TpPOg/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Language and Cultural Camp
 
 
 Promotion of Chinese Culture and Values
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2lQ6ZEYnSUE4f92MGJNyO4jVKvNq9qMB0Zn5m_2vu-W1Rd3aU3__VLXxCSs8SOhuQuKgN7SjmiZIc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 

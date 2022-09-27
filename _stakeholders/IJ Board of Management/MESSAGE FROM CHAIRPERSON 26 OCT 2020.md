@@ -48,8 +48,8 @@ May God continue to bless CHIJ Our Lady of Good Counsel, her leaders, staff and 
 
 Yours in Christ  
 
-<img style="width: 15%;" src="/images/Sign_off.jpeg" align = "left" />
-<br><br><br>
+<img style="width: 10%;" src="/images/Sign_off.jpeg" align = "left" />
+<br><br>
 Ms Vivienne Lim
 
 Chairperson

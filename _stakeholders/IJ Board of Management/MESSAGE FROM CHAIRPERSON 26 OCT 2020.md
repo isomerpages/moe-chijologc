@@ -50,8 +50,6 @@ Yours in Christ
 
 <img style="width: 10%;" src="/images/Sign_off.jpeg" align = "left" />
 <br><br>
-Ms Vivienne Lim
-
-Chairperson
-
+Ms Vivienne Lim<br>
+Chairperson<br>
 CHIJ Board of Management

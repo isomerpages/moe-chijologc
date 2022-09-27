@@ -34,4 +34,4 @@ During the full Home Based Learning, our Primary 1 to Primary 3 students also co
 
 | Primary 1                        | Primary 2                                | Primary 3                           |
 |----------------------------------|------------------------------------------|-------------------------------------|
-| Skill: Origami<br>Theme: Animals | Skill: Origami<br>Theme:  Box Sculptures | Skill: Origami<br>Theme: Bas Relief |
+| Skill: Origami<br><br>Theme: Animals | Skill: Origami<br><br>Theme:  Box Sculptures | Skill: Origami<br><br>Theme: Bas Relief |

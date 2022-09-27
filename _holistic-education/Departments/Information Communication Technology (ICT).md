@@ -20,4 +20,25 @@ Students will be able to utilise appropriate digital tools and applications to o
 
 ### OLGC ICT Spiral Curriculum
 
+![](/images/Learning_with_mobile_tablets.jpeg)
+
+|         Level         |                                  Content                                  |
+|:---------------------:|:-------------------------------------------------------------------------:|
+|      Primary One      |      Basic Computer Operations, Touch-typing, Student Learning Space,     |
+|      Primary Two      |                   Student Learning Space, Microsoft Word                  |
+|     Primary Three     |                         Basic Microsoft PowerPoint                        |
+| Primary Four and Five | Intermediate Microsoft PowerPoint<br>Google Apps (using MOE Student ICON) |
+|      Primary Six      |                   Coding (IMDA’s Code-for Fun Programme)                  |
+
+
+
+### OLGC Coding Introductory Workshop  
+
+
+
+Starting in 2022, the school organizes the above enrichment workshop for interested P3, P4 and P5 students. 
+
+  
+
+Students are taught how to use the code.org platform to learn block-based coding. _Please click on the image below_ to view the students' reflection of their learning as well as samples of their completed coding tasks.
 

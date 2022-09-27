@@ -47,3 +47,6 @@ Students are taught how to use the code.org platform to learn block-based coding
 <img src="/images/2022-Coding-workshop-image1.jpeg" alt="W3Schools.com">
 </a>
 
+### Code-For-Fun Programme by IMDA
+
+

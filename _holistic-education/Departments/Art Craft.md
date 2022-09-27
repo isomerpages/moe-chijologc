@@ -35,3 +35,16 @@ During the full Home Based Learning, our Primary 1 to Primary 3 students also co
 | Primary 1                        | Primary 2                                | Primary 3                           |
 |----------------------------------|------------------------------------------|-------------------------------------|
 | Skill: Origami<br><br>Theme: Animals | Skill: Origami<br><br>Theme:  Box Sculptures | Skill: Origami<br><br>Theme: Bas Relief |
+
+The school also embarked on a whole school project since last 2019. Different level worked on different aspect of the 3D sculpture and their contribution were pieced together and the IJ City was born.  
+
+  
+
+**<center>Storyline for Sustainable Gallery Singapore IJ City artwork display</center>**
+_<center>Project Title: Building the IJ City- CHIJ Our Lady of Good Counsel</center>_  
+
+This artwork is a Bicentennial commemorative piece that aims to convey our students’ efforts and contributions to nation-building after they graduate. IJ schools have roots that date back to over 165 years and IJ students’ contribution to society is evident in whatever professions they choose to turn their dreams into reality.
+
+In response to Pope Francis's letter, "Laudato Si",   the school embarked on a recycling project where students conceptualised their dream city as one powered by clean, renewable energy and resources. Their collaborative effort aims to inspire the idea of sustainability as well as remind us of the negative impact that mass consumerism can have on the environment.  
+
+This artwork has been shifted to the Sustainable Singapore Gallery at Marina Barrage for an upcoming exhibition before the Circuit Breaker was enforced. Updates of the exhibition will be provided in the gallery’s website.

@@ -50,10 +50,10 @@ To encourage self-directed learning as well as to further interest our students 
 *   **Four-year Process Skills Development Programme**<br>
 Students are provided with opportunities to apply learned concepts and skills, by engaging the surrounding environment and its processes and phenomena for the purpose of inquiry, awareness and&nbsp;self-development.
 
-Skills
-------
+### Skills
 
-Engaging with an event, phenomenon or problem through:  
+
+<u>Engaging with an event, phenomenon or problem through:</u>
   
 
 *   Formulating hypothesis  
@@ -72,64 +72,52 @@ This is the skill of exploring all the alternatives, possibilities and choices b
 *   Predicting  
     
 
-This is the skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out.  
+This is the skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out.   
+
+<u>Collecting and presenting evidence through:</u>
 
   
-
-Collecting and presenting evidence through:  
-
-  
-
 *   Observing  
     
 
 This is the skill of using our senses to gather information about objects or events. This also includes the use of instruments to extend the range of our senses.  
 
-  
 
 *   Using apparatus and equipment
 
 This is the skill of knowing the functions and limitations of various apparatus, and developing the ability to select and handle them appropriately for various tasks.
-
   
 
-Reasoning; making meaning of information and evidence through:  
+<u>Reasoning; making meaning of information and evidence through:</u>
 
-  
 
 *   Comparing  
     
 
 This is the skill of identifying the similarities and differences between two or more objects, concepts or processes.  
-
   
 
 *   Classifying
 
 This is the skill of grouping objects or events based on common characteristics  
 
-  
 
 *   Inferring
 
 This is the skill of interpreting or explaining observations or pieces of data or information.  
 
-  
 
 *   Analysing
 
 This is the skill of identifying the parts of objects, information or processes, and the patterns and relationships between these parts.  
 
-  
 
 *   Evaluating
 
 This is the skill of assessing the reasonableness, accuracy and quality of information, processes or ideas. This is also the skill of assessing the quality and feasibility of objects.  
 
-  
 
-Communicating:  
-
-  
+<u>Communicating:</u>
 
 This is the skill of transmitting and receiving information presented in various forms - verbal, pictorial, tabular or graphical.
+

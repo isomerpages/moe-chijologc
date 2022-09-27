@@ -20,8 +20,8 @@ The programmes and activities that the department engages students in are as fol
 
 |  Level |                                                                   MT Fortnight Activities                                                                  |
 |:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  P1-P6 | Arabic Writing (Let’s Series) (Writing the word integrity in Arabic character)                                                                             |
+| P1-P6 | Arabic Writing (Let’s Series) (Writing the word integrity in Arabic character)                                                                             |
 |  P3-P4 | Playing traditional games (bola raga)                                                                                                                      |
 | P1-P2  |  Playing traditional games (Nenek-nenek Si Bongkok Tiga)                                                                                                   |
-|  P4-P6 | Learning journey to Media Corporation (an interactive journey through the world of media and broadcasting of a TV show,  a radio DJ and a news presenter ) |
-|  P1-P4 | Sharing of local stories by an invited storyteller                                                                                                         |
+| P4-P6 | Learning journey to Media Corporation (an interactive journey through the world of media and broadcasting of a TV show,  a radio DJ and a news presenter ) |
+| P1-P4 | Sharing of local stories by an invited storyteller                                                                                                         |

@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Departments/Lets Jam.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -13,6 +12,7 @@ collections:
       - Departments/Aesthetics.md
       - Departments/Art Craft.md
       - Departments/Events.md
+      - Departments/Lets Jam.md
       - Co Curricular Activities (CCA).md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md

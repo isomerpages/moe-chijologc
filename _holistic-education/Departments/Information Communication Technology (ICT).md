@@ -18,3 +18,6 @@ Students will be able to utilise appropriate digital tools and applications to o
 
 ![](/images/2022%20ICT%20Values.png)
 
+### OLGC ICT Spiral Curriculum
+
+

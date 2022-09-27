@@ -20,7 +20,8 @@ Students will be able to utilise appropriate digital tools and applications to o
 
 ### OLGC ICT Spiral Curriculum
 
-![](/images/Learning_with_mobile_tablets.jpeg)
+<img style="width: 50%;" src="/images/Learning_with_mobile_tablets.jpeg" align = "right" />
+
 
 |         Level         |                                  Content                                  |
 |:---------------------:|:-------------------------------------------------------------------------:|
@@ -41,4 +42,8 @@ Starting in 2022, the school organizes the above enrichment workshop for interes
   
 
 Students are taught how to use the code.org platform to learn block-based coding. _Please click on the image below_ to view the students' reflection of their learning as well as samples of their completed coding tasks.
+
+<a href="https://sites.google.com/moe.edu.sg/2022codingworkshopolgc">
+<img src="/images/2022-Coding-workshop-image1.jpeg" alt="W3Schools.com">
+</a>
 

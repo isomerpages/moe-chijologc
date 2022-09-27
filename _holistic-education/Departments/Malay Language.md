@@ -10,11 +10,18 @@ A variety of activities are lined up to engage students in learning and to provi
   
 The programmes and activities that the department engages students in are as follows:
 
-|                        Activity / Events                        |                                                                          Description                                                                          |    Date   |
-|:---------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|
-| Serangoon National Day Dinner 2019                              | Students performed at The Serangoon Grassroots Organisations                                                                                                  | July 2019 |
-| School Dance Showcase at Youths Celebrate! @ Gardens by the Bay | Students performed at Gardens by the Bay in celebration of Youth Festival, having a unique opportunity to perform under the SuperTrees at the SuperTree Grove |  May 2017 |
-| Hit the Mark                                                    |                                                                           Champion                                                                            |    2017   |
-| SYF Arts Presentation                                           |                                                                  Certificate of Distinction                                                                   |   2016    |
-| CNB DanceWorks! 2016                                            |                                                          Merit Award Artistic Merit Award Best Costume                                                        |    2016   |
+|  Level |                                 Enrichment Programme                                |
+|:------:|:-----------------------------------------------------------------------------------:|
+|  P1-P2 | Speech & Drama Workshop (acting through music and dancing)                          |
+|  P3-P4 | Speech & Drama Workshop (story telling through drawing, acting and from an origami) |
+|  P3-P5 | ML cultural camp                                                                    |
+|  P3-P6 | Learning journey to ML Performance ‘ Tracing Singapore History through Malay Music’ |
+
+|  Level |                                                                   MT Fortnight Activities                                                                  |
+|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  P1-P6 | Arabic Writing (Let’s Series) (Writing the word integrity in Arabic character)                                                                             |
+|  P3-P4 | Playing traditional games (bola raga)                                                                                                                      |
+| P1-P2  |  Playing traditional games (Nenek-nenek Si Bongkok Tiga)                                                                                                   |
+|  P4-P6 | Learning journey to Media Corporation (an interactive journey through the world of media and broadcasting of a TV show,  a radio DJ and a news presenter ) |
+|  P1-P4 | Sharing of local stories by an invited storyteller                                                                                                         |
 

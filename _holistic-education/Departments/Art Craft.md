@@ -13,6 +13,8 @@ The Art Department at CHIJ Our Lady of Good Counsel aims to expose our students 
 **Primary 1: Garden Dots**
 ![](/images/P1%20dots.jpeg)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-Go1iHL-_5NvMnkjIt3Efyqo1nYFgoGgjQj3jehtw1nFrLRXVjvf9wFR7AZTdLMKb87BgADH3p7-O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-Go1iHL-_5NvMnkjIt3Efyqo1nYFgoGgjQj3jehtw1nFrLRXVjvf9wFR7AZTdLMKb87BgADH3p7-O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Primary 2: Novel Self-portrait**

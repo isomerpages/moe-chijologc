@@ -57,7 +57,6 @@ Students are provided with opportunities to apply learned concepts and skills, b
   
 
 *   Formulating hypothesis  
-    
 
 This is the skill of making a general explanation for a related set of observations or events. It is an extension of inferring.  
 
@@ -67,11 +66,10 @@ This is the skill of making a general explanation for a related set of observati
 
 This is the skill of exploring all the alternatives, possibilities and choices beyond the obvious or preferred one.  
 
-  
+
 
 *   Predicting  
     
-
 This is the skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out.   
 
 <u>Collecting and presenting evidence through:</u>
@@ -121,3 +119,34 @@ This is the skill of assessing the reasonableness, accuracy and quality of infor
 
 This is the skill of transmitting and receiving information presented in various forms - verbal, pictorial, tabular or graphical.
 
+### Processes
+
+
+Processes are complex operations which require the use of several skills.  
+  
+
+*   Creative Problem Solving  
+    
+Analysing a problem and choosing an innovative and relevant solution to alter a problem situation.  
+
+  
+
+*   Decision-Making  
+    
+Establishing and applying criteria to select from among seemingly equal alternatives with consideration to consequences and values.  
+
+  
+
+*   Investigation  
+    
+Formulating questions or hypotheses as well as devising and conducting fair methods to verify the stated hypotheses.  
+
+### Useful Links
+
+
+*   [http://www.bbc.co.uk/bitesize/ks2/science/](http://www.bbc.co.uk/bitesize/ks2/science/)
+*   [http://interactivesites.weebly.com/science.html](http://interactivesites.weebly.com/science.html)  
+    
+*   [http://www.planet-science.com/](http://www.planet-science.com/)  
+    
+*   [http://www.harcourtschool.com/menus/science/grade2\_nl.html](http://www.harcourtschool.com/menus/science/grade2_nl.html)

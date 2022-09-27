@@ -20,7 +20,7 @@ Students will be able to utilise appropriate digital tools and applications to o
 
 ### OLGC ICT Spiral Curriculum
 
-<img style="width: 50%;" src="/images/Learning_with_mobile_tablets.jpeg" align = "right" />
+<img align="right" src="/images/Learning_with_mobile_tablets.jpeg" style="width: 50%;">
 
 
 |         Level         |                                  Content                                  |
@@ -37,16 +37,17 @@ Students will be able to utilise appropriate digital tools and applications to o
 
 
 
-Starting in 2022, the school organizes the above enrichment workshop for interested P3, P4 and P5 students. 
+Starting in 2022, the school organizes the above enrichment workshop for interested P3, P4 and P5 students.&nbsp;
 
   
 
-Students are taught how to use the code.org platform to learn block-based coding. _Please click on the image below_ to view the students' reflection of their learning as well as samples of their completed coding tasks.
+Students are taught how to use the code.org platform to learn block-based coding.&nbsp;_Please click on the image below_&nbsp;to view the students' reflection of their learning as well as samples of their completed coding tasks.
 
 <a href="https://sites.google.com/moe.edu.sg/2022codingworkshopolgc">
-<img src="/images/2022-Coding-workshop-image1.jpeg" alt="W3Schools.com">
+<img alt="W3Schools.com" src="/images/2022-Coding-workshop-image1.jpeg">
 </a>
 
 ### Code-For-Fun Programme by IMDA
 
+<iframe allowfullscreen="true" height="296" width="527" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbre9NKT_2IwpVn6qYg_WENqPdediSJs1QUbkBe1N8xqJ02rbzmPaRJX4in1pzWMxZ9kEUjdCxRYYr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 

@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Departments/Malay Language.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md

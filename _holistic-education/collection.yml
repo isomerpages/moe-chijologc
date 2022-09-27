@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Departments/NFORMATION COMMUNICATION TECHNOLOGY (ICT).md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md

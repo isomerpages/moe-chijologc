@@ -30,3 +30,8 @@ The Art Department at CHIJ Our Lady of Good Counsel aims to expose our students 
 **Primary 5: World Copy Drawing**
 <iframe allowfullscreen="true" height="397" width="654" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLLH2Mhe4I50gJLnGQ8dH6wFlAqCIG_lLsIcjuFs_DQJXRJ7h-O27O_c5XZgIWQjlGRzGqERgVuEpz/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+During the full Home Based Learning, our Primary 1 to Primary 3 students also completed an artwork based on the simple idea of Origami or paper folding. Using square coloured papers that they have at home, our students were guided to complete the following projects
+
+| Primary 1                        | Primary 2                                | Primary 3                           |
+|----------------------------------|------------------------------------------|-------------------------------------|
+| Skill: Origami<br>Theme: Animals | Skill: Origami<br>Theme:  Box Sculptures | Skill: Origami<br>Theme: Bas Relief |

@@ -15,6 +15,9 @@ The Art Department at CHIJ Our Lady of Good Counsel aims to expose our students 
 
 
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-Go1iHL-_5NvMnkjIt3Efyqo1nYFgoGgjQj3jehtw1nFrLRXVjvf9wFR7AZTdLMKb87BgADH3p7-O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="518" width="310" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-Go1iHL-_5NvMnkjIt3Efyqo1nYFgoGgjQj3jehtw1nFrLRXVjvf9wFR7AZTdLMKb87BgADH3p7-O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Primary 2: Novel Self-portrait**
+
+
+

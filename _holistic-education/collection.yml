@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Departments/Physical Education.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -16,6 +15,7 @@ collections:
       - Departments/Lets Jam.md
       - Departments/Music.md
       - Departments/Information Communication Technology (ICT).md
+      - Departments/Physical Education.md
       - Co Curricular Activities (CCA).md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md

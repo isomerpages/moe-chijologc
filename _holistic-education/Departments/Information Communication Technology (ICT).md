@@ -16,7 +16,8 @@ In OLGC, students undergo an ICT training programme to equip them with the skill
 
 Students will be able to utilise appropriate digital tools and applications to organise own learning, create reports or presentations to document own learning and utilise appropriate digital tools and applications to work with others and share information.
 
-![](/images/2022%20ICT%20Values.png)
+<img style="width: 50%;" src="/images/2022%20ICT%20Values.png" align="center">
+
 
 ### OLGC ICT Spiral Curriculum
 
@@ -54,3 +55,38 @@ Students are taught how to use the code.org platform to learn block-based coding
 ### Student iCON/Google Suite Training
 
 <iframe allowfullscreen="true" height="296" width="527" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFfHQqhWk4PAwe8GVQG9XM1pq21QhsoIcB3dyUcYExbP2qLtjP3ndGvW0UCwwYUQJ8223d4rSQ3Wzx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+### Cyber Wellness
+
+
+_The Cyber wellness Framework uses the “**Think, Sense and Act**” Approach to educate students on how to act responsibly in Cyber Space:_
+
+<img style="width: 50%;" src="/images/Cyber_wellness_framework.jpeg" align="center">
+
+_(Image of Cyber Wellness Framework taken from MOE’s Cyber wellness Education, Singapore)_
+
+**Guiding Principles for Cyber Wellness:**  
+
+*   Respect for Self and Others
+
+Students need to:   
+
+*   uphold their own dignity when online (e.g. share appropriate content and participate in only legal online activities) 
+*   respect other people online (e.g. put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work and seek permission where necessary, avoid sharing hurtful materials)  
+    
+
+*   Safe and Responsible Use 
+
+Students need to:
+
+*   have an understanding of the risks of harmful and illegal online behaviour, and take steps to protect themselves (e.g. keep their personal information private, verify the reliability of information using various sources, take steps to avoid dangers they may encounter online)
+*    make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities)
+
+*   Positive Peer Influence
+
+Students need to:  
+
+*   be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)  
+    
+*   advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
+

@@ -22,6 +22,114 @@ To excite our students and encourage self-directed learning, our students undert
 
 Science learning journeys bring excitement and curiosity for Science to a higher level. These learning journeys support the curriculum as well as further enhance our students’ learning and attitude towards Science.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyvRph3GTn-fdgSveADDwmzh314pRQsYGMM3vonxQMWCjuc1jUTfuL5RqP2mKNsrI1_5ULWYLEdg_6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyvRph3GTn-fdgSveADDwmzh314pRQsYGMM3vonxQMWCjuc1jUTfuL5RqP2mKNsrI1_5ULWYLEdg_6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 P6 Students observing specimens of different body parts of birds
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnIPIl1YFdFSRiOOIlXcMfHVAzx51nROEHgCwR73GCj-pNvv6L2ANFgy5knuIXLCQRCsk1i8ZkdN2w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Learning about different organisms during let’s explore science!  
+  
+
+*   **Science Supplementary and Remedial Lessons**
+
+To better support and stretch our students in their learning of Science, supplementary and remedial lessons are conducted weekly.&nbsp;&nbsp;  
+
+  
+
+*   **Young Professor Activities**  
+    
+
+To encourage self-directed learning as well as to further interest our students in the curriculum, our students also undertake to complete the activities in the Young Professor Award Series:&nbsp;  
+
+*   P3 - Young Theophrastus Award  
+     
+ *   P4 - Young Aristotle Award  
+     
+   *   P5 - Young Darwin Award
+
+*   **Four-year Process Skills Development Programme**<br>
+Students are provided with opportunities to apply learned concepts and skills, by engaging the surrounding environment and its processes and phenomena for the purpose of inquiry, awareness and&nbsp;self-development.
+
+Skills
+------
+
+Engaging with an event, phenomenon or problem through:  
+  
+
+*   Formulating hypothesis  
+    
+
+This is the skill of making a general explanation for a related set of observations or events. It is an extension of inferring.  
+
+  
+
+*   Generating possibilities
+
+This is the skill of exploring all the alternatives, possibilities and choices beyond the obvious or preferred one.  
+
+  
+
+*   Predicting  
+    
+
+This is the skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out.  
+
+  
+
+Collecting and presenting evidence through:  
+
+  
+
+*   Observing  
+    
+
+This is the skill of using our senses to gather information about objects or events. This also includes the use of instruments to extend the range of our senses.  
+
+  
+
+*   Using apparatus and equipment
+
+This is the skill of knowing the functions and limitations of various apparatus, and developing the ability to select and handle them appropriately for various tasks.
+
+  
+
+Reasoning; making meaning of information and evidence through:  
+
+  
+
+*   Comparing  
+    
+
+This is the skill of identifying the similarities and differences between two or more objects, concepts or processes.  
+
+  
+
+*   Classifying
+
+This is the skill of grouping objects or events based on common characteristics  
+
+  
+
+*   Inferring
+
+This is the skill of interpreting or explaining observations or pieces of data or information.  
+
+  
+
+*   Analysing
+
+This is the skill of identifying the parts of objects, information or processes, and the patterns and relationships between these parts.  
+
+  
+
+*   Evaluating
+
+This is the skill of assessing the reasonableness, accuracy and quality of information, processes or ideas. This is also the skill of assessing the quality and feasibility of objects.  
+
+  
+
+Communicating:  
+
+  
+
+This is the skill of transmitting and receiving information presented in various forms - verbal, pictorial, tabular or graphical.

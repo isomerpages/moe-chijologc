@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Departments/Aesthetics.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -10,6 +9,7 @@ collections:
       - Departments/Chinese Language.md
       - Departments/Malay Language.md
       - Departments/Tamil Language.md
+      - Departments/Aesthetics.md
       - Co Curricular Activities (CCA).md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md

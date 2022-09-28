@@ -42,7 +42,7 @@ At the IJ Forum held in March this year, 6 alumnae who hail from various walks o
 
 *<center>And passed the cake to me.</center>*
 
-*<center>Jessica Nelson North*</center>
+*<center>Jessica Nelson North</center>*
 	
 Thank you and God bless.
 

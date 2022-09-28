@@ -17,7 +17,7 @@ sections:
           url: /Spotlight/
         - title: Events
           description: ""
-          url: ""
+          url: /Events/
   - infopic:
       title: Awards
       image: /images/awards.jpeg

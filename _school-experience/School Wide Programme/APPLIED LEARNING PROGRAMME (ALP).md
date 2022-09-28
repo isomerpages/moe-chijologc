@@ -17,5 +17,5 @@ To achieve the vision of our school, teachers strive to ensure students’ achie
 | Philosophy for Children (P4C)  |  P1-6  |
 |  Oratorical                    | P4-6   |
 | Debate                         |  P5&amp;6  |
-
+<br>
 <iframe allowfullscreen="true" height="451" width="684" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRw5s2ZStEz-N-qr94u7QGddzLP-zmJW8GPgsnZOzWFz6OCfkAD06qqwjqdLtdlN2L6VDbJ2sRKdhsU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

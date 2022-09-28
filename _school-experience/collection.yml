@@ -2,5 +2,4 @@ collections:
   school-experience:
     output: true
     order:
-      - School Wide Programme.md
       - 60th Anniversary.md

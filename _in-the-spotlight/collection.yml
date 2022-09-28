@@ -1,4 +1,5 @@
 collections:
   in-the-spotlight:
     output: true
-    order: []
+    order:
+      - IJ VOICES.md

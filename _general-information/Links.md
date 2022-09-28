@@ -23,4 +23,3 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | ![](/images/logo-moe.jpeg)     | ![](/images/School%20Bag.png)     |   ![https://www.learning.moe.edu.sg/sls/index.html](/images/SLS_logo.png)   |
-

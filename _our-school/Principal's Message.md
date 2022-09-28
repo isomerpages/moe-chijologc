@@ -23,17 +23,16 @@ When we look at the world around us, we see brokenness. The recent attacks in Ch
 At the IJ Forum held in March this year, 6 alumnae who hail from various walks of life and are all making a positive difference to others both locally and around the world, shared about their lives. One who is in her late 20s, established the Barré Group which is a non-profit organisation benefitting ethnic minorities in Vietnam. What struck us was how upholding the IJ motto “Simple in Virtue, Steadfast in Duty” guided them in everything they did. When asked what sparked these ideals in them, all cited their beliefs and values which they imbibed from school and family. Their life experiences and how they made sense of the world around them and their interactions they had, influenced their outlook in becoming a servant leader. Being a servant leader meant sharing what they had with others and respecting differences around them, working for the common good, even if it meant personal sacrifice. Their lives reflect a deep love for others and hearts ready to serve. And these are what we continue to focus on in the learning experiences we provide in OLGC. We look to all parents of our OLGC girls to work in partnership with us to nourish these seeds of love for others and readiness to serve others. In this way, we hope that our girls would bloom into ‘Ladies of Character, Leaders for Tomorrow’, thus ensuring that the legacy of Blessed Barré and Mother Mathilde will carry on.
 
 <center>The Tea Party</center> 
-
-*<center>I had a little tea party</center>*
-*<center>This afternoon at three</center>*
-*<center>Twas very small</center>* 
-*<center>Three guests in all - </center>* 
-*<center>Just I, myself and me.</center>*
-*<center>Myself ate up the sandwiches,</center>*
-*<center>While I drank up the tea.</center>*
-*<center>Twas also I who ate the pie,</center>*
-*<center>And passed the cake to me.</center>*
-*<center>Jessica Nelson North</center>*
+<center>I had a little tea party</center>
+<center>This afternoon at three</center>
+<center>Twas very small</center>
+<center>Three guests in all-</center>
+<center>Just I, myself and me.</center>
+<center>Myself ate up the sandwiches,</center>
+<center>While I drank up the tea.</center>
+<center>Twas also I who ate the pie,</center>
+<center>And passed the cake to me.</center>
+<center>- Jessica Nelson North</center>
 	
 Thank you and God bless.
 

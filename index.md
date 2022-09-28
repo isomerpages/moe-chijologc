@@ -12,9 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements/
-        - title: In the spotlight
+        - title: In The Spotlight
           description: ""
-          url: ""
+          url: /Spotlight/
         - title: Events
           description: ""
           url: ""

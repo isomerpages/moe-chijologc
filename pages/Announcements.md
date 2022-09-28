@@ -23,6 +23,8 @@ description: ""
 
 * [Updates On School Dental Service](/Announcements/Dental-Service-Update/)
 
+* [Cardigan Size Chart]()
+
 *   [PSLE Syllabus](https://www.seab.gov.sg/)
     
 *   [MOE Syllabus](https://www.moe.gov.sg/education/syllabuses/)

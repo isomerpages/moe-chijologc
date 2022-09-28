@@ -8,9 +8,10 @@ description: ""
 |                                              |
 |----------------------------------------------|
 | <img style="width: 25%;" src="/images/IJ%20Voices.png" align = "left" />&nbsp; [IJ Voices](/in-the-spotlight/permalink/)                                   |
-| President's Award for Teachers 2022          |
+| <img style="width: 25%;" src="/images/President'sAward.jpeg" align = "left" />&nbsp; [President's Award for Teachers 2022](/in-the-spotlight/permalink/)          |
 | Caring Teacher Awards (CTA) 2022             |
 | HBL Timetable 2021 (Term 3 Week 1)           |
 | Our 60th Anniversary                         |
 | Updates on School Dental Service             |
 | A Bouquet of Thanks From Our Student Leaders |
+

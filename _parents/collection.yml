@@ -2,6 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Slides & Resources/SLS Support For Home Based Learning.md
-      - Slides & Resources/Slides & Resources.md
       - Slides & Resources/.keep
+      - Slides & Resources/Slides & Resources.md
+      - Slides & Resources/SLS Support For Home Based Learning.md

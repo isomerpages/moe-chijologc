@@ -11,5 +11,4 @@ description: ""
 
 * [SLS Support For Home-Based Learning](https://staging.d1qu38ykr1wc9w.amplifyapp.com/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 
-*   [Student iCON FAQ](https://chijourladyofgoodcounsel.moe.edu.sg/others/announcements/student-icon-google-suite)
-
+*   [Student iCON FAQ](/announcements/Student-iCON-Google-Suite/)

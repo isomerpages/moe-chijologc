@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Links.md
       - Slides & Resources/.keep
       - Slides & Resources/Slides & Resources.md
       - Slides & Resources/SLS Support For Home Based Learning.md
@@ -12,3 +11,4 @@ collections:
       - Financial Information.md
       - Contact Us.md
       - Frequently Asked Questions.md
+      - Links.md

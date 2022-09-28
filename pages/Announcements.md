@@ -23,7 +23,7 @@ description: ""
 
 * [Updates On School Dental Service](/Announcements/Dental-Service-Update/)
 
-* [Cardigan Size Chart]()
+* [Cardigan Size Chart](/Announcements/Size-Chart/)
 
 *   [PSLE Syllabus](https://www.seab.gov.sg/)
     

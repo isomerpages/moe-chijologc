@@ -22,7 +22,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![](/images/logo-moe.jpeg)     | ![](/images/School%20Bag.png)     |   ![https://www.learning.moe.edu.sg/sls/index.html](/images/SLS_logo.png)   |
+| ![](/images/logo-moe.jpeg)     | ![](/images/School%20Bag.png)     |    <a href="https://pagedart.com"><img src="/images/SLS_logo.png"> </a>   |
 
 ### Educational Websites
 

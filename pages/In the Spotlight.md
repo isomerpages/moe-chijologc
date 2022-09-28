@@ -3,3 +3,14 @@ title: In the Spotlight
 permalink: /Spotlight/
 description: ""
 ---
+## In The Spotlight
+
+|                                              |
+|----------------------------------------------|
+| ![](/images/IJ%20Voices.png)IJ Voices                                    |
+| President's Award for Teachers 2022          |
+| Caring Teacher Awards (CTA) 2022             |
+| HBL Timetable 2021 (Term 3 Week 1)           |
+| Our 60th Anniversary                         |
+| Updates on School Dental Service             |
+| A Bouquet of Thanks From Our Student Leaders |

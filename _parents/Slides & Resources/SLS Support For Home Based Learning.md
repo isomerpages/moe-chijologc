@@ -54,4 +54,4 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 
   
 
-For Form teachers Email Address please click [here](https://chijourladyofgoodcounsel.moe.edu.sg/our-school/school-staff/teaching-staff).
+For Form teachers Email Address please click [here](https://staging.d1qu38ykr1wc9w.amplifyapp.com/our-school/School-Staff/Teaching-Staff/).

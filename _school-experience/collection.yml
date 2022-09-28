@@ -2,5 +2,6 @@ collections:
   school-experience:
     output: true
     order:
+      - School Wide Programme/APPLIED LEARNING PROGRAMME (ALP).md
       - School Wide Programme/.keep
       - 60th Anniversary.md

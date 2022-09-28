@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Financial Information.md
       - Slides & Resources/.keep
       - Slides & Resources/Slides & Resources.md
       - Slides & Resources/SLS Support For Home Based Learning.md
@@ -11,3 +10,4 @@ collections:
       - School Booklist 2022.md
       - Contact Us.md
       - Frequently Asked Questions.md
+      - Financial Information.md

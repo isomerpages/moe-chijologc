@@ -16,3 +16,6 @@ description: ""
 | 1933 CHIJ St. Nicholas Girls' School (Full School) | 1933 CHIJ St. Theresa's Convent (Sec) |
 | 1938 CHIJ St.Joseph's Convent (Sec)                | 1955 CHIJ Queen of Peace (Pri)        |
 | 1957 CHIJ Our Lady of Nativity (Pri)               | 1964 CHIJ Kellock                     |
+
+
+![](/images/logo-moe.jpeg) 

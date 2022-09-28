@@ -29,4 +29,4 @@ third_nav_title: Slides & Resources
 
 [SLS Account Management](/files/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf)
 
-[SLS Support for Home-based Learning](https://chijourladyofgoodcounsel.moe.edu.sg/parents/slides-n-resources/sls-support-for-home-based-learning)
+[SLS Support for Home-based Learning](https://staging.d1qu38ykr1wc9w.amplifyapp.com/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)

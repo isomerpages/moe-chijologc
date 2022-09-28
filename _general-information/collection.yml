@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Booklist 2022.md
       - Parent Volunteer Registration For P1 (2023).md
       - Forms.md
       - Slides & Resources.md

@@ -12,3 +12,5 @@ description: ""
 * [SLS Support For Home-Based Learning](https://staging.d1qu38ykr1wc9w.amplifyapp.com/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 
 *   [Student iCON FAQ](/announcements/Student-iCON-Google-Suite/)
+
+*   [Parenting Support: Helping your child cope with difficult feelings]()

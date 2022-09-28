@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Financial Information.md
       - Slides & Resources/.keep
       - Slides & Resources/Slides & Resources.md
       - Slides & Resources/SLS Support For Home Based Learning.md

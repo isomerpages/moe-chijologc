@@ -30,7 +30,7 @@ _This afternoon at three_
 
 _Twas very small_ 
 
-_Three guests in all –_ 
+_Three guests in all_ 
 
 _Just I, myself and me._
 
@@ -42,7 +42,7 @@ _Twas also I who ate the pie,_ 
 
 _And passed the cake to me._ 
 
-_\- Jessica Nelson North_</center>
+_Jessica Nelson North_ </center>
 	
 Thank you and God bless.
 

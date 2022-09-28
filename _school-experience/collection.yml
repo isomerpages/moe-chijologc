@@ -2,7 +2,6 @@ collections:
   school-experience:
     output: true
     order:
-      - LEARNING FOR LIFE PROGRAMME (LLP).md
       - School Wide Programme/APPLIED LEARNING PROGRAMME (ALP).md
       - School Wide Programme/.keep
       - 60th Anniversary.md

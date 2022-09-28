@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Departments/Character and Citizenship Programme.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -17,6 +16,7 @@ collections:
       - Departments/Music.md
       - Departments/Information Communication Technology (ICT).md
       - Departments/Physical Education.md
+      - Departments/Character and Citizenship Programme.md
       - Co Curricular Activities (CCA).md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md

@@ -18,10 +18,8 @@ sections:
         - title: Events
           description: ""
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Awards
+      image: /images/awards.jpeg
+      alt: Image alt text
 ---

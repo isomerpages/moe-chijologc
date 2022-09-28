@@ -18,4 +18,9 @@ description: ""
 | 1957 CHIJ Our Lady of Nativity (Pri)               | 1964 CHIJ Kellock                     |
 
 
-![](/images/logo-moe.jpeg) 
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| ![](/images/logo-moe.jpeg)     | ![](/images/School%20Bag.png)     |   ![https://www.learning.moe.edu.sg/sls/index.html](/images/SLS_logo.png)   |
+

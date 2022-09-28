@@ -13,4 +13,10 @@ description: ""
 
 *   [Student iCON FAQ](/Announcements/Student-iCON-Google-Suite/)
 
-*   [Parenting Support: Helping your child cope with difficult feelings]()
+*   [Parenting Support: Helping your child cope with difficult feelings](/Announcements/Parenting-Support/)
+
+* [Triple P: Positive Parenting Program](/files/2022%20Triple%20P.pdf)
+
+* [The IJ Education](https://catholicnews.sg/2021/08/08/the-ij-education/)
+
+* [Message from Chairperson of CHIJ Board of Management]()

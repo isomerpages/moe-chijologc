@@ -22,3 +22,7 @@ description: ""
 * [Message from Chairperson of CHIJ Board of Management](https://staging.d1qu38ykr1wc9w.amplifyapp.com/stakeholders/IJ-Board-of-Management/permalink/)
 
 * [Updates On School Dental Service](/Announcements/Dental-Service-Update/)
+
+*   [PSLE Syllabus](https://www.seab.gov.sg/)
+    
+*   [MOE Syllabus](https://www.moe.gov.sg/education/syllabuses/)

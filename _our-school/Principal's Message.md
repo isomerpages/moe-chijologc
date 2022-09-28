@@ -25,23 +25,14 @@ At the IJ Forum held in March this year, 6 alumnae who hail from various walks o
 <center>The Tea Party</center> 
 
 *<center>I had a little tea party</center>*
-
 *<center>This afternoon at three</center>*
-
 *<center>Twas very small</center>* 
-
 *<center>Three guests in all - </center>* 
-
 *<center>Just I, myself and me.</center>*
-
 *<center>Myself ate up the sandwiches,</center>*
-
 *<center>While I drank up the tea.</center>*
-
 *<center>Twas also I who ate the pie,</center>*
-
 *<center>And passed the cake to me.</center>*
-
 *<center>Jessica Nelson North</center>*
 	
 Thank you and God bless.

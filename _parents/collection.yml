@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Booklist 2022.md
       - Slides & Resources/.keep
       - Slides & Resources/Slides & Resources.md
       - Slides & Resources/SLS Support For Home Based Learning.md

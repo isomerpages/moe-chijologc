@@ -1,0 +1,4 @@
+collections:
+  in-the-spotlight:
+    output: true
+    order: []

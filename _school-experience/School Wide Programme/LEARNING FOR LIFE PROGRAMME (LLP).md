@@ -22,4 +22,5 @@ Hand (Inspire, Lead and Serve) – Developing students’ behaviour through prov
 
 ### CHIJ 165th Anniversary Forum
 
+<img style="width: 25%;" src="/images/CHIJ_165th_Anniversary_Forum.jpeg" align = "left" /> Selected Primary 5 and 6 student leaders took part in the CHIJ 165th Anniversary Forum held on 9 March 2019 at Catholic Junior College. The keynote speaker and panel members for the forum consist of former CHIJ girls who come from the various industries, have imbued the IJ spirit and live the mission in their lives. The forum aims to inspire our student leaders on how their IJ sisters have contributed to those around them.
 

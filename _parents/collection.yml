@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - PARENT VOLUNTEER REGISTRATION FOR P1 (2023).md
       - Slides & Resources/.keep
       - Slides & Resources/Slides & Resources.md
       - Slides & Resources/SLS Support For Home Based Learning.md
       - Forms.md
+      - PARENT VOLUNTEER REGISTRATION FOR P1 (2023).md

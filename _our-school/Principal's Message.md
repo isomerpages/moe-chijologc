@@ -30,7 +30,7 @@ At the IJ Forum held in March this year, 6 alumnae who hail from various walks o
 
 *<center>Twas very small</center>* 
 
-*<center>Three guests in all –</center>* 
+*<center>Three guests in all - </center>* 
 
 *<center>Just I, myself and me.</center>*
 

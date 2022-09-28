@@ -19,6 +19,12 @@ sections:
           description: ""
           url: ""
   - infopic:
+      title: In The Spotlight
+      description: Infopic description
+      button: Click here to see all in spotlight
+      url: /in-the-spotlight/IJ-VOICES/
+      image: /images/IJ Voices.png
+  - infopic:
       title: Awards
       image: /images/awards.jpeg
       alt: Image alt text

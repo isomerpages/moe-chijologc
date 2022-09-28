@@ -2,5 +2,6 @@ collections:
   general-information:
     output: true
     order:
+      - Forms.md
       - Slides & Resources.md
       - SLS Support For Home Based Learning.md

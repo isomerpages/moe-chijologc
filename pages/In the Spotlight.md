@@ -7,7 +7,7 @@ description: ""
 
 |                                              |
 |----------------------------------------------|
-| <img style="width: 25%;" src="/images/IJ%20Voices.png" align = "left" />&nbsp; [IJ Voices]()                                   |
+| <img style="width: 25%;" src="/images/IJ%20Voices.png" align = "left" />&nbsp; [IJ Voices](/in-the-spotlight/permalink/)                                   |
 | President's Award for Teachers 2022          |
 | Caring Teacher Awards (CTA) 2022             |
 | HBL Timetable 2021 (Term 3 Week 1)           |

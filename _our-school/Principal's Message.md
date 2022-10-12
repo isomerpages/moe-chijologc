@@ -29,7 +29,7 @@ This afternoon at three<br>
 Twas very small<br>
 Three guests in all-<br>
 Just I, myself and me.<br>
-<br>	
+<br></br>	
 Myself ate up the sandwiches,<br>
 While I drank up the tea.<br>
 Twas also I who ate the pie,<br>

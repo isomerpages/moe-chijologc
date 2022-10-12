@@ -10,7 +10,7 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: Announcements
-          description: ""
+          description: (Click Here)
           url: /Announcements/
         - title: In The Spotlight
           description: ""

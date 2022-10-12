@@ -4,13 +4,12 @@ permalink: /stakeholders/IJ-Board-of-Management/Chairperson-Message-Oct-2021/
 description: ""
 third_nav_title: IJ Board of Management
 ---
-
 ## MESSAGE FROM CHAIRPERSON OCTOBER 2021
 
 
 <img style="width: 50%;" src="/images/Header.jpeg" align = "center" />
 
-<center>Message from Chairperson of CHIJ Board of Management</center>
+**Message from Chairperson of CHIJ Board of Management**
 
 We are grateful for the blessings we have received this year. As we draw a close to the school year in 2021 we use this time to take stock. Here is a message from Ms Vivienne Lim, Chairperson IJ Board of Management. Echoing Ms Lim’s message, we at OLGC will continue to be committed to  develop our students holistically
 

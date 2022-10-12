@@ -31,7 +31,7 @@ The Learning Foci (the&nbsp;**3E**s):
 ### Competitions
 
 
-The Robotics Club CCA provides opportunities for students to participate in competitions such as the Asia Pacific Youth Robotics Competitio (APYRC), the National Robotics Competition (NRC), and the World Robo Tournament (WRT).
+The Robotics Club CCA provides opportunities for students to participate in competitions such as the Asia Pacific Youth Robotics Competition (APYRC), the National Robotics Competition (NRC), and the World Robo Tournament (WRT).
 
 ### Achievements
 

@@ -4,16 +4,11 @@ permalink: /parents/Slides-and-Resources/
 description: ""
 third_nav_title: Slides & Resources
 ---
-
-
-
 ## Slides & Resources
 
 ### Precautionary measures to manage COVID-19
 
 [Precautionary measures guide](/images/Beat%20the%20Bug.jpeg)
-
-[FAQs for COVID-19 infection in Singapore](https://www.moe.gov.sg/faqs-wuhan-coronavirus-infection)
 
 ### General Information
 

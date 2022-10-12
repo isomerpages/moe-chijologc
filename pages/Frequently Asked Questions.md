@@ -3,14 +3,11 @@ title: Frequently Asked Questions
 permalink: /our-school/FAQ/
 description: ""
 ---
-
-
-
 ## FAQ
 
 **Frequently Asked Questions**  
   
-**Q1. Where can I find information on the school services?** You may click [here](http://chijourladyofgoodcounsel.moe.edu.sg/our-school/school-services) for the link.  
+**Q1. Where can I find information on the school services?** You may click [here](/our-school/school-services) for the link.  
 
 **Q2. What are the recess time?**
 

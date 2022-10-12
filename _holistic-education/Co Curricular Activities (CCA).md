@@ -10,7 +10,7 @@ CCA is an integral part of our students’ holistic education. The aim of CCA is
 
 | SPORTS & GAMES (4) | CCA                  | TEACHERS  IN CHARGE                                                             | DAY           | TIME                                                 | VENUE                     |
 |--------------------|----------------------|---------------------------------------------------------------------------------|---------------|------------------------------------------------------|---------------------------|
-|                    | Badminton            |        Ms Avelyn Wei (I/C) Mr Chai Wei Jun Mrs Jesslyn Ho Mrs Mandy Doll        | Monday        | Recreation Grp 2pm-3.40pm Competition Grp 3.20pm-5pm | School Hall               |
+|                    | Badminton            |        Ms Avelyn Wei (I/C) <br>Mr Chai Wei Jun Mrs Jesslyn Ho Mrs Mandy Doll        | Monday        | Recreation Grp 2pm-3.40pm Competition Grp 3.20pm-5pm | School Hall               |
 |                    |                      |                                                                                 | Friday        | Competition Grp 2pm-5pm                              |                           |
 |                    | Bowling              |                        Mr Tan Chen Ping (I/C) Ms Laavenya                       | Monday        | 2.15pm-3.45pm                                        | J Forte Bowl Kovan        |
 |                    | Gymnastics           |      Ms Wong Jie Jern (I/C) Ms Clair Chua Mrs Jenny Chew    Ms Pearlyn Chng     | Monday Friday | 2pm-5pm                                              | Indoor Sports Hall        |

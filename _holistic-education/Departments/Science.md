@@ -149,4 +149,3 @@ Formulating questions or hypotheses as well as devising and conducting fair meth
     
 *   [http://www.planet-science.com/](http://www.planet-science.com/)  
     
-*   [http://www.harcourtschool.com/menus/science/grade2\_nl.html](http://www.harcourtschool.com/menus/science/grade2_nl.html)

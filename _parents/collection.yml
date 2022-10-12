@@ -1,5 +1,5 @@
 collections:
-  general-information:
+  parents:
     output: true
     order:
       - Slides & Resources/.keep

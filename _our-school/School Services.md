@@ -48,7 +48,7 @@ Mondays to Fridays: 8.00am – 4.00pm
 Saturday: Closed
  
 
-Website: [https://www.magdalene.com.sg/](https://www.magdalene.com.sg/%C2%A0%C2%A0)  
+Website: [https://www.magdalene.com.sg](https://www.magdalene.com.sg)  
 
 Tel: 6293 5840 or,
 

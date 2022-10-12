@@ -19,7 +19,6 @@ sections:
           description: ""
           url: /Events/
   - infopic:
-      title: Awards
       image: /images/awards.jpeg
       alt: Image alt text
 ---

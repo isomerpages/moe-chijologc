@@ -8,9 +8,12 @@ third_nav_title: Uniform Groups & Clubs
 
 
 We offer a variety of uniformed group and clubs CCAs for girls who appreciate the importance of life-skills and our environment. These CCAs focus on inculcating valuable lessons through experiential learning and it benefits our girls greatly.
+<br>
+<br>
+**Our Clubs & Societies**
+<br>InfoComm Club
+<br>Robotics Club
+<br>Art Club
 
-
-| Our Clubs & Societies                | Uniform Group |
-|--------------------------------------|---------------|
-| InfoComm Club <br><br>Robotics Club <br><br>Art Club |<br><br> Brownies      |
-
+**Uniform Group**
+<br>Brownies

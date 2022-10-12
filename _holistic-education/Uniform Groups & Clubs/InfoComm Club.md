@@ -28,32 +28,27 @@ Activities and Events
 ---------------------
 
 • 2016 SDMA Competition   
-
 \- Promotion of values in Integrity 
 
   
 
 • Cyberwellness Assembly 
-
-\- Promotion of Screen Time 
+<br>\- Promotion of Screen Time 
 
   
 
 • Cyberwellness week 2017 - 2019 
-
-\- Recess sharing on CyberSafety 
+<br>\- Recess sharing on CyberSafety 
 
   
 
 • Collaboration with CHIJ Katong Convent 
-
-\- Working with CHIJ Katong Convent during CyberSmart day and our Cyber Wellness Week
+<br>\- Working with CHIJ Katong Convent during CyberSmart day and our Cyber Wellness Week
 
   
 
 • Collaboration with Catholic Kindergarten 
-
-\- Sharing with Kindergarten children on the use of digital device 
+<br>\- Sharing with Kindergarten children on the use of digital device 
 
   
 
@@ -62,22 +57,16 @@ Activities and Events
   
 
 • Photography at SYF Celebrates 2018 - Youth Station
-
-\- Premiere of 2018 SYF Festival Songs & Official Launch of Youth Station
-
-\- Photography at SYF Celebrates 2018 - Youth Station 
-
-\- A live concert featuring songs written and performed by students
+<br>\- Premiere of 2018 SYF Festival Songs & Official Launch of Youth Station
+<br>\- Photography at SYF Celebrates 2018 - Youth Station 
+<br>\- A live concert featuring songs written and performed by students
 
   
 
 • Photography at SYF Celebrates 2019 - Dance Extravaganza 
-
-\- Featuring dancers from various schools 
-
-\- Photography at SYF Celebrates 2019 - Festival Concert 
-
-\- A live concert featuring songs written and performed by students
+<br>\- Featuring dancers from various schools 
+<br>\- Photography at SYF Celebrates 2019 - Festival Concert 
+<br>\- A live concert featuring songs written and performed by students
 
 ![](/images/Catholic%20Kindergarten.jpg)
 
@@ -94,7 +83,3 @@ Activities and Events
 ![](/images/Sharing%20at%20KC%202.jpg)
 
 ![](/images/SYFCelebrates%20copy.jpg)
-
-
-
-

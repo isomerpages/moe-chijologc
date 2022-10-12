@@ -35,7 +35,7 @@ While I drank up the tea.<br>
 Twas also I who ate the pie,<br>
 And passed the cake to me.</center>
 
-<P align="right"> -Jessica Nelson North </P>
+<P align="right"> -Jessica Nelson North</P>
 	
 Thank you and God bless.
 

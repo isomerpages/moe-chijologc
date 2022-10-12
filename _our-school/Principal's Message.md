@@ -37,8 +37,6 @@ And passed the cake to me.</center>
 
 <P align="right"> -Jessica Nelson North </P
 	
-
-	
 Thank you and God bless.
 
 

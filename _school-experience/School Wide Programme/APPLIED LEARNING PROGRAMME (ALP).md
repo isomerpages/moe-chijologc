@@ -12,7 +12,7 @@ To achieve the vision of our school, teachers strive to ensure students’ achie
 
 |           Programmes           | Levels |
 |:------------------------------:|:------:|
-| <P align="left">Speech and Drama (EL &amp; MT)     |  <P align="left">P1&amp;2  |
+| <P align="left">Speech and Drama (EL &amp; MT)</p>     |  <P align="left">P1&amp;2  |
 | <P align="left">Musical Trips (CL)             |  <P align="left">P1-5  |
 | <P align="left">Philosophy for Children (P4C)  |  <P align="left">P1-6  |
 | <P align="left">Oratorical                    | <P align="left">P4-6   |

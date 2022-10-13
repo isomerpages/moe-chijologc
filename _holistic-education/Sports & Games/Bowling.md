@@ -28,4 +28,4 @@ Our training venue is Forte Bowl located within JForte Sportainment Centre. The 
 |:-----------------------------:|:--------------------------------------------------------:|:----:|
 | SPSSC Tenpin Bowling National | Claire En-Hui Faragalla 2nd in Junior Class (All Events) | 2018 |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5Ecx3kQozrZPYhfKKs61p11T_LFlqNH7mNZMxfxGKXhXR2oI3XPo-Xm2RTAy1JQdHJeSy4WgEgqTG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqeJVXyoId0W3X0la0lSUSqB2hDkD9zA2pvZsZHGnQazyaVbZMCM2DjsKBBY9gEPYX0DYENCsWA-4s/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

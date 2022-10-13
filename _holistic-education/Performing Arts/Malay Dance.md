@@ -40,4 +40,4 @@ Various platforms are given to students so that they are able to showcase their 
 | Awards Day            | Dance performance at OLGC during Awards Day               | 15 November 2017  |
 | Muara Dance Festival  | Singapore Malay Dance performance at Esplanade            |   4 November 2017 |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3ip6p_ZIgPlnhTmTCUJ5Ni6u6WaoFhydwkzJbcsFJ78gJ2QvECQ4paWF1xzK4bEa7UUHVUv1Au57h/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_6m3f44KqwcK7GFMlTbcP9tY2HLrCls7-Ifp1L0HDp4dgmfSqBLhxgu2eS6TLZeK69vhPirGGdqCn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

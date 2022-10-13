@@ -3,9 +3,6 @@ title: 60th Anniversary
 permalink: /school-experience/60th-Anniversary/
 description: ""
 ---
-
-
-
 ## 60th Anniversary
 
 <img style="width: 50%;" src="/images/60th%20Anniversary.jpeg" align = "center" />
@@ -61,11 +58,8 @@ Their collaborative effort aims to inspire the idea of sustainability as well as
   
 
 Primary 1: Transportation sculptures  
-
 Primary 2: Playground sculptures and human/ animal figures  
-
 Primary 3 & Primary 4: Building sculptures  
-
 Primary 5 & Primary 6: Singapore skyline  
 
   
@@ -75,7 +69,3 @@ The exhibition will be held at the Sustainable Singapore Gallery (SSG) at Marina
   
 
 May we, with love, bless others.
-
-
-
-

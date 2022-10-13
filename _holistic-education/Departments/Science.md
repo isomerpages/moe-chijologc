@@ -22,10 +22,11 @@ To excite our students and encourage self-directed learning, our students undert
 
 Science learning journeys bring excitement and curiosity for Science to a higher level. These learning journeys support the curriculum as well as further enhance our students’ learning and attitude towards Science.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyvRph3GTn-fdgSveADDwmzh314pRQsYGMM3vonxQMWCjuc1jUTfuL5RqP2mKNsrI1_5ULWYLEdg_6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-P6 Students observing specimens of different body parts of birds
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTW-Sf9P0kMogd9zBmEFJEbvY2vYxqZ32CBvXrS1wN8yW-bFwGJvv4rbvvO_9VjOGSfIetQavf_Q3M5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnIPIl1YFdFSRiOOIlXcMfHVAzx51nROEHgCwR73GCj-pNvv6L2ANFgy5knuIXLCQRCsk1i8ZkdN2w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+P6 Students observing specimens of different body parts of birds
+<br><br><br>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRAMEf9Y44TEgKTi_DjZn-JTkJVE57sQFZPCjNXGy8Gz8PIu7gYr74NuLo_gzaelxwtd--VK-XWXr4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Learning about different organisms during let’s explore science!  
   
@@ -147,5 +148,4 @@ Formulating questions or hypotheses as well as devising and conducting fair meth
 *   [http://www.bbc.co.uk/bitesize/ks2/science/](http://www.bbc.co.uk/bitesize/ks2/science/)
 *   [http://interactivesites.weebly.com/science.html](http://interactivesites.weebly.com/science.html)  
     
-*   [http://www.planet-science.com/](http://www.planet-science.com/)  
-    
+*   [http://www.planet-science.com/](http://www.planet-science.com/)

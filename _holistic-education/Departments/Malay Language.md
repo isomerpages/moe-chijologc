@@ -9,6 +9,12 @@ third_nav_title: Departments
 A variety of activities are lined up to engage students in learning and to provide them with a strong foundation in the 6 skills of language; listening, speaking, reading, writing, oral and written communication. To achieve the skills, students will be taught to hone their skills in the art of dancing, singing, acting and hosting as to enhance their language competency and to provide them with opportunities to embrace the beauty of Malay language and culture.  
   
 The programmes and activities that the department engages students in are as follows:
+
+<style> 
+table, th{ border: 1px solid black; } 
+td { border: 1px solid black; } 
+
+</style>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

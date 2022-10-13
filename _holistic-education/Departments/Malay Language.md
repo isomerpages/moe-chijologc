@@ -21,6 +21,8 @@ table, th, td {
 |  P3-P5 | ML cultural camp                                                                    |
 |  P3-P6 | Learning journey to ML Performance ‘ Tracing Singapore History through Malay Music’ |
 
+<br>
+
 
 |  Level |                                                                   MT Fortnight Activities                                                                  |
 |:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -29,5 +31,5 @@ table, th, td {
 | P1-P2  |  Playing traditional games (Nenek-nenek Si Bongkok Tiga)                                                                                                   |
 | P4-P6 | Learning journey to Media Corporation (an interactive journey through the world of media and broadcasting of a TV show,  a radio DJ and a news presenter ) |
 | P1-P4 | Sharing of local stories by an invited storyteller                                                                                                         |
-
+<br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScX_Gk05G-9oPl_5KWzA5wRWr1n47tNdcboU2YUSRZucWjLUzRR7VsLq_NGYPv3ljnEcEXFoCqfCt5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

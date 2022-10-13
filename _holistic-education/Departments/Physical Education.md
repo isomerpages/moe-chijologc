@@ -47,4 +47,4 @@ Swimming is one of the learning areas in the MOE PE syllabus for primary schools
 
 The department organises the annual P5 outdoor adventure camp to provide students with hands-on learning experiences. Through the camp, we hope to develop appropriate outdoor skills through physical activities, cultivate an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others, provide a platform for students to demonstrate CHIP values – Compassion, Humility, Integrity and Perseverance, and develop social emotional competencies and confidence in overcoming challenges.
 
-<iframe allowfullscreen="true" height="451" width="685" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpRMUIEjPRbl1l25TDdPkJsj2I7RHhKF7MKtrbgjb990FP2KDebfPMc4f9aVShp3K84zFvBnFxT-YP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSPt854zuSVUqJoICpML_5LB7-kpLMczmS3AXzOs9tmARY2O_QSnZk5HbnRH37M5WuWjL40gTkZaYu0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

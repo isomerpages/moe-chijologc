@@ -18,10 +18,10 @@ Heart (Gratitude, Empathy and Passion to Serve) – Nurturing students’ emotio
 
 Hand (Inspire, Lead and Serve) – Developing students’ behaviour through providing a service to others.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSYxKFxS-EKp9VMHvHuvbuwfzpMNn3AXX6oieTI908mOT2_Q48QC-zdQUJvArcWPcFsAfu3YQyhXj5/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="684" height="492" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAEzzs1ibNyhnYDUxF9vr_TXqLvirLNbrOKirSKB9TgRjMSaN9GdjxFFn22qs0C3J4oDqZg5Pf9g6R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### CHIJ 165th Anniversary Forum
 
-<img align="center" src="/images/CHIJ_165th_Anniversary_Forum.jpeg" style="width: 25%;"> Selected Primary 5 and 6 student leaders took part in the CHIJ 165th Anniversary Forum held on 9 March 2019 at Catholic Junior College. The keynote speaker and panel members for the forum consist of former CHIJ girls who come from the various industries, have imbued the IJ spirit and live the mission in their lives. The forum aims to inspire our student leaders on how their IJ sisters have contributed to those around them.
+<img style="width: 50%;" src="/images/CHIJ_165th_Anniversary_Forum.jpeg" align="center"> Selected Primary 5 and 6 student leaders took part in the CHIJ 165th Anniversary Forum held on 9 March 2019 at Catholic Junior College. The keynote speaker and panel members for the forum consist of former CHIJ girls who come from the various industries, have imbued the IJ spirit and live the mission in their lives. The forum aims to inspire our student leaders on how their IJ sisters have contributed to those around them.
 
-<iframe allowfullscreen="true" height="451" width="684" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQddO7g8TlrtnTlDPEn3Qyr0vmMVlOQtYgHJyxE2SKmsIFHgoc7s_Xdybq242zCqss0lGJYPqQ_8tQL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+&lt;<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk5Ulu5JQifDlLhIDGMH6-nrFaU7UiE9yQ_ukjaMdeuaNln_ppfIN79TJTP8pUcoc4WdsVhaHnFqfp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

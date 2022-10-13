@@ -44,8 +44,4 @@ The choir partners parents, choir groups from other schools and the community. P
 | Concordis                        | Students took part in a 3-day camp where they attended masterclasses by instructors from various countries. They also participated in a performance cum choral exchange with the various schools that had taken part in the camp.                                            |  November 2017 |
 |  Voices of Singapore Festival    | Students had the opportunity to perform at CHIJMES                                                                                                                                                                                                                           |  17 March 2017 |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmMKad3aXTFHiyH_Z9Cko3STTh5w8uEGzaZNqWgmwICTxHhZDAtlDm0c7PA24nZK5qeFMO6cMnkGmU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-
-
-
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTktZqjQy8Jak81HX8bSNptuc08QOuUzgv-hCpi8Slb59je7fVIC53bNIK09l3v7DEoWiK6W0t4c7B_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

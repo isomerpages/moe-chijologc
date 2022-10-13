@@ -7,6 +7,12 @@ description: ""
 
 
 CCA is an integral part of our students’ holistic education. The aim of CCA is to provide our girls with a platform to discover their interests and talents and provide for healthy and fun recreation. CCA also aims to emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, we hope to inculcate in our girls  our school’s values, social and emotional competencies and emerging 21st Century competencies which are essential in their preparation to become leaders of the future.
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
 
 | SPORTS & GAMES (4) | CCA                  | TEACHERS  IN CHARGE                                                             | DAY           | TIME                                                 | VENUE                     |
 |--------------------|----------------------|---------------------------------------------------------------------------------|---------------|------------------------------------------------------|---------------------------|

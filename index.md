@@ -12,16 +12,15 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: Announcements
-          description: (More Information)
+          description: (Click More Information)
           url: /Announcements/
         - title: In The Spotlight
-          description: (More Information)
+          description: (Click More Information)
           url: /Spotlight/
         - title: Events
-          description: (More Information)
+          description: (Click More Information)
           url: /Events/
   - infopic:
       image: /images/awards.jpeg
       alt: Image alt text
 ---
-

@@ -25,6 +25,9 @@ Science learning journeys bring excitement and curiosity for Science to a higher
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTW-Sf9P0kMogd9zBmEFJEbvY2vYxqZ32CBvXrS1wN8yW-bFwGJvv4rbvvO_9VjOGSfIetQavf_Q3M5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 P6 Students observing specimens of different body parts of birds
+
+![](/images/P3_Students_Learning_About_Crop_Cultivation_And_Harvesting.jpeg)
+P3 Students learning about crop cultivation and harvesting
 <br><br><br>
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRAMEf9Y44TEgKTi_DjZn-JTkJVE57sQFZPCjNXGy8Gz8PIu7gYr74NuLo_gzaelxwtd--VK-XWXr4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 

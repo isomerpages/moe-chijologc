@@ -32,17 +32,71 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) f
 #### At CHIJ Our Lady of Good Counsel, the following lessons from the Growing Years Programme will be taught in 2022: 
 
 **<center>Primary 5</center>**
+<style type="text/css">table, th{ border: 1px solid black; } 
+td { border: 1px solid black; } 
 
-| UNIT                       | LESSONS / DURATION                   | Lesson Objectives<br>At the end of the lesson, pupils will be able to:                                                                                                                                                                                                                                                                                                                                             | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|----------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| Gosh! I Am Changing        | What Is Happening To Me?<br>(30 min) | ·         know what puberty is<br>·         identify the physical changes during puberty                                                                                                                                                                                                                                                                                                                           | Term 2 Week 2                       |
-|                            | What Can I Do? (Part 1)<br> (30 min) | ·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty<br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty       | Term 2 Week 2                       |
-|                            | What Can I Do? (Part 2)<br> (30 min) | ·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty<br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 3                       |
-|                            | Main Task<br>(30 min)                | Description of the Main Task:<br> <br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.                                                                                                              | Term 2 Week 3                       |
-| Where I Belong             | What Are Families?<br>(30 min)<br>   | ·         know that there are different types of family structures<br>·         know that every family is unique<br>·         state that the three basic functions of families are to provide love, protection and guidance<br>·         identify the right sources of help to turn to when in need                                                                                                                | Term 2 Week 4                       |
-| Where I Belong             | What is My Role?<br> (30 min)        | ·         know that gender is about being male or female<br>·         choose not to stereotype by gender                                                                                                                                                                                                                                                                                                           | Term 2 Week 4                       |
-| How Do I Keep Myself Safe? | What is Safety?<br>(30 min)          | ·         know what sexual abuse is<br>·         know that there are laws in Singapore that can protect them from sexual abuse<br>·         know their rights in keeping themselves safe from sexual abuse                                                                                                                                                                                                         | Term 2 Week 5                       |
-|                            | Stop It! Run! Tell!<br>(30 min)      | protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>      know their responsibilities in minimising the risk of sexual harm                                                                                                                                                                                                                | Term 2 Week 5                       |
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vfn0{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-j4pq{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-4jry{background-color:#c0c0c0;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-3fas{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4jry">Unit</th>
+    <th class="tg-4jry">LESSONS / DURATION</th>
+    <th class="tg-4jry">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-4jry">TIME PERIOD<br>(e.g. Term 1 Week 2)<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gfnm" rowspan="4">Gosh! <br>I Am Changing</td>
+    <td class="tg-gfnm">What Is Happening To Me?<br>(30 min)</td>
+    <td class="tg-3fas">- Know puberty is<br>- identify the physical changes during puberty</td>
+    <td class="tg-gfnm">Term 2 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-j4pq">What Can I Do? (Part 1)<br>(30 min)</td>
+    <td class="tg-3fas">-identify the stresses caused by physical and emotional changes during puberty<br>-describe healthy ways to manage the stresses caused by physical and emotional changes <br>during puberty<br>-describe the emotions caused by physical changes during puberty<br>-recognise that one’s identity does not change even when one’s body is experiencing change <br>due to puberty</td>
+    <td class="tg-gfnm">Term 2 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-j4pq">What Can I Do? (Part 2)<br>(30 min)</td>
+    <td class="tg-3fas">-identify the stresses caused by physical and emotional changes during puberty<br>-describe healthy ways to manage the stresses caused by these physical and emotional <br>changes during puberty<br>-describe the emotions caused by physical changes during puberty<br>-recognise that one’s identity does not change even when one’s body is experiencing <br>change due to puberty</td>
+    <td class="tg-gfnm">Term 2 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-j4pq">Main Task<br>(30 min)</td>
+    <td class="tg-3fas">Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her <br>experiences during puberty. They will consider the situation from the point of view of the <br>peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td class="tg-gfnm">Term 2 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-gfnm">Where I Belong</td>
+    <td class="tg-gfnm">What is My Role?<br>(30 min)</td>
+    <td class="tg-3fas">-know that gender is about being male or female<br>-choose not to stereotype by gender</td>
+    <td class="tg-gfnm">Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-gfnm" rowspan="2">How Do I Keep <br>Myself Safe?</td>
+    <td class="tg-gfnm">What is Safety?<br>(30 min)</td>
+    <td class="tg-3fas">- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-gfnm">Term 2 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-j4pq">Stop It! Run! Tell!<br>(30 min)</td>
+    <td class="tg-vfn0">- protect themselves by resisting, removing themselves from harm and<br> seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-j4pq">Term 2 Week 5</td>
+  </tr>
+</tbody>
+</table>
+                                                                                                                                                                                                                                                                                                  
 
 
 **<center>Primary 6</center>**

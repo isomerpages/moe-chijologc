@@ -61,4 +61,4 @@ During the CCA sessions, Brownies are exposed to a range of indoor and outdoor a
 | South Division Day                            | Division competitions at MayFlower Secondary                                                           | 21 Jul  |
 |  National Brownie Revel                       | Brownie Competitions at Chongfu School                                                                 |  31 Nov |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRhi4iamHAhAi8iyCKYHGN3Idwc21rdd6Kh0SYRSnO6F2S0G5IQ-ECNsovB2SjbIcTxSTQY1OJveqT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfHftlz2wRCLwjY_rYOymfIGmt0oyESPeVxUmaebJOSifvRkDSK2KteYtM2INNlbi2Khs0cyhd9RFf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

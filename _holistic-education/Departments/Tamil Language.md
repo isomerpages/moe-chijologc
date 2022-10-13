@@ -12,26 +12,26 @@ The department particularly embarks on student–centric education with planned 
 
 ### P1&amp;2 Speech and Drama Programme:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkfZ5es10MJXqlmddRAE4P8hamxRAXeyH6DF5wJbpS5wT0s75-8DrYVkYJlvw2j0VdyaLxpl4VsdRq/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPssVW2rMyYoe_krwEOu2BwfdjeCaDYfqFerJMfHgWNwXtHFPCvuwx53UtYZSBoFiBUKJ07tQ_4FnP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Build friendship through Combined IJ Schools Language and Cultural Camp-P6 2019
 
 Build friendship through Combined IJ Schools Language and Cultural Camp-P6 2019
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZNUWaPJGNs2CPW2ZydV7DZg85-j4x0N-rZS08pHbnbo66Tb37Trhz3iRDrpwrlk5n6pwFYtZs7GQ5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-xsF2-Zdj56rLbPlPe0DYqToWQLa5sa84W4Y_TAHRVurVOMGrNJt6fj1Hm-VFW_wFvmdZVYbIE9yh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Experiential Learning: P4 Learning Journey 2019 Pongal Heritage Experience @Little India
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0Q4-Pvd8JMYPhAfWqUr0qU5kn92rjTfzeDuTADqijTHIqeQv4rh06w0KfsnTYtmKQhUA12-bfJFtU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS22KwzJB3TTxFErC6yIFsS187BIjy8txh1eP0Jpf7mcUbm_a_LwnAxqu1XwC-tsF9Chp9sORb7_kAk/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### 2019 P5&amp;6 Motivational Talk titled “Are you far from Ordinary” to boost self-esteem and build confidence
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtK-Y4qredQs-6-7FiHnNe6-h3nBmsYFMUDdpNqWQbOU1noWhLNqSO776domwWoo-KzqWqNoe3zKPS/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOu5sEfIVJBosZmM3CReG9815PQEMMaMgi78qX0NeFuq5DgNrTWPwx9h_p8Rm8oWRzR5Mo157KR0Kn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Mother Tongue Fortnight Activities 2018: “Murukku” Making Demonstration &amp; Tasting
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGql21r8YwYmXEHasHAfc10OwhaWsC-sDrD99829KKPFvl5x-IX44Y4ugDieVyyMnSgYv-3oARZKZ7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3V_L2KYFwwTV8tTtff1_vdclgtY12titVKxgXGBr7p9c--HwcjJ4L5nOLWTann1qyz8anJtwqSBh1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### 2019 National Levels Competition
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXJ3kyefjLAerq4knDxlahJAhpKRIgUXdQt0YykTZlZkn6cpX-nSAjibyRkLo0t2Y1NFVVKwfKq5BU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQq6Nf2qyP5-HfunyBuKhYhxWC5wleCpkGcnqpDS2_1XfbEpFamv9V-rGK9RqjOJHLgEYFIFsfccM2f/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

@@ -42,5 +42,4 @@ Students will be able to:
 | School Dance Showcase at Youths Celebrate! @ Gardens by the Bay | Students performed at Gardens by the Bay in celebration of Youth Festival, having a unique opportunity to perform under the SuperTrees at the SuperTree Grove |  May 2017 |
 |                                                                 |                                                                                                                                                               |           |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQx1aWa9EYwcyfPMVtiYch7irh-IoazWkr5bYyIfV30Xv857fJGUu_9EyirOLotHO0U8nHVgGjYArjE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKH-0XEDgJlMIwSq5GxRppxaVNvnvP3jjMWdJSWcRgdrAJiNtBQx_KEVWoathHcPX6b0ZCb41XaaFO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

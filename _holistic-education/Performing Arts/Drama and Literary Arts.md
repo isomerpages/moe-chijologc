@@ -39,4 +39,4 @@ From the lessons and training, students would build self-esteem and increase the
 | KidsConnect 2019 @ Playeum  | Students performed in the performance category at pop up event KidsConnect which collaborates with Playeum, Children’s Centre for Creativity. | March 2019 |
 | Aesthetics Showcase @ OLGC  | Students performed during OLGC end of year Aesthetics Showcase.                                                                               |  Nov 2017  |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4FAdU_LdiLue4OwSqReAHEhTvyvpRyEEKQahSGPVmdcA3u5Goixo82IPCDkfviqrD6A8KCqQ1eZ5c/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtYOs9LuMJkpGMO4W38-NGiml-B2hkW44IZEuxmK1FbUkOlkqr_KKTj7BgBaT6bdI40VrXVqbOH905/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

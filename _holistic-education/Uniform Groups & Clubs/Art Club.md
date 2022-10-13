@@ -41,4 +41,4 @@ Students practice turn-taking, decision making, perseverance and teamwork throug
 | Yellowren Arts Festival, Inter-school Canvas Art Competition |                                                       2nd Team Placing                                                       |  2018 |
 |                    Singapore Youth Festival                  | Category A - Certificate of Participation  Category B - Certificate of Participation Category C - Certificate of Recognition | 2017  |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhVMlm8IoQzRPXkbJoikZjAr1CYwtWhEI7R3gWCgO-z654Aa-VMBVlfE6T9_nIfIC-6GdKupX0H_7j/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZLTpmq6Be-1EwjibRRAwJflSwUWPL6n61l7w2E3doVvOm5Ai4cJLHCbUC1e4finyIdQ48PY6X0YR9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

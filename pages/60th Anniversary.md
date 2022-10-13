@@ -62,10 +62,13 @@ Primary 2: Playground sculptures and human/ animal figures
 Primary 3 & Primary 4: Building sculptures  
 Primary 5 & Primary 6: Singapore skyline  
 
-  
-
 The exhibition will be held at the Sustainable Singapore Gallery (SSG) at Marina Barrage from 18 to 30 March 2020.  
 
-  
-
 May we, with love, bless others.
+
+**Feast Day Message 2020 From Our Principal, Ms Tan**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Vd8vWPk_gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Founder's Day Poem 2020**
+

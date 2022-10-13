@@ -3,8 +3,6 @@ title: Links
 permalink: /general-information/Links/
 description: ""
 ---
-
-
 ## Links
 
 [Archdiocese of Singapore](https://www.catholic.sg/)&nbsp;(Catholic Church)  
@@ -24,7 +22,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![](/images/logo-moe.jpeg)     | ![](/images/School%20Bag.png)     |    <a href="https://pagedart.com"><img src="/images/SLS_logo.png"> </a>   |
+| <a href="https://www.moe.gov.sg/"><img src="/images/logo-moe.jpeg"> </a>     | <a href="https://www.schoolbag.edu.sg/"><img src="/images/School%20Bag.png"> </a>     |    <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS_logo.png"> </a>   |
 
 ### Educational Websites
 

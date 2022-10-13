@@ -21,7 +21,6 @@ table, th, td {
 |  P3-P5 | ML cultural camp                                                                    |
 |  P3-P6 | Learning journey to ML Performance ‘ Tracing Singapore History through Malay Music’ |
 
-<br>
 
 
 |  Level |                                                                   MT Fortnight Activities                                                                  |

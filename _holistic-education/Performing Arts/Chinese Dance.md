@@ -79,4 +79,4 @@ Parents of Chinese Dancers work closely with teachers-in-charge to provide suppo
 | Chinese New Year Celebration | Students performed at the school in celebration of the Lunar New Year                    |  Feb 2019 |
 | Honours Day                  | Students performed at the school in celebration the achievements made by OLGC community  | Nov 2018  |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJvdBeWjZp5ZiYQpY-w0c84JoazYT8-XHJbx2CGcchGnOzE-81I9NZeipi012yfi79iNRBnMNytqMt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_OFM0iZG9v5z5tqbGfcvrmPRUarl00H9Db3tUvCl4FXK_gUCINZgF_jvM3ValKCGcdq0MrgKhVbaO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

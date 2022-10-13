@@ -13,17 +13,16 @@ To enhance the various language skills, cultivate an appreciation for the Chines
 ### Mother Tongue Fortnight
 
 Games/ Activity based learning for students
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRav935oIz4PlEPRuz9KVnVEfdw8b_YV6YM83Bohp6dhaY5MrbPZw3DKLx_FgHcF347wDdNhd1B7NGR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0BbYafhSNRSQstlzJR-ixQHY0v89IVio53vKYslNKhSAP_kHBKQKWbAJR3EFB_prOgJ9X9M4F56pb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Speech and Drama Programme
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV116uyNk-ncK61C9iSzzQUoK-z-caZXYqKzkyY8oGa5beTgH8CrNOZc1N-yiDy2IDsjQmuU0TpPOg/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxrAY6u3wjvYwEsaZZWglVeU9XmZVz1d-saip20urcyh1R5xXZZeTSF7gRTkGqMgI04-PtBKZJfouo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Language and Cultural Camp
 
 
 Promotion of Chinese Culture and Values
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2lQ6ZEYnSUE4f92MGJNyO4jVKvNq9qMB0Zn5m_2vu-W1Rd3aU3__VLXxCSs8SOhuQuKgN7SjmiZIc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyz53P-dfDab7XGUx0rWabrypfVOyovZ1CV8J9r1iMZMc5-qTkuEnO2NbEHGJ2m9Y1KqRfsZaODI9c/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

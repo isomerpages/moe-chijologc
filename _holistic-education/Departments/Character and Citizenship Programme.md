@@ -40,4 +40,4 @@ These are some of the school-based programmes carried out during CCE:
 | Primary 3 and 4 – Care for the environment <br><br>Upcycling project : Students will bring used items which can be upcycled to do their part for the environment |
 | Primary 5 and 6 – Care for the community <br><br>Service learning through the head-heart-hand approach                                                           |
 
-<iframe allowfullscreen="true" height="451" width="601" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZ4oyX1wlyICSDgXqyJ5_jjXVzlJQdXaTm6iQA-42wO1_zqgouZ31U94BEFggWFN_UKUADPjHpTGPC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSb1_m9AieghA5yAgr9Cv-XuEFO8A0j5Y1Qko75Def0ZZESTfXmihUQnP8CJFVe4xoBy4lwXpEbD4wK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

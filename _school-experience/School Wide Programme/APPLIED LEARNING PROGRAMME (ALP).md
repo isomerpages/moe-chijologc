@@ -18,4 +18,4 @@ To achieve the vision of our school, teachers strive to ensure students’ achie
 | Oratorical                    | P4-6   |
 | Debate                         |  P5&amp;6  |
 
-<iframe allowfullscreen="true" height="451" width="684" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRw5s2ZStEz-N-qr94u7QGddzLP-zmJW8GPgsnZOzWFz6OCfkAD06qqwjqdLtdlN2L6VDbJ2sRKdhsU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfWteLdYSbM6ht2Gm04tNFQi9hpm27uumIucvf85qHNgMrUukaUBfZGrpI91Xu4ceBW50n_doD0E1n/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

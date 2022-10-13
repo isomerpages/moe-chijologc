@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Test Page.md
       - Principal's Message.md
       - Our History.md
       - Mission & Vision.md

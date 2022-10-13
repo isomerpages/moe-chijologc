@@ -1,32 +1,26 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: CHIJ Our Lady of Good Counsel
+description: "The Convent of Our Lady of Good Counsel, as the school was
+  originally called, was established in the 1960 in a single building block with
+  its main school gate at Cooling Close, Serangoon Gardens. "
+image: /images/CHIJOLGC shareicon.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/home_2020v1.gif
+      key_highlights:
+        - title: Announcements
+          description: (Click More Information)
+          url: /Announcements/
+        - title: In The Spotlight
+          description: (Click More Information)
+          url: /Spotlight/
+        - title: Events
+          description: (Click More Information)
+          url: /Events/
+  - infopic:
+      image: /images/awards.jpeg
+      alt: Image alt text
 ---
-

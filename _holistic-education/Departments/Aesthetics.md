@@ -38,20 +38,20 @@ The Art Department at CHIJ Our Lady of Good Counsel aims to expose our students 
 
 
 
-<iframe allowfullscreen="true" height="310" width="518" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-Go1iHL-_5NvMnkjIt3Efyqo1nYFgoGgjQj3jehtw1nFrLRXVjvf9wFR7AZTdLMKb87BgADH3p7-O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRf_c7nhGsQrO8fmRwMXTtmzNnWp8SJLCNs5VVkXd67btm-PYs32Pjafo5OJF3ZxBe5f3yDbf0J-LTU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Primary 2: Novel Self-portrait**
 
-<iframe allowfullscreen="true" height="594" width="386" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTfPzuSrrVJtPcvC8RSZuH7JLh115uVN3eZrfwCU-rW9ZrKytRTHpAy-2nlfOwMtE0RRHOq9xhqj4J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="623" width="386" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGOH5LrL3SU-_WouD1h8hhSWEbiJQ0GD5PI-uwKgybiJRjaugzBFcM3rLhOGyl6hXi_KlHpu7ayMV-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Primary 3: Tessellation Art**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB8CGSR4JEfiniT0_xxCJz8ZH2-toJjQYqfIonYUHNsQRw32moUTB0VP-ECt4Ko0CEte361kSJVb1G/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="645" height="392" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUkfFtKGNOVHS_S7ePyXmsy0Wdyyk1nzj5LQI4lpireqFcyiZYNT1g8-6vgmjXDST-Qk_PpFDeArz4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Primary 4: Local Copy Drawing**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZ3my1oYCAK5mEyNT_crYVF_PSCwc5SFldAIR5hmS83Ro_cw1I8PAuaioLfdTPp-9GexKGrig1bYzj/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="688" height="416" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNpFaL6mWG0zTY27FPfKnXsDCuv2_vkVumuWppsUaOpIeLFdp5nn5_OPL77WRpu0_DjGHPFEdMwtcV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Primary 5: World Copy Drawing**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLLH2Mhe4I50gJLnGQ8dH6wFlAqCIG_lLsIcjuFs_DQJXRJ7h-O27O_c5XZgIWQjlGRzGqERgVuEpz/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="654" height="397" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpmb3dvugkm5q7OMAwH-3xhKFvZNdarBa1J1PdUBXjo5Foe0eAV8vZDHb7QKfPzOwx2DejLHribqCA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 During the full Home Based Learning, our Primary 1 to Primary 3 students also completed an artwork based on the simple idea of Origami or paper folding. Using square coloured papers that they have at home, our students were guided to complete the following projects
 
@@ -72,16 +72,16 @@ In response to Pope Francis's letter, "Laudato Si",&nbsp;&nbsp; the school embar
 
 This artwork has been shifted to the Sustainable Singapore Gallery at Marina Barrage for an upcoming exhibition before the Circuit Breaker was enforced. Updates of the exhibition will be provided in the gallery’s website.
 
-<iframe allowfullscreen="true" height="378" width="620" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRipiWOGwcx1DXZRsLJkjaBpUY9Xgwww3RGGpuAYVYZf-itBBImx2fS7Mr6ltPBMLeMd3vDx0yOUeC7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOuCpHcvBAEnIhXPCW849jlt8m5DMip_Q8g5MvVZeUKGl5vFAI4kaBeXkp5OsvMMEZ8I6KnGZu1S0q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ## Events
 
-<iframe allowfullscreen="true" height="555" width="684" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSV4hPwir56BApB4oCSDsrPlUodj4Lfnj6u9ZPrAeb9-cLPO3F7iuAc-f2aU0NE6lguLVo-ItGW6in6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0C340bkeSnjNvaD4xw43z8URQxpfj7V4XOdjs5A2SCWLps32DMJvhjmW47e6rPl-v8xOJ6j8hJMoh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ## Let's Jam
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiCvaBGPp1CymrQA-FvP7Oqj8f7Aq7tOsuA6sjft2riWYhYnxlLAAAh4_LoYict24bsQ4oBvHzMF2C/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrDYxCvIj-ujxhGYSSdSDg_BXFUexYDPBwr6AuQbhu2hKepScvkcBmmIx06AYSLYHNmg2kFbB22ym5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ## Music
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT37RO2zZFtFhYtZv7bOM9PiWpeVORBi4d7cDVyh-zq23tBKGhMxJzddvUBI13kdJ0edCDssj4-zPrB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvGgwqk2_l-hVdETedjrBh8rOf4khmSj0C0LJDSYq9qxD6darA3cqvem8fX9kSZGZXUdZYmZ_Su3u9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

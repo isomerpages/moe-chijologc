@@ -43,4 +43,4 @@ Students are also given opportunities to perform to showcase their talents and b
 | IJHCC Fund Raising Concert @ CHIJ Toa Payoh | Students performed a classical dance item titled “Panja Bootha Alaripu” |    19 May 2018   |
 | Awards Day                                  | Dance performance in OLGC during Awards Day                             | 15 November 2017 |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTX6aK07sQSmF9CU0W_0JacVtGe607BHqioaVF4kDcvfIphOA-0qv5P8toQM5FIcvQz4zdtmOxFiPEw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRouv688mvh-JXI3qQ7sSvXBbh30flo2b13ss_81j1UMuDhdlfNWHXIqhTO8Defu6RrFWG7uTiSiLY5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

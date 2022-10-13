@@ -13,7 +13,11 @@ Brownies is part of the Guiding Movement of Girl Guides Singapore. This uniforme
 During the CCA sessions, Brownies are exposed to a range of indoor and outdoor activities to help them to develop them in different aspects: physical, social and mental aspects.
 
 ### Achievements 
+<style> 
+table, th{ border: 1px solid black; } 
+td { border: 1px solid black; } 
 
+</style>
 |                                Event                                |  Achievements |  Year |
 |:-------------------------------------------------------------------:|:-------------:|:-----:|
 | South Division Day - Basic First Aid Knowledge - 3-Corner Bookmarks |    1st  2nd   |  2019 |

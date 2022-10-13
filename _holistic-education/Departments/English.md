@@ -11,7 +11,7 @@ At CHIJ OLGC, students’ learning is enhanced and extended during curriculum ti
 The English department is involved in the actualisation of the Applied Learning Programme (ALP). Teachers are involved in helping students to be confident and effective communicators as well as critical thinkers; the 21CC skills. For more about the ALP please click&nbsp;[here](https://chijourladyofgoodcounsel.moe.edu.sg/school-experience/school-wide-programmes/applied-learning-programme-alp).  
   testing
 	
-	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHs02w0_8PCq0iO3qP362ladB2UZ7fIBXuhbFQX_c1d9H4gU3e7VtD1V9BzSE_JQvTaCiTCsttZsbT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHs02w0_8PCq0iO3qP362ladB2UZ7fIBXuhbFQX_c1d9H4gU3e7VtD1V9BzSE_JQvTaCiTCsttZsbT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 	
 	
 	
@@ -19,4 +19,4 @@ The English department is involved in the actualisation of the Applied Learning 
 	
 _Reading Promotion:_
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTST-aGjY3TOHADIoYfTBIrxrJEKOVkApoUdUV0ncTLlNK-kcLnsQUprYBv30lsqe7nL4vSBy-my2I/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTST-aGjY3TOHADIoYfTBIrxrJEKOVkApoUdUV0ncTLlNK-kcLnsQUprYBv30lsqe7nL4vSBy-my2I/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

@@ -150,12 +150,12 @@ td { border: 1px solid black; }
   </tr>
   <tr>
     <td class="tg-9wq8" rowspan="3">Friends or<br>Foes?</td>
-    <td class="tg-c3ow">Are you Relly My Friend?<br>(30 min)</td>
+    <td class="tg-9wq8">Are you Relly My Friend?<br>(30 min)</td>
     <td class="tg-0pky">- identify the pros and cons of forming relationships through <br>social networking websites<br>- know ways to keep themselves safe when using social <br>networking websites</td>
     <td class="tg-9wq8">Term 2 Week 6</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Is It All Safe?<br>(30 min)</td>
+    <td class="tg-9wq8">Is It All Safe?<br>(30 min)</td>
     <td class="tg-0pky">- know that some information (like pornography) received through <br>the Internet may be harmful<br>- know ways to keep themselves safe when using social networking <br>websites or the Internet</td>
     <td class="tg-9wq8">Term 2 Week 7</td>
   </tr>
@@ -175,4 +175,3 @@ td { border: 1px solid black; }
 | 9.  |  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022%20Annex%20A%20SEd%20Opt%20Out%20Form.pdf) . The completed opt-out form is to be submitted by 25/02/2022. |
 | 10. | Parents can contact the school at 6288 6930 or email chijolgcs@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.                                                                                                             |
 | 11. | Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.                                                                                                                                               |
-

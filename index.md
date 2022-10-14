@@ -12,13 +12,13 @@ sections:
       background: /images/home_2020v1.gif
       key_highlights:
         - title: Announcements
-          description: (Click More Information)
+          description: (Click for more information)
           url: /Announcements/
         - title: In The Spotlight
-          description: (Click More Information)
+          description: (Click for more information)
           url: /Spotlight/
         - title: Events
-          description: (Click More Information)
+          description: (Click for more information)
           url: /Events/
   - infopic:
       image: /images/awards.jpeg

@@ -101,16 +101,71 @@ td { border: 1px solid black; }
 
 **<center>Primary 6</center>**
 
-| UNIT                      | LESSONS / DURATION                 | Lesson Objectives At the end of the lesson, pupils will be able to:                                                                                                                                                                                                                                                                                                                                                                                                                                                         | TIME PERIOD (e.g. Term 1 Week 2) |
-|---------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| Are We More Than Friends? | Who Are My Friends? (30 min)       | ·         identify the qualities of a healthy friendship ·         recognise the importance of making wise choices in friendship                                                                                                                                                                                                                                                                                                                                                                                            | Term 2 Week 2                    |
-|                           | Am I A Good Friend? (30 min)       | ·         identify the qualities that they have as a friend ·         recognise the importance of developing in oneself the qualities of a good friend                                                                                                                                                                                                                                                                                                                                                                      | Term 2 Week 3                    |
-|                           | What is Love? (30 min)             | ·         identify the characteristics of love and infatuation ·         distinguish between the characteristics of love versus infatuation ·         identify strong feelings arising from infatuation                                                                                                                                                                                                                                                                                                                     | Term 2 Week 3                    |
-|                           | Am I Falling In Love? (30 min)     | ·         manage strong feelings arising from infatuation ·         identify ways to manage and cope with teasing from peers                                                                                                                                                                                                                                                                                                                                                                                                | Term 2 Week 4                    |
-|                           | Main Task  (30 min)                | Description of the Main Task:   Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.                                                                                                             | Term 2 Week 5                    |
-| Friends or Foes?          | Are You Really My Friend? (30 min) | ·         identify the pros and cons of forming relationships through social networking websites ·         know ways to keep themselves safe when using social networking websites                                                                                                                                                                                                                                                                                                                                          | Term 2 Week 6                    |
-|                           | Is It All Safe? (30 min)           | ·         know that some information (like pornography) received through the Internet may be harmful ·         know ways to keep themselves safe when using social networking websites or the Internet                                                                                                                                                                                                                                                                                                                      | Term 2 Week 7                    |
-|                           | Main Task  (30 min)                | Description of the Main Task:   Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.   | Term 2 Week 8                    |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pb0m{border-color:inherit;text-align:center;vertical-align:bottom}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9wq8">UNIT</th>
+    <th class="tg-9wq8">LESSONS / DURATION</th>
+    <th class="tg-9wq8">Lesson Objectives<br>At the end of the lesson, pupils will be able to:<br></th>
+    <th class="tg-9wq8">TIME PERIOD<br>(e.g. Term 1 Week 2)<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8" rowspan="5">Are We More <br>Than Friends?</td>
+    <td class="tg-9wq8">Who Are My Friends?<br>(30 min)</td>
+    <td class="tg-0pky">- identify the qualities of a healthy friendship <br>- recognise the importance of making wise choices in friendship</td>
+    <td class="tg-9wq8">Term 2 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-pb0m">Am I A Good Friend?<br>(30 min)</td>
+    <td class="tg-0pky">- identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the <br>qualities of a good friend</td>
+    <td class="tg-9wq8">Term 2 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">What is Love?<br>(30 min)</td>
+    <td class="tg-0pky">- identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation<br>- identify strong feelings arising from infatuation</td>
+    <td class="tg-c3ow">Term 2 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">What is Love?<br>(30 min)</td>
+    <td class="tg-0pky">- identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation<br>- identify strong feelings arising from infatuation</td>
+    <td class="tg-9wq8">Term 2 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Main Task<br>(30 min)</td>
+    <td class="tg-0pky">Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a <br>board game to help pupils of their age learn more about the Big Idea of <br>Relationships, specifically on family, friendships, love and infatuation. <br>They will consider the issues that their peers would face and craft <br>questions and answers that they believe their peers would benefit <br>most from knowing.<br></td>
+    <td class="tg-9wq8">Term 2 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8" rowspan="3">Friends or<br>Foes?</td>
+    <td class="tg-c3ow">Are you Relly My Friend?<br>(30 min)</td>
+    <td class="tg-0pky">- identify the pros and cons of forming relationships through <br>social networking websites<br>- know ways to keep themselves safe when using social <br>networking websites</td>
+    <td class="tg-9wq8">Term 2 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Is It All Safe?<br>(30 min)</td>
+    <td class="tg-0pky">- know that some information (like pornography) received through <br>the Internet may be harmful<br>- know ways to keep themselves safe when using social networking <br>websites or the Internet</td>
+    <td class="tg-9wq8">Term 2 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Main Task<br>(30 min)</td>
+    <td class="tg-0pky">Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios <br>where the main character could be in a precarious situation. They will <br>consider the situation from the point of view of the main character, <br>discuss what they think and feel about the situation and what they will do <br>or say to ensure their safety.  These scenarios will provide pupils with the <br>opportunity to demonstrate their understanding of Safety and that safety <br>is a right and a responsibility.<br><br></td>
+    <td class="tg-9wq8">Term 2 Week 8</td>
+  </tr>
+</tbody>
+</table>
 
 ### Information for Parents
 
@@ -120,3 +175,4 @@ td { border: 1px solid black; }
 | 9.  |  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022%20Annex%20A%20SEd%20Opt%20Out%20Form.pdf) . The completed opt-out form is to be submitted by 25/02/2022. |
 | 10. | Parents can contact the school at 6288 6930 or email chijolgcs@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.                                                                                                             |
 | 11. | Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.                                                                                                                                               |
+

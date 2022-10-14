@@ -9,13 +9,44 @@ description: ""
 [Infant Jesus Sisters](http://infantjesussisters.org/)&nbsp;(International)  
 [Infant Jesus Sisters](http://chij-sisters.org/)&nbsp;(Singapore)
 
-|                  <center>   IJ Schools         </center>            |                                       |
-|:--------------------------------------------------:|:-------------------------------------:|
-| 1854 CHIJ (Primary) Toa Payoh                      | 1854 CHIJ (Secondary) Toa Payoh       |
-| 1930 CHIJ Katong Convent (Pri)                     | 1930 CHIJ Katong Convent (Sec)        |
-| 1933 CHIJ St. Nicholas Girls' School (Full School) | 1933 CHIJ St. Theresa's Convent (Sec) |
-| 1938 CHIJ St.Joseph's Convent (Sec)                | 1955 CHIJ Queen of Peace (Pri)        |
-| 1957 CHIJ Our Lady of Nativity (Pri)               | 1964 CHIJ Kellock                     |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-7btt">IJ Schools</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://www.chijpritoapayoh.moe.edu.sg/">1854 CHIJ (Primary) Toa Payoh</a></td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://www.chijsec.edu.sg/">1854 CHIJ (Secondary) Toa Payoh</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://www.chijkcp.moe.edu.sg/">1930 CHIJ Katong Convent (Pri)</a></td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://www.chijkatongconvent.moe.edu.sg/">1930 CHIJ Katong Convent (Sec)</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://chijstnicholasgirls.moe.edu.sg/">1933 CHIJ St. Nicholas Girls' School (Full School)</a></td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://chijsttheresasconvent.moe.edu.sg/">1933 CHIJ St. Theresa's Convent (Sec)</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://chijstjosephsconvent.moe.edu.sg/">1938 CHIJ St.Joseph's Convent (Sec)</a></td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://chijourladyqueenofpeace.moe.edu.sg/">1955 CHIJ Queen of Peace (Pri)</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://chijourladyofthenativity.moe.edu.sg/">1957 CHIJ Our Lady of Nativity (Pri)</a></td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://chijkellock.moe.edu.sg/">1964 CHIJ Kellock</a></td>
+  </tr>
+</tbody>
+</table>
 
 
 

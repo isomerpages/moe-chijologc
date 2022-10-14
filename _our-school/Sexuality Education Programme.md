@@ -32,67 +32,65 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) f
 #### At CHIJ Our Lady of Good Counsel, the following lessons from the Growing Years Programme will be taught in 2022: 
 
 **<center>Primary 5</center>**
-<style type="text/css">table, th{ border: 1px solid black; } 
-td { border: 1px solid black; } 
-
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vfn0{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
-.tg .tg-j4pq{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-4jry{background-color:#c0c0c0;border-color:#000000;text-align:center;vertical-align:middle}
-.tg .tg-3fas{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:middle}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x6tn{background-color:#ebf5ff;border-color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-ooe9{background-color:#409cff;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-shyf{background-color:#ebf5ff;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-7oih{background-color:#ebf5ff;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-xwzv{background-color:#ebf5ff;border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-4jry">Unit</th>
-    <th class="tg-4jry">LESSONS / DURATION</th>
-    <th class="tg-4jry">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-    <th class="tg-4jry">TIME PERIOD<br>(e.g. Term 1 Week 2)<br></th>
+    <th class="tg-ooe9">Unit</th>
+    <th class="tg-ooe9">LESSONS / DURATION</th>
+    <th class="tg-ooe9">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-ooe9">TIME PERIOD<br>(e.g. Term 1 Week 2)<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gfnm" rowspan="4">Gosh! <br>I Am Changing</td>
-    <td class="tg-gfnm">What Is Happening To Me?<br>(30 min)</td>
-    <td class="tg-3fas">- Know puberty is<br>- identify the physical changes during puberty</td>
-    <td class="tg-gfnm">Term 2 Week 2</td>
+    <td class="tg-shyf" rowspan="4">Gosh! <br>I Am Changing</td>
+    <td class="tg-shyf">What Is Happening To Me?<br>(30 min)</td>
+    <td class="tg-x6tn">- Know puberty is<br>- identify the physical changes during puberty</td>
+    <td class="tg-shyf">Term 2 Week 2</td>
   </tr>
   <tr>
-    <td class="tg-j4pq">What Can I Do? (Part 1)<br>(30 min)</td>
-    <td class="tg-3fas">-identify the stresses caused by physical and emotional changes during puberty<br>-describe healthy ways to manage the stresses caused by physical and emotional changes <br>during puberty<br>-describe the emotions caused by physical changes during puberty<br>-recognise that one’s identity does not change even when one’s body is experiencing change <br>due to puberty</td>
-    <td class="tg-gfnm">Term 2 Week 2</td>
+    <td class="tg-7oih">What Can I Do? (Part 1)<br>(30 min)</td>
+    <td class="tg-x6tn">-identify the stresses caused by physical and emotional changes during puberty<br>-describe healthy ways to manage the stresses caused by physical and emotional changes <br>during puberty<br>-describe the emotions caused by physical changes during puberty<br>-recognise that one’s identity does not change even when one’s body is experiencing change <br>due to puberty</td>
+    <td class="tg-shyf">Term 2 Week 2</td>
   </tr>
   <tr>
-    <td class="tg-j4pq">What Can I Do? (Part 2)<br>(30 min)</td>
-    <td class="tg-3fas">-identify the stresses caused by physical and emotional changes during puberty<br>-describe healthy ways to manage the stresses caused by these physical and emotional <br>changes during puberty<br>-describe the emotions caused by physical changes during puberty<br>-recognise that one’s identity does not change even when one’s body is experiencing <br>change due to puberty</td>
-    <td class="tg-gfnm">Term 2 Week 3</td>
+    <td class="tg-7oih">What Can I Do? (Part 2)<br>(30 min)</td>
+    <td class="tg-x6tn">-identify the stresses caused by physical and emotional changes during puberty<br>-describe healthy ways to manage the stresses caused by these physical and emotional <br>changes during puberty<br>-describe the emotions caused by physical changes during puberty<br>-recognise that one’s identity does not change even when one’s body is experiencing <br>change due to puberty</td>
+    <td class="tg-shyf">Term 2 Week 3</td>
   </tr>
   <tr>
-    <td class="tg-j4pq">Main Task<br>(30 min)</td>
-    <td class="tg-3fas">Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her <br>experiences during puberty. They will consider the situation from the point of view of the <br>peer and share ways to help him/her cope with the changes he/she is going through.</td>
-    <td class="tg-gfnm">Term 2 Week 3</td>
+    <td class="tg-7oih">Main Task<br>(30 min)</td>
+    <td class="tg-x6tn">Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her <br>experiences during puberty. They will consider the situation from the point of view of the <br>peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td class="tg-shyf">Term 2 Week 3</td>
   </tr>
   <tr>
-    <td class="tg-gfnm">Where I Belong</td>
-    <td class="tg-gfnm">What is My Role?<br>(30 min)</td>
-    <td class="tg-3fas">-know that gender is about being male or female<br>-choose not to stereotype by gender</td>
-    <td class="tg-gfnm">Term 2 Week 4</td>
+    <td class="tg-shyf">Where I Belong</td>
+    <td class="tg-shyf">What is My Role?<br>(30 min)</td>
+    <td class="tg-x6tn">-know that gender is about being male or female<br>-choose not to stereotype by gender</td>
+    <td class="tg-shyf">Term 2 Week 4</td>
   </tr>
   <tr>
-    <td class="tg-gfnm" rowspan="2">How Do I Keep <br>Myself Safe?</td>
-    <td class="tg-gfnm">What is Safety?<br>(30 min)</td>
-    <td class="tg-3fas">- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse</td>
-    <td class="tg-gfnm">Term 2 Week 5</td>
+    <td class="tg-shyf" rowspan="2">How Do I Keep <br>Myself Safe?</td>
+    <td class="tg-shyf">What is Safety?<br>(30 min)</td>
+    <td class="tg-x6tn">- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-shyf">Term 2 Week 5</td>
   </tr>
   <tr>
-    <td class="tg-j4pq">Stop It! Run! Tell!<br>(30 min)</td>
-    <td class="tg-vfn0">- protect themselves by resisting, removing themselves from harm and<br> seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm</td>
-    <td class="tg-j4pq">Term 2 Week 5</td>
+    <td class="tg-7oih">Stop It! Run! Tell!<br>(30 min)</td>
+    <td class="tg-xwzv">- protect themselves by resisting, removing themselves from harm and<br> seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-7oih">Term 2 Week 5</td>
   </tr>
 </tbody>
 </table>

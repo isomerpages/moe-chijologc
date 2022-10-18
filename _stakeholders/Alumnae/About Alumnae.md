@@ -19,14 +19,7 @@ Our school has come a long way from being the little convent school in Serangoon
 
 Do support our efforts to keep the OLGC spirit burning by indicating your interest to be a member of the future Alumni. Also, do help us in this endeavour by encouraging all your former schoolmates whom we might have missed, to sign up. The Principal and teachers (some of them old girls of the school themselves) and everyone else in the OLGC family look forward to seeing you and welcoming you. We will get back to you as soon as we are able to get a good number of past pupils.
 
-
-![](/images/_MG_9460.png)
-P6 Career Awareness Talk
-
-<br>
-
-![](/images/_MG_9524.png)
-Speakers Circuit Programme on Entrepreneurship
+![](/images/About_Alumnae-p6career%20awareness_SpeakersCircuit.jpg)
 
 
 Our Alumnae members, Ms Corinne Foo, Ms Melissa Har, Ms Gwyneth Har and Ms Audrey Tan inspired our girls to work towards their career aspirations with their passionate sharing on their professions.

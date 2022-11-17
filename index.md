@@ -20,7 +20,4 @@ sections:
         - title: Events
           description: (Click for more information)
           url: /Events/
-  - infopic:
-      image: /images/awards.jpeg
-      alt: Image alt text
 ---

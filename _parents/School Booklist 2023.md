@@ -11,7 +11,7 @@ description: ""
 [P2 Booklist](/files/2023%20P2.pdf)<br>
 [P3 Booklist](/files/2023%20P3.pdf)<br>
 [P4 Booklist](/files/2023%20P4.pdf)<br>
-[Primary 5 (Foundation)](/files/P5%20FDN%20Booklist.pdf)<br>
-[Primary 5 (Standard)](/files/P5%20STD%20Booklist.pdf)<br>
-[Primary 6 (Foundation)](/files/P6%20FDN%20%20Booklist.pdf)<br>
-[Primary 6 (Standard)](/files/P6%20STD%20Booklist.pdf)
+[Primary 5 (Foundation)](/files/2023%20P5FDN.pdf)<br>
+[Primary 5 (Standard)](/files/2023%20P5STD.pdf)<br>
+[Primary 6 (Foundation)](/files/2023%20P6FDN.pdf)<br>
+[Primary 6 (Standard)](/files/2023%20P5STD.pdf)

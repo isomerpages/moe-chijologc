@@ -3,13 +3,11 @@ title: School Booklist 2023
 permalink: /parents/School-Booklist-2023/
 description: ""
 ---
-
-
-## School Booklist 2022
+## School Booklist 2023
 
 #### Booklist are in PDF Format
 
-[P1 Booklist](/files/P1%20Booklist.pdf)<br>
+[P1 Booklist](/files/2023%20P1.pdf)
 [P2 Booklist](/files/P2%20Booklist.pdf)<br>
 [P3 Booklist](/files/P3%20Booklist.pdf)<br>
 [P4 Booklist](/files/P4%20Booklist.pdf)<br>

@@ -132,6 +132,47 @@ third_nav_title: School Staff
 
 #### Primary 3
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Primary 3</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">3 Compassion</td>
+    <td class="tg-0pky">Ms Jesslyn Ng<br>Ms Chng Peiling</td>
+    <td class="tg-0pky">ng_jie_ling_jesslyn@moe.edu.sg<br>chng_peiling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">3 Humility</td>
+    <td class="tg-0pky">Mrs Angelia Toh<br>Mrs Chan Qiong Ling</td>
+    <td class="tg-0pky">seah_swee_huang_angelia@moe.edu.sg<br>teoh_qiong_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">3 Integrity</td>
+    <td class="tg-0pky">Ms Lin Ting<br>Mrs Chak Meow Ling</td>
+    <td class="tg-0pky">lin_ting@moe.edu.sg<br>chong_meow_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">3 Perseverance</td>
+    <td class="tg-0pky">Mrs Kong – Chan Xiao Qing Olivia<br>Mrs Tan Jia Sian/Ms Ng Yu Fang<br></td>
+    <td class="tg-0pky">chan_xiao_qing_olivia@moe.edu.sg<br>tan_jia_sian@moe.edu.sg<br>ng_yu_fang@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
 | Class            | Form Teacher & Co- Form Teacher | Email Address                       |
 |------------------|---------------------------------|-------------------------------------|
 | 3 Compassion     | Mdm Seah Siew Ping              | seah_siew_ping@moe.edu.sg           |
@@ -145,6 +186,47 @@ third_nav_title: School Staff
 |                  | Ms Lee Yen Hoon                 | lee_yen_hoon@moe.edu.sg             |
 
 #### Primary 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Primary 4</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">4 Compassion</td>
+    <td class="tg-0pky">Mrs Esther Loo<br>Ms Loh Peck Jin</td>
+    <td class="tg-0pky">tan_wee_boon_esther@moe.edu.sg<br>loh_peck_jin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">4 Humility</td>
+    <td class="tg-0pky">Mr Bernard Goh<br>Ms Lee Yen Hoon</td>
+    <td class="tg-0pky">goh_boon_heng_bernard@moe.edu.sg<br>lee_yen_hoon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">4 Integrity</td>
+    <td class="tg-lboi">Ms Khoo Pei Yi / Ms Avelyn Wei<br>Ms Ummi</td>
+    <td class="tg-0pky">khoo_pei_yee@moe.edu.sg<br>wei_peiling_avelyn@moe.edu.sg<br>ummikalthum_mohd_basheer@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">4 Perseverance</td>
+    <td class="tg-0pky">Mrs Tan Cheair Huang<br>Ms Varsinii</td>
+    <td class="tg-0pky">heng_cheair_huang@moe.edu.sg<br>varsinii_swaminathan@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
 | Class           | Form Teacher & Co- Form Teacher | Email Address                              |
 |-----------------|---------------------------------|--------------------------------------------|

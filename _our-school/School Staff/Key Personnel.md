@@ -4,28 +4,132 @@ permalink: /our-school/School-Staff/Key-Personnel/
 description: ""
 third_nav_title: School Staff
 ---
-## Key Personnel 
+## Key Personnel
 
-|            Designation           |             Name             |                    E-Mail                   |
-|:--------------------------------:|:----------------------------:|:-------------------------------------------:|
-| Principal                        | Ms Grace Tan                 | chijolgcs@moe.edu.sg                        |
-| Vice-Principal                   | Mrs Angelina Wong            | chijolgcs@moe.edu.sg                        |
-| Vice-Principal                   | Ms Sharon Liat               | chijolgcs@moe.edu.sg                        |
-| Year Head (P2, P3, P4)           | Mrs Chak Meow Ling           | chong_meow_ling@moe.edu.sg                  |
-| Year Head, Upper Primary (P5-P6) | Mrs Chu Oi Geok              | gwee_oi_geok@moe.edu.sg                     |
-| HOD English                      | Mrs Deepa Nair               | deepa_thampuran@moe.edu.sg                  |
-| HOD Mathematics                  | Mrs Anne Tay                 | peh_ai_ling_anne@moe.edu.sg                 |
-| HOD Science                      | Ms Linda Tan                 | tan_tiam_lin_linda@moe.edu.sg               |
-| HOD Mother Tongue                | Ms Lee Yen Hoon              | lee_yen_hoon@moe.edu.sg                     |
-| HOD PE & CCA                     | Ms Loh Peck Jin              | loh_peck_jin@moe.edu.sg                     |
-| HOD CCE                          | Ms Amy Phang                 | phang_jing_yi_amy@moe.edu.sg                |
-| HOD ICT                          | Mr Bernard Goh               | goh_boon_heng_bernard@moe.edu.sg            |
-| School Staff Developer           | Ms Julia Tan                 | tan_chai_lin_julia@moe.edu.sg               |
-| SH Student Management            | Mrs Tan Jia Sian             | tan_jia_sian@moe.edu.sg                     |
-| SH Aesthetics                    |  Ms Junie Ong                | ong_Junie@moe.edu.sg                        |
-| LH  EL                           | Mrs Valerie Tan              | ang_su_lin_valerie@moe.edu.sg               |
-| LH Mathematics                   | Ms Sim Seok Woon             | sim_seok_woon@moe.edu.sg                    |
-| Assistant Year Head (P1)         | Mdm Nursyahidah              | nursyahidah_binte_mohamad_jamal@moe.edu.sg  |
-| LH CL                            |  Mdm Serene Chua             | chua_geok_peng@moe.edu.sg                   |
-| Admin Manager                    | Mdm Lalitha d/o Panjarselon  | lalitha_panjarselon@schools.gov.sg          |
-| Operations Manager               | Mr Sreedharan                | sreedharan_vairamuthu_kathiresu@moe.edu.sg  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Designation</th>
+    <th class="tg-0pky">Name</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Principal</td>
+    <td class="tg-0pky">Ms Grace Tan</td>
+    <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Vice-Principal</td>
+    <td class="tg-0pky">Mrs Angelina Wong</td>
+    <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Vice-Principal</td>
+    <td class="tg-lboi">Ms Sharon Liat</td>
+    <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Year Head (P2, P3, P4)</td>
+    <td class="tg-0lax">Mrs Chak Meow Ling</td>
+    <td class="tg-0lax">chong_meow_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Year Head, Upper Primary (P5-P6)</td>
+    <td class="tg-0lax">Mrs Chu Oi Geok</td>
+    <td class="tg-0lax">gwee_oi_geok@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">HOD English</td>
+    <td class="tg-0lax">Mrs Deepa Nair</td>
+    <td class="tg-0lax">deepa_thampuran@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">HOD Mathematics</td>
+    <td class="tg-0lax">Mrs Anne Tay</td>
+    <td class="tg-0lax">peh_ai_ling_anne@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">HOD Science</td>
+    <td class="tg-0lax">Ms Linda Tan</td>
+    <td class="tg-0lax">tan_tiam_lin_linda@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">HOD Mother Tongue</td>
+    <td class="tg-0lax">Ms Lee Yen Hoon</td>
+    <td class="tg-0lax">lee_yen_hoon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">HOD PE &amp; CCA</td>
+    <td class="tg-0lax">Ms Loh Peck Jin</td>
+    <td class="tg-0lax">loh_peck_jin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">HOD CCE</td>
+    <td class="tg-0lax">Ms Amy Phang</td>
+    <td class="tg-0lax">phang_jing_yi_amy@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">HOD ICT</td>
+    <td class="tg-0lax">Mr Bernard Goh</td>
+    <td class="tg-0lax">goh_boon_heng_bernard@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">School Staff Developer</td>
+    <td class="tg-0lax">Ms Julia Tan</td>
+    <td class="tg-0lax">tan_chai_lin_julia@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SH Student Management</td>
+    <td class="tg-0lax">Mrs Tan Jia Sian</td>
+    <td class="tg-0lax">tan_jia_sian@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SH Aesthetics</td>
+    <td class="tg-0lax">Ms Junie Ong</td>
+    <td class="tg-0lax">ong_Junie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">LH English</td>
+    <td class="tg-0lax">Mrs Valerie Tan</td>
+    <td class="tg-0lax">ang_su_lin_valerie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">LH Mathematics</td>
+    <td class="tg-0lax">Ms Sim Seok Woon</td>
+    <td class="tg-0lax">sim_seok_woon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Assistant Year Head (P1)</td>
+    <td class="tg-0lax">Mdm Nursyahidah</td>
+    <td class="tg-0lax">nursyahidah_binte_mohamad_jamal@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">LH Chinese</td>
+    <td class="tg-0lax">Mdm Serene Chua</td>
+    <td class="tg-0lax">chua_geok_peng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Admin Manager</td>
+    <td class="tg-0lax">Mdm Lalitha d/o Panjarselon</td>
+    <td class="tg-0lax">lalitha_panjarselon@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Operations Manager</td>
+    <td class="tg-0lax">Mr Sreedharan</td>
+    <td class="tg-0lax">sreedharan_vairamuthu_kathiresu@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+

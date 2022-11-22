@@ -8,7 +8,52 @@ third_nav_title: School Staff
 
 #### Primary 1 
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Primary 1</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1 Compassion</td>
+    <td class="tg-c3ow">Mrs Norlizah Fazil<br>Mrs Jacelyn Lim</td>
+    <td class="tg-0pky">norlizah_said@moe.edu.sg<br>heng_tian_ying@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">1 Humility</td>
+    <td class="tg-c3ow">Mrs Mandy Doll<br>Ms Khoo Pei Yi</td>
+    <td class="tg-0pky">mandy_yin_mei_doll@moe.edu.sg<br>khoo_pei_yee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">1 Integrity</td>
+    <td class="tg-c3ow">Ms Durga<br>Ms Oh Bee Ling</td>
+    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>oh_bee_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">1 Perseverance</td>
+    <td class="tg-c3ow">Ms Quek Kian Lan<br>Mdm Seah Siew Ping</td>
+    <td class="tg-0pky">quek_kian_lan_a@moe.edu.sg<br>seah_siew_ping@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">1 Grace</td>
+    <td class="tg-c3ow">Mdm Teo Shi Yin<br>Mdm Nursyahidah/<br>Mdm Li Guimei</td>
+    <td class="tg-0pky">teo_shi_yin@moe.edu.sg<br>nursyahidah_binte_mohamad_jamal@moe.edu.sg<br>li_guimei@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
 | Class               | Form Teacher & Co- Form Teacher | Email Address                         |
 |---------------------|---------------------------------|---------------------------------------|

@@ -82,7 +82,7 @@ third_nav_title: School Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Primary 2</th>
+    <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -144,7 +144,7 @@ third_nav_title: School Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Primary 3</th>
+    <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -199,7 +199,7 @@ third_nav_title: School Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Primary 4</th>
+    <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -254,7 +254,7 @@ third_nav_title: School Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Primary 5</th>
+    <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -309,7 +309,7 @@ third_nav_title: School Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Primary 6</th>
+    <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>

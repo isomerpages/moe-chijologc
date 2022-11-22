@@ -242,6 +242,47 @@ third_nav_title: School Staff
 
 #### Primary 5
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Primary 5</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">5 Compassion</td>
+    <td class="tg-0pky">Mrs Claire Thamboo<br>Mrs Chu Oi Geok</td>
+    <td class="tg-0pky">sharminni_rajagopal@moe.edu.sg<br>gwee_oi_geok@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">5 Humility</td>
+    <td class="tg-0pky">Mrs Sharon Nonis<br>Mdm Junie Ong</td>
+    <td class="tg-0pky">nonis_sharon_jacqueline@moe.edu.sg<br>ong_Junie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">5 Integrity</td>
+    <td class="tg-lboi">Mr Tan Chen Ping<br>Mrs Deepa Nair</td>
+    <td class="tg-0pky">tan_chen_ping@moe.edu.sg<br>deepa_thampuran@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">5 Perseverance</td>
+    <td class="tg-0pky">Ms Mahalakshmi<br>Ms Amy Phang</td>
+    <td class="tg-0pky">mahalakshmi_alaghimanvalan@moe.edu.sg<br>phang_jing_yi_amy@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
 | Class            | Form Teacher & Co- Form Teacher | Email Address                       |
 |------------------|---------------------------------|-------------------------------------|
 | 5 Compassion     | Mr Darren Lee                   | lee_chuan_rong_darren@moe.edu.sg    |

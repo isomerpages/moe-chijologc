@@ -20,7 +20,7 @@ third_nav_title: School Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Primary 1</th>
+    <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -277,8 +277,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">5 Perseverance</td>
-    <td class="tg-0pky">Ms Mahalakshmi<br>Ms Amy Phang</td>
-    <td class="tg-0pky">mahalakshmi_alaghimanvalan@moe.edu.sg<br>phang_jing_yi_amy@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Mahalakshmi<br>Mrs Anne Tay</td>
+    <td class="tg-0pky">mahalakshmi_alaghimanvalan@moe.edu.sg<br>peh_ai_ling_anne@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -296,6 +296,47 @@ third_nav_title: School Staff
 |                  | Mr Chai Wei Jun                 | chai_wei_jun@moe.edu.sg             |
 
 #### Primary 6
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Primary 6</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">6 Compassion</td>
+    <td class="tg-0pky">Mr Darren Lee<br>Ms Amy Phang<br>Mdm Jin Qing</td>
+    <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>phang_jing_yi_amy@moe.edu.sg<br>jin_qing@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">6 Humility</td>
+    <td class="tg-0pky">Mdm Rasyidah<br>Mrs Valerie Tan</td>
+    <td class="tg-0pky">nur_rasyidah_abdul_rahim@moe.edu.sg<br>ang_su_lin_valerie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">6 Integrity</td>
+    <td class="tg-lboi">Ms Wong Jie Jern<br>Ms Sim Seok Woon</td>
+    <td class="tg-0pky">wong_jie_jern@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">6Perseverance</td>
+    <td class="tg-0pky">Mr Chai Wei Jun<br>Ms Linda Tan</td>
+    <td class="tg-0pky">chai_wei_jun@moe.edu.sg<br>tan_tiam_lin_linda@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
 | Class          | Form Teacher & Co- Form Teacher | Email Address                      |
 |----------------|---------------------------------|------------------------------------|

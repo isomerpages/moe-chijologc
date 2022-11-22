@@ -70,6 +70,52 @@ third_nav_title: School Staff
 
 #### Primary 2
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Primary 2</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">2 Compassion</td>
+    <td class="tg-0pky">Ms Laavenya<br>Mrs Norahida Bte Abdol Rahim</td>
+    <td class="tg-0pky">balasubramaniam_laavenya@moe.edu.sg<br>norahida_abdol_rahim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">2 Humility</td>
+    <td class="tg-0pky">Ms Chionh Seok Huen<br>Ms Cheng Ka Yee</td>
+    <td class="tg-0pky">chionh_seok_huen@moe.edu.sg<br>cheng_ka_yee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">2 Integrity</td>
+    <td class="tg-0pky">Mrs Jenny Chew<br>Mdm Serene Chua</td>
+    <td class="tg-0pky">koh_ah_lang_jenny@moe.edu.sg<br>chua_geok_peng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">2 Perseverance</td>
+    <td class="tg-0pky">Ms Shanthi<br>Mrs Julia Lee</td>
+    <td class="tg-0pky">shanthi_a@moe.edu.sg<br>tan_chai_lin_julia@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">2 Grace</td>
+    <td class="tg-0pky">Mrs Ho Hung Yin<br>Ms Nurulhuda/ Mr Kwek Keng Yang<br></td>
+    <td class="tg-0pky">how_hung_yin@moe.edu.sg<br>nurulhuda_mohamed_ayub@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
 | Class           | Form Teacher & Co- Form Teacher | Email Address                       |
 |-----------------|---------------------------------|-------------------------------------|
 | 2 Compassion    | Ms Oh Bee Ling                  | oh_bee_ling@moe.edu.sg              |

@@ -33,13 +33,13 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">1 Humility</td>
-    <td class="tg-0pky">Mrs Mandy Doll<br>Ms Khoo Pei Yi</td>
-    <td class="tg-0pky">mandy_yin_mei_doll@moe.edu.sg<br>khoo_pei_yee@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Durga<br>Ms Oh Bee Ling</td>
+    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>oh_bee_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">1 Integrity</td>
-    <td class="tg-0pky">Ms Durga<br>Ms Oh Bee Ling</td>
-    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>oh_bee_ling@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Mandy Doll<br>Ms Khoo Pei Yi</td>
+    <td class="tg-0pky">mandy_yin_mei_doll@moe.edu.sg<br>khoo_pei_yee@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">1 Perseverance</td>

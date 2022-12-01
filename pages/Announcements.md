@@ -19,8 +19,6 @@ description: ""
 
 * [The IJ Education](https://catholicnews.sg/2021/08/08/the-ij-education/)
 
-* [Message from Chairperson of CHIJ Board of Management](https://staging.d1qu38ykr1wc9w.amplifyapp.com/stakeholders/IJ-Board-of-Management/permalink/)
-
 * [Updates On School Dental Service](/Announcements/Dental-Service-Update/)
 
 * [Cardigan Size Chart](/Announcements/Size-Chart/)

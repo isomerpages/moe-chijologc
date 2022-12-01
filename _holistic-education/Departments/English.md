@@ -8,7 +8,7 @@ third_nav_title: Departments
 
 At CHIJ OLGC, students’ learning is enhanced and extended during curriculum time through various programmes. Our teachers actively promote extensive and intensive reading among students. There are several activities where students are engaged in learning. These include Storytime@recess, book promotion during recess, oratorical presentations and class newsletters, to name a few.  
   
-The English department is involved in the actualisation of the Applied Learning Programme (ALP). Teachers are involved in helping students to be confident and effective communicators as well as critical thinkers; the 21CC skills. For more about the ALP please click&nbsp;[here](https://chijourladyofgoodcounsel.moe.edu.sg/school-experience/school-wide-programmes/applied-learning-programme-alp).  
+The English department is involved in the actualisation of the Applied Learning Programme (ALP). Teachers are involved in helping students to be confident and effective communicators as well as critical thinkers; the 21CC skills. For more about the ALP please click&nbsp;[here](https://chijourladyofgoodcounsel.moe.edu.sg/school-experience/School-Wide-Programme/ALP/).  
  
 _Reading Promotion:_
 	

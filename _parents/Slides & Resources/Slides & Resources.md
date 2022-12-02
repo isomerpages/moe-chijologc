@@ -12,9 +12,9 @@ third_nav_title: Slides & Resources
 
 ### General Information
 
-* [5 Things OLGC Girls Want Their Parents To Know](/files/5_things_OLGC_girls_want_their_parents_to_know.pdf)
+[5 Things OLGC Girls Want Their Parents To Know](/files/5_things_OLGC_girls_want_their_parents_to_know.pdf)
 
-*   [Instructions for Submitting Travel Plans Using MC Online ](/files/Instructions%20for%20Submitting%20Travel%20Plans%20Using%20MC%20Online.pdf)
+
 
 ### Submitting Travel Declaration via Parent Gateway (PG)
 

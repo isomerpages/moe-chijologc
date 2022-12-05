@@ -31,19 +31,24 @@ td { border: 1px solid black; }
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="2">SFX Transport Services</td>
+    <td class="tg-0pky" colspan="2">Yellow Bus Services Pte Ltd (2023 - 2024)</td>
   </tr>
   <tr>
     <td class="tg-0pky">Address:</td>
-    <td class="tg-0pky">31 Sin Ming Drive&nbsp;&nbsp;#01-299, S(575705) </td>
+    <td class="tg-0pky">28 Sin Ming Lane #03-135 Midview City S(573972) </td>
   </tr>
   <tr>
     <td class="tg-0pky">Contact:</td>
-    <td class="tg-0pky">6282 0262 / 8800 0262 / 8777 0262</td>
+    <td class="tg-0pky">6556 4257 / 9898 8171</td>
+  </tr>
+	  <tr>
+    <td class="tg-0pky">School bus Registration Link:</td>
+    <td class="tg-0pky"> <a href="https://yellowbus.adaptivebizapp.com/REGISTRATION/CREATEBYSCHOOL?IDE=cjXlSbTPCUIoYqCDs/4NkyXCpKggXBdeSVpSCKSuNMD0xZ8RybQMU7M4VwJuHdke+nVdsP7QxS3LvC/XSvgnqBV1BX9vNBADfFRxW86nI9Q=" target="_blank" rel="noopener noreferrer">Click Here</a>
+		</td>
   </tr>
   <tr>
     <td class="tg-0pky">Email</td>
-    <td class="tg-0pky">school@sfxtransport.com.sg (Subj: CHIJOLGC)</td>
+    <td class="tg-0pky">chijolgcbus@yellowbus.com.sg</td>
   </tr>
   <tr>
     <td class="tg-f8tz" colspan="2">Bookshop</td>

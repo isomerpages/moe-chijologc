@@ -267,7 +267,7 @@ third_nav_title: School Staff
     <td class="tg-0pky">wong_jie_jern@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-lboi">6Perseverance</td>
+    <td class="tg-lboi">6 Perseverance</td>
     <td class="tg-0pky">Mr Chai Wei Jun<br>Ms Linda Tan</td>
     <td class="tg-0pky">chai_wei_jun@moe.edu.sg<br>tan_tiam_lin_linda@moe.edu.sg</td>
   </tr>

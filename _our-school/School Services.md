@@ -31,7 +31,7 @@ td { border: 1px solid black; }
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="2">Yellow Bus Services Pte Ltd (2023 - 2024)</td>
+    <td class="tg-0pky" colspan="2">Yellow Bus Services Pte Ltd</td>
   </tr>
   <tr>
     <td class="tg-0pky">Address:</td>

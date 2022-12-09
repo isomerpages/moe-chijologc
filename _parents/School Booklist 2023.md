@@ -14,4 +14,4 @@ description: ""
 [Primary 5 (Foundation)](/files/2023%20P5FDN.pdf)<br>
 [Primary 5 (Standard)](/files/2023%20P5STD.pdf)<br>
 [Primary 6 (Foundation)](/files/2023%20P6FDN.pdf)<br>
-[Primary 6 (Standard)](/files/2023%20P5STD.pdf)
+[Primary 6 (Standard)](/files/2023%20P6STD.pdf)

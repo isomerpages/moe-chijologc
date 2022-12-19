@@ -50,11 +50,14 @@ Students are taught how to use the code.org platform to learn block-based coding
 
 ### Code-For-Fun Programme by IMDA
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbre9NKT_2IwpVn6qYg_WENqPdediSJs1QUbkBe1N8xqJ02rbzmPaRJX4in1pzWMxZ9kEUjdCxRYYr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="527" height="296" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbre9NKT_2IwpVn6qYg_WENqPdediSJs1QUbkBe1N8xqJ02rbzmPaRJX4in1pzWMxZ9kEUjdCxRYYr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="627" height="396" allowfullscreen="true"></iframe>
+<p>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYVtgQvRvKKyrqDmLs2k-RO7Rusrqiy_A8YyzgafWirvX4SniJRUR0mgaIYkP5W1qeTNVU07gj7P42/embed?start=false&loop=false&delayms=300" frameborder="0" width="627" height="396" allowfullscreen="true"></iframe>
 
 ### Student iCON/Google Suite Training
 
-<iframe allowfullscreen="true" height="296" width="527" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFfHQqhWk4PAwe8GVQG9XM1pq21QhsoIcB3dyUcYExbP2qLtjP3ndGvW0UCwwYUQJ8223d4rSQ3Wzx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="396" width="627" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFfHQqhWk4PAwe8GVQG9XM1pq21QhsoIcB3dyUcYExbP2qLtjP3ndGvW0UCwwYUQJ8223d4rSQ3Wzx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Cyber Wellness
 
@@ -89,4 +92,3 @@ Students need to:
 *   be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)  
     
 *   advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
-

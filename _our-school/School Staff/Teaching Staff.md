@@ -38,8 +38,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">1 Integrity</td>
-    <td class="tg-0pky">Mrs Mandy Doll<br>Ms Khoo Pei Yi</td>
-    <td class="tg-0pky">mandy_yin_mei_doll@moe.edu.sg<br>khoo_pei_yee@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Mandy Doll<br>Ms Joanne Koo</td>
+    <td class="tg-0pky">mandy_yin_mei_doll@moe.edu.sg<br>joanne_koo_hui_sze@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">1 Perseverance</td>
@@ -393,8 +393,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">3</td>
-    <td class="tg-lboi">Mrs Gesan</td>
-    <td class="tg-0pky">veni_raman_samikanu@moe.edu.sg</td>
+    <td class="tg-lboi">Ms Vasinii</td>
+    <td class="tg-0pky">varsinii_swaminathan@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

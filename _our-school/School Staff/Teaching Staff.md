@@ -393,8 +393,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">3</td>
-    <td class="tg-lboi">Mrs Gesan</td>
-    <td class="tg-0pky">veni_raman_samikanu@moe.edu.sg</td>
+    <td class="tg-lboi">Ms Vasinii</td>
+    <td class="tg-0pky">varsinii_swaminathan@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

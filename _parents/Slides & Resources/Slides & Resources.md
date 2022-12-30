@@ -14,6 +14,10 @@ third_nav_title: Slides & Resources
 
 [5 Things OLGC Girls Want Their Parents To Know](/files/5_things_OLGC_girls_want_their_parents_to_know.pdf)
 
+[Parenting Support: Helping your child cope with difficult feelings](/Announcements/Parenting-Support/)
+
+[Triple P: Positive Parenting Program](/files/2022%20Triple%20P.pdf)
+
 
 
 ### Submitting Travel Declaration via Parent Gateway (PG)

@@ -10,7 +10,7 @@ third_nav_title: Slides & Resources
 
 [Precautionary measures guide](/images/Beat%20the%20Bug.jpeg)
 
-### General Information
+### Parenting Resources
 
 [5 Things OLGC Girls Want Their Parents To Know](/files/5_things_OLGC_girls_want_their_parents_to_know.pdf)
 

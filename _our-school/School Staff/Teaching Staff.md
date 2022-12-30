@@ -124,7 +124,7 @@ third_nav_title: School Staff
 <tbody>
   <tr>
     <td class="tg-0pky">3 Compassion</td>
-    <td class="tg-0pky">Ms Jesslyn Ng<br>Ms Chng Peiling</td>
+    <td class="tg-0pky">Ms Jesslyn Ho<br>Ms Chng Peiling</td>
     <td class="tg-0pky">ng_jie_ling_jesslyn@moe.edu.sg<br>chng_peiling@moe.edu.sg</td>
   </tr>
   <tr>

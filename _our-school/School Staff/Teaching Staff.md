@@ -97,7 +97,7 @@ third_nav_title: School Staff
   <tr>
     <td class="tg-lboi">2 Grace</td>
     <td class="tg-0pky">Mrs Ho Hung Yin<br>Ms Nurulhuda/ Mr Kwek Keng Yang<br></td>
-    <td class="tg-0pky">how_hung_yin@moe.edu.sg<br>nurulhuda_mohamed_ayub@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg</td>
+    <td class="tg-0pky">chow_hung_yin@moe.edu.sg<br>nurulhuda_mohamed_ayub@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -393,7 +393,7 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">3</td>
-    <td class="tg-lboi">Ms Vasinii</td>
+    <td class="tg-lboi">Ms Varsinii</td>
     <td class="tg-0pky">varsinii_swaminathan@moe.edu.sg</td>
   </tr>
 </tbody>

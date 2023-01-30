@@ -33,7 +33,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 ![](/images/2023SEDP5Table(2).jpg)
 ![](/images/2023SEDP6Table.jpg)
-<u>**Please Note:</u> 
+**Please Note: 
   \*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**
 
 
@@ -41,7 +41,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 |     |                                                                                                                                                                                                                                                                                 |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 8.  | Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.                                                                                                                      |
-| 9.  |  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022%20Annex%20A%20SEd%20Opt%20Out%20Form.pdf) . The completed opt-out form is to be submitted by 25/02/2022. |
-| 10. | Parents can contact the school at 6288 6930 or email chijolgcs@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.                                                                                                             |
-| 11. | Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.                                                                                                                                               |
+| 8.  |    Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.                                                                                                                    |
+| 9.  |  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A%20SEd%20Opt%20Out%20Form%202023.pdf). The completed opt-out form is to be submitted by **24/02/2023**.|
+| 10. |        Parents can contact the school at **6288 6930** or email [chijolgcs@moe.edu.sg](chijolgcs@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.                                                                                                     |

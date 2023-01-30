@@ -33,8 +33,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 ![](/images/2023SEDP5Table(2).jpg)
 ![](/images/2023SEDP6Table.jpg)
-**Please Note: 
-  \*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**
+**Please Note:  
+  \* For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**
 
 
 ### Information for Parents

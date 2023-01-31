@@ -3,6 +3,9 @@ title: Most Inspiring Tamil Teacher Award 2023
 permalink: /MITT2023/
 description: ""
 ---
+
+![](/images/2023_MITT_thumbnail.png)
+
 [OPEN FOR NOMINATIONS: MOST INSPIRING TAMIL TEACHERS’ AWARD 2023](/files/Press%20Release_Nominations%20for%20Most%20Inspiring%20Tamil%20Teachers%20Award%202023.pdf)
 
 From 30 January to 10 April 2023, students, educators, parents, and members of the public are invited to nominate Tamil Language (TL) teachers for the Most Inspiring Tamil Teachers' (MITT) Award 2023.

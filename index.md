@@ -21,6 +21,6 @@ sections:
           description: (Click for more information)
           url: /Events/
         - title: For Students
-          description: ""
+          description: (Click for more information)
           url: /forstudents/
 ---

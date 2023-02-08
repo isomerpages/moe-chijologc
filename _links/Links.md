@@ -87,7 +87,7 @@ td { border: 1px solid black; }
   </tr>
   <tr>
     <td class="tg-cly1">Information Literacy</td>
-    <td class="tg-0lax">- <a rel="noopener noreferrer" target="_blank" href="https://www.nlb.gov.sg/main/home">NLB S.U.R.E. Site (SOURCE . UNDERSTAND . RESEARCH . EVALUATE)</a><br>- <a rel="noopener noreferrer" target="_blank" href="https://www.commonsensemedia.org/articles/how-to-spot-fake-news-and-teach-kids-to-be-media-savvy">Commonsense Media</a></td>
+    <td class="tg-0lax">- <a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/chijourladyofgoodcounsel/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">OPAC (School Library Resources) </a><br>- <a rel="noopener noreferrer" target="_blank" href="https://www.commonsensemedia.org/articles/how-to-spot-fake-news-and-teach-kids-to-be-media-savvy">Commonsense Media</a></td>
   </tr>
   <tr>
     <td class="tg-cly1">Stories Online</td>

@@ -4,6 +4,7 @@ permalink: /2023agab/
 description: ""
 ---
 
+
 From 3 February to 31 March 2023, students, educators, parents, and members of the public are invited to nominate outstanding Malay Language teachers for the _Arif Budiman_ Malay Language Teacher Award (AGAB) 2023.
 
 2. Jointly organised by the Malay Language Council, Singapore, Malay Language Teachers Association, Berita Harian and the Malay Language Learning and Promotion Committee, the _Arif Budiman_ Malay Language Teacher Award recognises Malay Language teachers from primary and secondary schools, junior colleges, and Millennia Institute who have made significant contributions to the teaching of the Malay Language. Nominees are evaluated based on their ability to:

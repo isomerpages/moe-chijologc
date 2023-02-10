@@ -29,5 +29,6 @@ Parent Volunteers are required to fulfill 40 hours of voluntary service by 30 Ju
 
 
 2) The officer in charge will contact the selected Parent Volunteers to commence on the tasks assigned to them.
+<br>
 3) Please follow the link below to register online:  
 [Parent Volunteer Registration Form for Parents with children entering P1 in Year 2025 (Phase 2B)](https://form.gov.sg/5e69b6721db1b700110aa173)

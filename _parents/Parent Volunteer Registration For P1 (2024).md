@@ -21,11 +21,13 @@ Parent Volunteers are required to fulfill 40 hours of voluntary service by 30 Ju
 ### Parent Volunteer Registration Process
 
 
-1. Complete and submit the registration form with the necessary documents to the school no later than 15 June 2023. Forms are to be submitted electronically on school website and will be acknowledged accordingly. Registration forms received after the deadline or incomplete forms may be rejected.  
+1) Complete and submit the registration form with the necessary documents to the school no later than 15 June 2023. Forms are to be submitted electronically on school website and will be acknowledged accordingly. Registration forms received after the deadline or incomplete forms may be rejected.  
       
-	* Please note that:
-		* you will be listed as a Parent Volunteer only when the completed registration form is received by the school.
-		* only selected Parent Volunteer/s will be notified by end July 2023
-2. The officer in charge will contact the selected Parent Volunteers to commence on the tasks assigned to them.
-3. Please follow the link below to register online:  
+Please note that: 
+ - you will be listed as a Parent Volunteer only when the completed registration form is received by the school.
+ - only selected Parent Volunteer/s will be notified by end July 2023
+
+
+2) The officer in charge will contact the selected Parent Volunteers to commence on the tasks assigned to them.
+3) Please follow the link below to register online:  
 [Parent Volunteer Registration Form for Parents with children entering P1 in Year 2025 (Phase 2B)](https://form.gov.sg/5e69b6721db1b700110aa173)

@@ -30,8 +30,9 @@ third_nav_title: Slides & Resources
 ### Parenting Links
 
 Practical parenting tips on Instagram to help parents with everything from things to say when your children talk back to important phrases to use when your child is struggling with work and more
-![](/images/iglogo.png)
- 
+
+ <img style="width: 25%;" src="/images/iglogo.png" /> [biglifejournal](https://www.instagram.com/biglifejournal/)   
+ [themompsychologist](https://www.instagram.com/themompsychologist/)                
 ### Submitting Travel Declaration via Parent Gateway (PG)
 
 

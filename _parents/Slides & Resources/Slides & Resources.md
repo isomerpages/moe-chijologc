@@ -19,6 +19,19 @@ third_nav_title: Slides & Resources
 
 [Schoolbag.edu.sg](https://www.schoolbag.edu.sg/)
 
+[Resilience Boosters](/files/GB%20-%20Resilience%20Boosters.pdf)
+
+[Transitions](/files/GB-%20Transitions.pdf)
+
+[Raising Confident Children](/files/GB%20-Raising-confident-children(2).pdf)
+
+[Managing Child's Screentime During School Holidays](/files/Managing%20Child's%20Screentime%20During%20School%20Holidays.pdf)
+
+### Parenting Links
+
+Practical parenting tips on Instagram to help parents with everything from things to say when your children talk back to important phrases to use when your child is struggling with work and more
+![](/images/iglogo.png)
+ 
 ### Submitting Travel Declaration via Parent Gateway (PG)
 
 

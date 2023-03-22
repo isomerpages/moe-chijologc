@@ -4,9 +4,9 @@ permalink: /Spotlight/
 description: ""
 ---
 ## In The Spotlight
-
 |                                              |
 |----------------------------------------------|
+| <img style="width: 25%;" src="/images/2023DistinguishedCLteacheraward.jpg" align = "left" />&nbsp; [Distinguished Chinese Language Teachers Awards 2023](https://www.gevme.com/dclta2023)                              | 
 | <img style="width: 25%;" src="/images/2023LeapAward.jpg" align = "left" />&nbsp; [12th LEAP Award Nominations](https://www.shhk.com.sg/newsroom/12th-leap-award-nominations-now-open/)                              | 
 | <img style="width: 25%;" src="/images/2023%20AGAB.png" align = "left" />&nbsp; [Arif Budiman Malay Language Teacher Award 2023](/2023agab/)                              | 
 | <img style="width: 25%;" src="/images/2023inspiringengtchr_thumb.jpg" align = "left" />&nbsp; [2023 Inspiring Teacher of English Award](/2023inspiringteacherofenglishaward/)                              | 

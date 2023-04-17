@@ -39,7 +39,7 @@ td { border: 1px solid black; }
   </tr>
   <tr>
     <td class="tg-0pky">Contact:</td>
-    <td class="tg-0pky">6556 4257 / 9898 8171</td>
+    <td class="tg-0pky">6556 4257 /&nbsp;9898 8171</td>
   </tr>
 	  <tr>
     <td class="tg-0pky">School bus Registration Link:</td>
@@ -57,8 +57,10 @@ td { border: 1px solid black; }
     <td class="tg-0pky" colspan="2">Pacific Bookstores Pte Ltd</td>
   </tr>
   <tr>
-    <td class="tg-lboi">Opening Hours:</td>
-    <td class="tg-lboi">Mondays to Fridays: 8 am to 2.30 pm<br>Sat: Closed</td>
+    <td class="tg-lboi">Opening Hours and Contact Number:</td>
+    <td class="tg-lboi">Mondays to Fridays: 8 am to 2.30 pm<br>Sat: Closed
+		<br>Tel: 93653928 (Calls only)<br>Call for appointment before your visit.
+ </td>
   </tr>
   <tr>
     <td class="tg-0lax">Lunch Time: </td>

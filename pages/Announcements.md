@@ -6,9 +6,10 @@ description: ""
 ## Announcements
 
 
+* [E-Open House 2023](/events/e-open-house-2023/)
+
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 
-* [E-Open House 2023](/events/e-open-house-2023/)
 
 *   [Student iCON FAQ](/Announcements/Student-iCON-Google-Suite/)
 

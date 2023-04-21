@@ -67,7 +67,7 @@ td { border: 1px solid black; }
     <td class="tg-0lax">12 pm to 1 pm<br>* <span style="font-style:italic">Avoid recess and school dismissal time</span></td>
   </tr>
   <tr>
-    <td class="tg-30ni" colspan="2">School Uniform</td>
+    <td class="tg-30ni" colspan="2">School Uniform and Cardigan</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2">Magdalene Sewing Centre Pte Ltd</td>

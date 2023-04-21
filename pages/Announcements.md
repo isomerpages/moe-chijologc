@@ -6,7 +6,9 @@ description: ""
 ## Announcements
 
 
-* [SLS Support For Home-Based Learning](https://staging.d1qu38ykr1wc9w.amplifyapp.com/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
+* [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
+
+* [E-Open House 2023](/events/e-open-house-2023/)
 
 *   [Student iCON FAQ](/Announcements/Student-iCON-Google-Suite/)
 
@@ -20,3 +22,4 @@ description: ""
 *   [PSLE Syllabus](https://www.seab.gov.sg/)
     
 *   [MOE Syllabus](https://www.moe.gov.sg/education/syllabuses/)
+

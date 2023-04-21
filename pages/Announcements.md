@@ -6,7 +6,10 @@ description: ""
 ## Announcements
 
 
-* [SLS Support For Home-Based Learning](https://staging.d1qu38ykr1wc9w.amplifyapp.com/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
+* [E-Open House 2023](/events/e-open-house-2023/)
+
+* [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
+
 
 *   [Student iCON FAQ](/Announcements/Student-iCON-Google-Suite/)
 

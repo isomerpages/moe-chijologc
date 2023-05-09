@@ -312,7 +312,7 @@ third_nav_title: School Staff
   </tr>
 	<tr>
     <td class="tg-lboi">4</td>
-    <td class="tg-lboi">Mrs Brenda Chua (AED Learning Behavioural Support)</td>
+    <td class="tg-lboi">Mrs Brenda Chua (Special Educational Needs Officer)</td>
     <td class="tg-0pky">tay_su_min_brenda@moe.edu.sg</td>
   </tr>
   <tr>

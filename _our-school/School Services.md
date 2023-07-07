@@ -5,7 +5,6 @@ description: ""
 ---
 ## School Services 
 
-#### School Bus Service
 
 <style type="text/css">table, th{ border: 1px solid black; } 
 td { border: 1px solid black; } 
@@ -59,7 +58,7 @@ td { border: 1px solid black; }
   <tr>
     <td class="tg-lboi">Opening Hours and Contact Number:</td>
     <td class="tg-lboi">Mondays to Fridays: 8 am to 2.30 pm<br>Sat: Closed
-		<br>Tel: 93653928 (Calls only)<br>Call for appointment before your visit.
+		<br>Tel: 93653928 (Calls/Whatsapp)<br>Call for appointment before your visit.
  </td>
   </tr>
   <tr>

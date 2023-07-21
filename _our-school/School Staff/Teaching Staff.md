@@ -310,18 +310,13 @@ third_nav_title: School Staff
     <td class="tg-lboi">Ms Danya Tan Li Yin (Special Educational Needs Officer)</td>
     <td class="tg-0pky">tan_yi_lin_a@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td class="tg-lboi">4</td>
-    <td class="tg-lboi">Mrs Brenda Chua (Special Educational Needs Officer)</td>
-    <td class="tg-0pky">tay_su_min_brenda@moe.edu.sg</td>
-  </tr>
   <tr>
-    <td class="tg-lboi">5</td>
+    <td class="tg-lboi">4</td>
     <td class="tg-0pky">Mdm Maslinda (AED)</td>
     <td class="tg-0pky">maslinda_sabtu@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Mrs Emily Tony (AED)</td>
     <td class="tg-0lax">gomez_crystl_emily@moe.edu.sg</td>
   </tr>

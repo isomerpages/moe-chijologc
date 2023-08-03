@@ -6,7 +6,7 @@ description: ""
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Noodle or Mixed Rice stall | 31 August 2023 | NIL|
-| Halal cuisine Stall | 31 August 2023 | Rice or noodle stalls are acceptable.|
+| Halal Cuisine Stall | 31 August 2023 | Rice or noodle stalls are acceptable.|
 
 **Application Procedure**
 

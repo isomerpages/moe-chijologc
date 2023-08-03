@@ -23,95 +23,46 @@ td { border: 1px solid black; }
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky" colspan="2">School Bus</th>
-  </tr>
-</thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="2">Yellow Bus Services Pte Ltd</td>
+    <td class="tg-0pky">Textbooks<br>
+	 School Attire</td>
+    <td class="tg-0pky">School Bookshop<br>c/o Pacific Bookstores Pte Ltd<br>
+Call or WhatsApp: 9365 3928<br>Mondays to Fridays<br>
+8am to 2.30pm<br>Closed on Sat/Sun/PH and School holidays<br>
+</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Address:</td>
-    <td class="tg-0pky">28 Sin Ming Lane #03-135 Midview City S(573972) </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Contact:</td>
-    <td class="tg-0pky">6556 4257 /&nbsp;9898 8171</td>
+    <td class="tg-0pky">OLGC Cardigan<br> Name Tags</td>
+    <td class="tg-0pky">Magdalene Sewing Centre<br>
+Call 6293 5840 or, WhatsApp 8638 0499<br>
+https://www.magdalene.com.sg/<br>
+5000 Ang Mo Kio Ave 5<br>
+Techplace II, #05-09, (569870) <br>
+</td>
   </tr>
 	  <tr>
-    <td class="tg-0pky">School bus Registration Link:</td>
-    <td class="tg-0pky"> <a href="https://yellowbus.adaptivebizapp.com/REGISTRATION/CREATEBYSCHOOL?IDE=cjXlSbTPCUIoYqCDs/4NkyXCpKggXBdeSVpSCKSuNMD0xZ8RybQMU7M4VwJuHdke+nVdsP7QxS3LvC/XSvgnqBV1BX9vNBADfFRxW86nI9Q=" target="_blank" rel="noopener noreferrer">Click Here</a>
+    <td class="tg-0pky">School Bus</td>
+    <td class="tg-0pky"> Yellow Bus Services Pte Ltd<br>
+28 Sin Ming Lane, #03-135, Midview City S(573972) <br>
+Tel: 6556 4257 / 9898 8171<br>
+Email: chijolgcbus@yellowbus.com.sg<br>
+School bus Registration Link:
+<a rel="noopener noreferrer" target="_blank" href="https://yellowbus.adaptivebizapp.com/REGISTRATION/CREATEBYSCHOOL?IDE=cjXlSbTPCUIoYqCDs/4NkyXCpKggXBdeSVpSCKSuNMD0xZ8RybQMU7M4VwJuHdke+nVdsP7QxS3LvC/XSvgnqBV1BX9vNBADfFRxW86nI9Q=">Click Here</a>
 		</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Email</td>
-    <td class="tg-0pky">chijolgcbus@yellowbus.com.sg</td>
+    <td class="tg-0pky">School-based Student Care Centre (SCC)</td>
+    <td class="tg-0pky">YMCA<br>
+Tel: 9647 1253 (Call after 10am)<br>
+Email: gcscc@ymca.edu.sg
+</td>
   </tr>
   <tr>
-    <td class="tg-f8tz" colspan="2">Bookshop</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky" colspan="2">Pacific Bookstores Pte Ltd</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Opening Hours and Contact Number:</td>
-    <td class="tg-lboi">Mondays to Fridays: 8 am to 2.30 pm<br>Sat: Closed
-		<br>Tel: 93653928 (Calls/Whatsapp)<br>Call for appointment before your visit.
+    <td class="tg-lboi">Dental Clinic</td>
+    <td class="tg-lboi">Please contact the school for details or refer to Parents Gateway (PG).
  </td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Lunch Time: </td>
-    <td class="tg-0lax">12 pm to 1 pm<br>* <span style="font-style:italic">Avoid recess and school dismissal time</span></td>
-  </tr>
-  <tr>
-    <td class="tg-30ni" colspan="2">School Uniform and Cardigan</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2">Magdalene Sewing Centre Pte Ltd</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Address: </td>
-    <td class="tg-0lax">5000 Ang Mo Kio Avenue 5<br>Techplace II, #05-09, S(569870)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Opening Hours:</td>
-    <td class="tg-0lax">Mondays to Fridays: 8.00am – 4.00pm<br>Saturday: Closed</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Website:</td>
-    <td class="tg-0lax"><a href="https://www.magdalene.com.sg/" target="_blank" rel="noopener noreferrer">https://www.magdalene.com.sg/</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Contact:</td>
-    <td class="tg-0lax">6293 5840 Office<br>8638 0499 Mobile * WhatsApp for appointment before your visit.</td>
-  </tr>
-  <tr>
-    <td class="tg-8uq7" colspan="2">School PE Attire</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2">Contact school bookshop</td>
-  </tr>
-  <tr>
-    <td class="tg-xi5q" colspan="2">Student Care Centre</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2">YMCA</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Contact:</td>
-    <td class="tg-0lax">6282 7312<br>For any enquiries, please call after 12 pm.</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Email</td>
-    <td class="tg-0lax">gcscc@ymca.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-xi5q" colspan="2">School Dental Clinic</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2">Refer to Student Handbook (Page 2) for buddy clinics during the clinic closure in OLGC.</td>
-  </tr>
+ 
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Alumnae Member Registration
-permalink: /stakeholders/Alumnae/ALUMNAE-MEMBER-REGISTRATION/
+permalink: /partners/alumnae/alumnae-member-registration/
 description: ""
 third_nav_title: Alumnae
 ---

@@ -1,6 +1,6 @@
 ---
 title: About Alumnae
-permalink: /stakeholders/About-Alumnae/permalink/
+permalink: /partners/about-alumnae/permalink/
 description: ""
 third_nav_title: Alumnae
 ---

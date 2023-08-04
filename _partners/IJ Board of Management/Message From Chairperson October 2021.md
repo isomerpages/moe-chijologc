@@ -1,19 +1,19 @@
 ---
 title: Message From Chairperson October 2021
-permalink: /stakeholders/IJ-Board-of-Management/Chairperson-Message-Oct-2021/
+permalink: /partners/ij-board-of-management/chairperson-message-oct-2021/
 description: ""
 third_nav_title: IJ Board of Management
 ---
 ## MESSAGE FROM CHAIRPERSON OCTOBER 2021
 
 
-<img style="width: 50%;" src="/images/Header.jpeg" align = "center" />
+<img style="width: 50%;" src="/images/Header.jpeg" align="center">
 
 **Message from Chairperson of CHIJ Board of Management**
 
-We are grateful for the blessings we have received this year. As we draw a close to the school year in 2021 we use this time to take stock. Here is a message from Ms Vivienne Lim, Chairperson IJ Board of Management. Echoing Ms Lim’s message, we at OLGC will continue to be committed to  develop our students holistically
+We are grateful for the blessings we have received this year. As we draw a close to the school year in 2021 we use this time to take stock. Here is a message from Ms Vivienne Lim, Chairperson IJ Board of Management. Echoing Ms Lim’s message, we at OLGC will continue to be committed to&nbsp; develop our students holistically
 
-2021 has been a year of challenge, but also a year from which we can draw joy. Covid-19 continues to affect the way we live, work and play. But it has also provided the opportunity for us to show how we rise above such challenges. Nor does it dampen our spirit to honour the legacy of those who came before us to build what we have today. Indeed, more so than ever, in the midst of uncertain times, we look back with greater gratitude for the institutions that have been built for us over the years in the CHIJ schools, through the love and service of our Founder, Blessed Nicolas Barré and the Infant Jesus sisters. It is with thankful hearts that we celebrate the 400th Anniversary of the birth of Blessed Nicolas Barré and 200 years of the Catholic Faith in Singapore.
+2021 has been a year of challenge, but also a year from which we can draw joy. Covid-19 continues to affect the way we live, work and play. But it has also provided the opportunity for us to show how we rise above such challenges. Nor does it dampen our spirit to honour the legacy of those who came before us to build what we have today. Indeed, more so than ever, in the midst of uncertain times, we look back with greater gratitude for the institutions that have been built for us over the years in the CHIJ schools, through the love and service of our Founder, Blessed Nicolas Barré and the Infant Jesus sisters. It is with thankful hearts that we celebrate the 400th&nbsp;Anniversary of the birth of Blessed Nicolas Barré and 200 years of the Catholic Faith in Singapore.
 
   
 
@@ -42,7 +42,7 @@ Yours in Christ
 
 
 
-<img style="width: 10%;" src="/images/Sign_off.jpeg" align = "left" />
+<img style="width: 10%;" src="/images/Sign_off.jpeg" align="left">
 <br><br>
 Ms Vivienne Lim<br>
 Chairperson<br>

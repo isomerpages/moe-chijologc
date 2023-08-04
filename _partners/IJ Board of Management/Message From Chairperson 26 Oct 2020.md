@@ -1,19 +1,18 @@
 ---
 title: Message From Chairperson 26 Oct 2020
-permalink: /stakeholders/IJ-Board-of-Management/Message-from-Chairperson-Oct/
+permalink: /partners/ij-board-of-management/message-from-chairperson-oct/
 description: ""
 third_nav_title: IJ Board of Management
 ---
-
 ## Message From Chairperson 26 Oct 2020
 
-<img style="width: 50%;" src="/images/Header.jpeg" align = "center" />
+<img style="width: 50%;" src="/images/Header.jpeg" align="center">
 
 26 October 2020
 
   
 
-Dear Ms Grace Tan, VPs, Staff, Pupils & Parents of CHIJ Our Lady of Good Counsel
+Dear Ms Grace Tan, VPs, Staff, Pupils &amp; Parents of CHIJ Our Lady of Good Counsel
 
   
 
@@ -49,7 +48,7 @@ May God continue to bless CHIJ Our Lady of Good Counsel, her leaders, staff and 
 
 Yours in Christ  
 
-<img style="width: 10%;" src="/images/Sign_off.jpeg" align = "left" />
+<img style="width: 10%;" src="/images/Sign_off.jpeg" align="left">
 <br><br>
 Ms Vivienne Lim<br>
 Chairperson<br>

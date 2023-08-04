@@ -1,6 +1,6 @@
 ---
 title: School Canteen Advertisement
-permalink: /schoolcanteenadvert/
+permalink: /partners/schoolcanteenadvert/
 description: ""
 ---
 | Type of Stall | Closing Date | Requirements |

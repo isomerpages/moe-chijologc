@@ -1,12 +1,12 @@
 ---
 title: Message From Chairperson 20 July 2021
-permalink: /stakeholders/IJ-Board-of-Management/Chairperson-Message-July-2021/
+permalink: /partners/ij-board-of-management/chairperson-message-july-2021/
 description: ""
 third_nav_title: IJ Board of Management
 ---
 ## MESSAGE FROM CHAIRPERSON 20 JULY 2021
 
-<img style="width: 50%;" src="/images/Header.jpeg" align = "center" />
+<img style="width: 50%;" src="/images/Header.jpeg" align="center">
 
 **Message from Chairperson of CHIJ Board of Management**  
 
@@ -39,7 +39,7 @@ kindness. Please be assured of our continued prayers and love.
 
 
 
-<img style="width: 10%;" src="/images/Sign_off.jpeg" align = "left" />
+<img style="width: 10%;" src="/images/Sign_off.jpeg" align="left">
 <br><br>
 Ms Vivienne Lim<br>
 Chairperson<br>

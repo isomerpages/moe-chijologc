@@ -6,7 +6,6 @@ description: ""
 ## Announcements
 
 
-* [School Canteen Advertisement](/schoolcanteenadvert/)
 
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 

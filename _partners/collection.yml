@@ -1,5 +1,5 @@
 collections:
-  stakeholders:
+  partners:
     output: true
     order:
       - Parents Support Group (PSG).md

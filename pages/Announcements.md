@@ -6,9 +6,9 @@ description: ""
 ## Announcements
 
 
+* [Edusave Character Award (ECHA) 2023 ](/echa2023)
 
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
-
 
 *   [Student iCON FAQ](/Announcements/Student-iCON-Google-Suite/)
 

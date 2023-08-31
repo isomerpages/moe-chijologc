@@ -6,4 +6,5 @@ third_nav_title: IJ Board of Management
 ---
 ## IJ Board of Management 
 
-![](/images/2023_IJ%20BOM%20Members.jpg)
+![](/images/2023-ij-bom-members-photo-chart-20230822-(final).jpg)
+

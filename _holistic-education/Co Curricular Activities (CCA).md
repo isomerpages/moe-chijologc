@@ -6,7 +6,7 @@ description: ""
 ## CO-CURRICULAR ACTIVITIES (CCA)
 
 
-CCA is an integral part of our students’ holistic education. The aim of CCA is to provide our girls with a platform to discover their interests and talents and provide for healthy and fun recreation. CCA also aims to emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, we hope to inculcate in our girls  our school’s values, social and emotional competencies and emerging 21st Century competencies which are essential in their preparation to become leaders of the future.
+CCA is an integral part of our students’ holistic education. The aim of CCA is to provide our girls with a platform to discover their interests and talents and provide for healthy and fun recreation. CCA also aims to emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, we hope to inculcate in our girls  our school’s values, social and emotional competencies and emerging 21st Century competencies which are essential in their preparation to become leaders of the future..
 <style>
 table, th, td {
   border: 1px solid black;
@@ -14,7 +14,7 @@ table, th, td {
 </style>
 
 
-| SPORTS & GAMES (4) | CCA                  | TEACHERS  IN CHARGE                                                             | DAY           | TIME                                                 | VENUE                     |
+| SPORTS &amp; GAMES (4) | CCA                  | TEACHERS  IN CHARGE                                                             | DAY           | TIME                                                 | VENUE                     |
 |--------------------|----------------------|---------------------------------------------------------------------------------|---------------|------------------------------------------------------|---------------------------|
 |                    | Badminton            |        Ms Avelyn Wei (I/C) <br>Mr Chai Wei Jun <br>Mrs Jesslyn Ho <br>Mrs Mandy Doll        | Monday        | Recreation Grp 2pm-3.40pm Competition Grp 3.20pm-5pm | School Hall               |
 |                    |                      |                                                                                 | Friday        | Competition Grp 2pm-5pm                              |                           |
@@ -32,6 +32,6 @@ table, th, td {
 |                       | CHINESE DANCE       |                    Mdm Jin Qing (I/C)   <br>Mrs Ng So Ha                    | Monday     | 2.15pm-3.45pm     | Dance Studio                                    |
 |                       | MALAY DANCE         |                     Mdm Norahida  (I/C) <br>Mdm Maslinda                    | Monday     | 2.15pm-3.45pm     | Library                                         |
 |                       | INDIAN DANCE        |                       Ms Shanthi (I/C) <br>Ms Varsinii                      | Monday     | 2.15pm-3.45pm     | PAL Room                                        |
-| CLUBS & SOCIETIES (3) | ART & CRAFTS CLUB   |           Mrs Norlizah Fazli (I/C) <br>Mdm Li Guimei       | Monday     | 2.15pm-3.45pm     | Art Room                                        |
+| CLUBS &amp; SOCIETIES (3) | ART &amp; CRAFTS CLUB   |           Mrs Norlizah Fazli (I/C) <br>Mdm Li Guimei       | Monday     | 2.15pm-3.45pm     | Art Room                                        |
 |                       |   INFO COMM CLUB    | Mrs Jacelyn Lim (I/C) <br>Mrs Angelia Toh <br>Mdm Seah Siew Ping  <br>Ms Umi Kalsom | Monday     | 2.15pm-3.45pm     |                   Computer Lab 1                |
 |                       | ROBOTICS CLUB       |           Ms Oh Bee Ling (I/C) <br>Ms Cheng Ka Yee <br>Mrs Emily Tony           | Monday     | 2.15pm-3.45pm     | Comp lab 2 (juniors) IT Resource Room (seniors) |

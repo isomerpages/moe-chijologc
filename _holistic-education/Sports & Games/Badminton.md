@@ -36,8 +36,7 @@ Under the guidance of our experienced coaches, players learn various badminton s
 .tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -49,19 +48,19 @@ Under the guidance of our experienced coaches, players learn various badminton s
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">National Inter-schools Badminton Championship Junior Division</td>
-    <td class="tg-0pky">1st Place Tiered Round<br>-Singles: Faith Ng (4 Humility)<br>-Singles: Ren Jingyi (4 Perserverance)<br>-Doubles: Lynna Koh Ci Yun(5 Compassion)  <br>and Macy Tee Won-Fae (4 Perserverance)</td>
-    <td class="tg-0pky">2023</td>
+    <td class="tg-73oq">National Inter-schools Badminton Championship Junior Division</td>
+    <td class="tg-73oq">1st Place Tiered Round<br>-Singles: Faith Ng (4 Humility)<br>-Singles: Ren Jingyi (4 Perserverance)<br>-Doubles: Lynna Koh Ci Yun(5 Compassion)  <br>and Macy Tee Won-Fae (4 Perserverance)</td>
+    <td class="tg-73oq">2023</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> South Zone National School Game</td>
-    <td class="tg-0pky">3rd (Junior Girls) 4th (Senior Girls)</td>
-    <td class="tg-0pky">2019</td>
+    <td class="tg-73oq"> South Zone National School Game</td>
+    <td class="tg-73oq">3rd (Junior Girls) 4th (Senior Girls)</td>
+    <td class="tg-73oq">2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">South Zone National School Game</td>
-    <td class="tg-0lax">2nd (Junior Girls) 4th (Senior Girls)</td>
-    <td class="tg-0lax">2018</td>
+    <td class="tg-73oq">South Zone National School Game</td>
+    <td class="tg-73oq">2nd (Junior Girls) 4th (Senior Girls)</td>
+    <td class="tg-73oq">2018</td>
   </tr>
 </tbody>
 </table>

@@ -13,7 +13,6 @@ table, th, td {
 }
 </style>
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
@@ -42,7 +41,7 @@ table, th, td {
     <td class="tg-73oq"></td>
     <td class="tg-73oq">Badminton</td>
     <td class="tg-73oq">Mr Tan Chen Ping (I/C)<br>Mr Chai Wei Jun<br>Mdm Mahalakshmi<br>Mrs Esther Loo<br>Ms Ng Yu Fang</td>
-    <td class="tg-73oq">Monday<br><br><br><br><br><br><br><br><br>Friday</td>
+    <td class="tg-73oq">Monday<br><br><br><br>Friday</td>
     <td class="tg-73oq">Recreation Group 2pm-3.40pm <br>Competitive Group 3.20pm-5.00pm<br><br><br>Competitive Group 2.00pm-5.00pm</td>
     <td class="tg-73oq">School Hall</td>
   </tr>
@@ -66,7 +65,7 @@ table, th, td {
     <td class="tg-0a7q"></td>
     <td class="tg-73oq">Netball</td>
     <td class="tg-73oq">Ms Wei Peiling Avelyn (I/C)<br>Mrs Jesslyn Ho<br>Mrs Mandy Doll<br>Ms Nurulhuda</td>
-    <td class="tg-73oq">Monday<br><br><br><br><br><br><br><br><br>Wednesday </td>
+    <td class="tg-73oq">Monday<br><br><br><br><br>Wednesday </td>
     <td class="tg-73oq">Recreational Group<br>2.15pm-3.45pm<br>Competitive Group<br>2.00pm-5.00pm<br><br>Competitive Group<br>2.00pm-5.00pm</td>
     <td class="tg-73oq">Concourse 2/ <br>Parade Square</td>
   </tr>

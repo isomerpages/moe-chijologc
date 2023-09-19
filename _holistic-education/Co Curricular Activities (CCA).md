@@ -41,7 +41,7 @@ table, th, td {
     <td class="tg-73oq"></td>
     <td class="tg-73oq">Badminton</td>
     <td class="tg-73oq">Mr Tan Chen Ping (I/C)<br>Mr Chai Wei Jun<br>Mdm Mahalakshmi<br>Mrs Esther Loo<br>Ms Ng Yu Fang</td>
-    <td class="tg-73oq">Monday<br><br><br><br>Friday</td>
+    <td class="tg-73oq">Monday<br><br><br><br><br><br>Friday</td>
     <td class="tg-73oq">Recreation Group 2pm-3.40pm <br>Competitive Group 3.20pm-5.00pm<br><br><br>Competitive Group 2.00pm-5.00pm</td>
     <td class="tg-73oq">School Hall</td>
   </tr>

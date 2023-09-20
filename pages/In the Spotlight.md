@@ -15,5 +15,3 @@ description: ""
 | <img style="width: 25%;" src="/images/caring%20teacher.png" align="left">&nbsp; [Caring Teacher Award](/Spotlight/cta/) |
 
 
-
-/spotlight/cta

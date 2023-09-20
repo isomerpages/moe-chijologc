@@ -6,7 +6,14 @@ third_nav_title: Sports & Games
 ---
 ## Netball
 
-The Netball CCA has been newly introduced CCA in 2019. It was reopened since its closure due to PERI upgrading.
+The Netball CCA has been a newly introduced CCA in 2019. It was reopened since its closure due to PERI upgrading. The CCA consists of both the Recreational Team and the Competitive Team.
+
+**CCA Training session**<br>
+Recreational Team: Monday, 2.15pm-3.45pm<br>
+Competitive Team: Mondays and Wednesdays 2pm – 5pm
+
+## Objectives
+
 
 ### Programme
 

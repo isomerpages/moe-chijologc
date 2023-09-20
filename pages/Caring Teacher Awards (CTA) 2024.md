@@ -1,6 +1,6 @@
 ---
 title: Caring Teacher Awards (CTA) 2024
-permalink: /spotlight/cta/
+permalink: /spotlight/cta/2024/
 description: ""
 ---
 ## Caring Teacher Awards (CTA) 2024

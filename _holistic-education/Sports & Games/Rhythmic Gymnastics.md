@@ -10,38 +10,62 @@ Rhythmic Gymnastics develops the students’ flexibility, rhythmic sense, physic
 
 ### Programme
 
-Training is held at the Indoor Sports Hall every Monday and Wednesday from 2:00 to 5:00 p.m. During training, competitions and performances, students forge strong camaraderie among one another, resilience and leadership qualities.
+Training is held at the Indoor Sports Hall every Monday from 2:15 to 3:45 p.m. During training, competitions and performances, students forge strong camaraderie among one another, resilience and leadership qualities.
+
+School Team members will train on every Monday and Friday from 2 p.m. to 5 p.m.
+
+### Teachers-in-charge
+
+Ms Wong Jie Jern
+Mdm Cheng Ka Yee
+Ms Pearlyn Chng
+Mrs Jenny Chew
+
 
 ### Achievements
 
-<style type="text/css">table, th{ border: 1px solid black; } 
-td { border: 1px solid black; } 
+<style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm">Competition</th>
-    <th class="tg-amwm">Event</th>
+    <th class="tg-mcqj">Event</th>
+    <th class="tg-mcqj">&nbsp;&nbsp;&nbsp;&nbsp;Year&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-mcqj">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Award&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix">National Inter- School Rhythmic Gymnastics <br>Championship 2019</td>
-    <td class="tg-0lax"><span style="font-weight:bold">Junior Division Developmental:</span><br>- Group Freehand Level 1 2nd<br>- Group Freehand Level 2 4th<br>- Rope Trial Level 1 – 7th<br>- Ball Level 2 – 5th<br>- Rope Level 2 – 7th<br>- All-Around – 5th<br><br><span style="font-weight:bold">Junior Division Elite:</span><br>- Ball Stage 1 – 1st<br>- Rope Stage 1 – 4th, 5th and 6th<br>- Freehand Stage 1 – 4th<br>- Hoop Stage 1 – 5th<br>- All-Around – 2nd and 5th<br><br><span style="font-weight:bold">Senior Division Developmental:</span><br>- Clubs Level 3 – 3rd, 5th and 7th<br><br>- Hoop Level 3 – 5th<br>- All-Around – 4th, 5th and 8th<br><br><span style="font-weight:bold">Senior Division Championship – 2nd</span><br><br><span style="font-weight:bold">Senior Division Elite:</span><br>- Rope Stage 2 – 5th<br><br>- Freehand Stage 2 – 4th<br>- Clubs Stage 2 – 2nd<br>- Hoop Stage 2 – 4th<br>- All-Around – 4th</td>
+    <td class="tg-73oq">Senior Division Championship<br></td>
+    <td class="tg-wp8o">2022</td>
+    <td class="tg-73oq">4th position</td>
   </tr>
   <tr>
-    <td class="tg-nrix">National Inter- School Rhythmic Gymnastics <br>Championship 2018</td>
-    <td class="tg-0lax"><span style="font-weight:bold">Junior Division Developmental:</span><br>- Group Freehand Level 1 3rd<br>- Rope Level 2 2nd<br><br><span style="font-weight:bold">Junior Division Elite:</span><br>- Rope Stage 2 3rd<br>- Clubs Stage 2 3rd<br><br><span style="font-weight:bold">Junior Division Developmental:</span><br>- Clubs Level 3 3rd<br><br><span style="font-weight:bold">Senior Division Team: 4th</span><br><br><span style="font-weight:bold">Senior Division Championship: 4th</span></td>
+    <td class="tg-73oq">Senior Division Developmental Team</td>
+    <td class="tg-wp8o">2022</td>
+    <td class="tg-73oq">3rd position<br></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Junior Division Group Freehand</td>
+    <td class="tg-wp8o">2023</td>
+    <td class="tg-73oq">2nd position</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Junior Division Developmental Team</td>
+    <td class="tg-wp8o">2023</td>
+    <td class="tg-73oq">2nd position</td>
   </tr>
 </tbody>
 </table>
+<br>
 
-![](/images/Rhythmic_Gymnastics.jpeg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3QdPLMStvxYLXNq-pqMyOLR8xCPVIR08EylLMDYO3W01bPficPVfxQ_niNTcNR7LG23R1HhvJRqP4/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
+

@@ -5,7 +5,6 @@ description: ""
 ---
 ## Announcements
 
-[Caring Teacher Award](/spotlight/cta/)/spotlight/cta/
 
 * [Edusave Character Award (ECHA) 2023 ](/echa2023)
 

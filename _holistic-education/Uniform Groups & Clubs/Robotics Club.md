@@ -6,38 +6,26 @@ third_nav_title: Uniform Groups & Clubs
 ---
 ## Robotic Club
 
+The Robotics Club CCA provides opportunities for students who are interested in Mathematics and Science to pursue their passion beyond the requirements of the Primary School Science syllabus. The students undergo trainings that enable them to expand their understanding of the logic behind robot movements. They also get to sharpen their creative thinking skills as they learn to design and program their robots through programming. Students get to work together in a team and develop team spirit through the activities planned. Students who display talent in their craft can represent the school and participate in various competitions such as the National Robotics Programming Competitions. 
+
 ### Objectives
 
 Students will be able to be:  
-  
 
-*   confident leaders who can effectively lead, communicate and work collaboratively with team-mates and display sportsmanship  
-     
- *   passionate learners who can apply technology to real-life contexts  
-     
- *   competent in problem-solving and come up with creative solutions
+1.	To enable students to understand and apply their knowledge of Robotics construction and/or programming.
+2.	To enable students (ranging from juniors to seniors) to learn and apply skills at the recreational and competitive levels. 
+3.	To enable students to learn sportsmanship and values of fair play, teamwork and discipline.
+4.	To apply Mathematical calculations in programming for precise robot movements
+5.	To apply the fundamentals of robot building with sensors and able to program it to solve challenges effectively. 
+
 
 ### Programme
 
-The Learning Foci (the&nbsp;**3E**s):
+Through the Robotics Club, students will be able to explain and apply their knowledge of Robotics construction and/or programming correctly. They also get to participate at the recreational and competitive levels for juniors and seniors respectively. They are also able to demonstrate good sportsmanship and values of fair play, teamwork and discipline through participating in Robotics competitions.
 
-*   Exposure: Students are exposed to real world problems to work on, apply their knowledge of Robotics and come up with plausible solutions. They are also exposed to the technical aspects of robotics through programming (logical thinking) and construction (critical thinking skills)  
-    
-*   Experience: Students will experience how to plan their time and strategies during competitions, lead and mentor their juniors and participate in competitions that train their technical and soft skills  
-    
-*   Expression: Students are to deliver knowledge of CCA content, skills and activities confidently, effectively communicate, plan and organise events by collaborating well with team members and apply skills learnt in Robotics in areas beyond competitions
-
-
-### Competitions
-
-
-The Robotics Club CCA provides opportunities for students to participate in competitions such as the Asia Pacific Youth Robotics Competition (APYRC), the&nbsp;National Robotics Competition&nbsp;(NRC), and the&nbsp;World Robo Tournament&nbsp;(WRT).
 
 ### Achievements
 
-| Event |            Achievements            |  Year |
-|:-----:|:----------------------------------:|:-----:|
-| APYRC | 1st Runner-up in the Sumo category |  2017 |
-|   WRT |   2nd Runner-up in Best Teamwork   | 2018  |
+None for 2021 and 2022 (Due to covid restrictions and restricted training sessions)
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzBD_Py18kDrN9TM5hv5CdC-8Y-29eyO2v04Kh_6krltmlGU9XojozlSemC1Tv0Y98orAnkKsZzgVr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

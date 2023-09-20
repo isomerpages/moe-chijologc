@@ -6,37 +6,23 @@ third_nav_title: Performing Arts
 ---
 ## Drama and Literary Arts
 
-To enhance the Applied Learning Programme (ALP), OLGC Drama and Literary Arts CCA was started to give students a platform for public speaking and acting. Having good communication and critical thinking skills are important 21st century competencies, Thus at OLGC, we aim to add depth to students’ learning with the intention that they develop these skills during their training sessions. During the CCA sessions, students’ get to strengthen their communication skills so that they can speak more persuasively and get to develop their confidence in public speaking.  
+To enhance the Applied Learning Programme (ALP), OLGC Drama CCA was started to give students a platform for acting. Having good communication and inventive thinking skills are important 21st century competencies. Thus, at OLGC, we aim to develop these skills in our students during their training sessions.
+
+During the CCA sessions, students get to work with peers across levels to strengthen their acting and communication skills so that they can perform confidently in public.
+
+### Objectives
+
+By attending the CCA, students would be able to learn and apply Drama techniques. By incorporating the school’s values, we hope to nurture students who can think creatively and reason critically to become effective and confident speakers.
 
 ### Programme
 
-We teach a range of vocal and speech techniques such as, diction, articulation, tone, accents and voice projection. In addition to these speech techniques, we also teach the girls drama techniques. These include mime, movement, characterisation, gestures and stage blocking.&nbsp;
+During the CCA sessions, students learn and apply Drama techniques such as vocal dynamics, appropriate body language, voice projection, use and awareness of space and improvisation.
 
-  
+From the sessions, students would build self-esteem and increase their ability to adapt and improvise. Working together with members from the various grade levels would also enable students to learn leadership skills, build social awareness and realise the importance of teamwork. 
 
-From the lessons and training, students would build self-esteem and increase their ability to adapt and improvise. Working together with members from the various grade levels would also enable students to learn leadership skills and build social awareness.
-
-#### Training Structure
-
-
-*   Light warm up and stretching  
-    
-*   Spatial awareness games  
-    
-*   Drama-based lessons and rehearsals for school-based/ external drama productions
-
-#### Achievements 
-
-|                    Event                   |                          Achievements                         | Year |
-|:------------------------------------------:|:-------------------------------------------------------------:|:----:|
-| International Science Drama Competition    | Third prize in the finals Best actress in the Junior Category | 2017 |
-| Speak Up! Kids Public Speaking Competition |                         2nd  Runner up                        | 2017 |
 
 #### Activities &amp; Events
 
-|     Activities &amp; Events     |                                                                  Description                                                                  |    Date    |
-|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|
-| KidsConnect 2019 @ Playeum  | Students performed in the performance category at pop up event KidsConnect which collaborates with Playeum, Children’s Centre for Creativity. | March 2019 |
-| Aesthetics Showcase @ OLGC  | Students performed during OLGC end of year Aesthetics Showcase.                                                                               |  Nov 2017  |
+Nativity Play (2022) 
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtYOs9LuMJkpGMO4W38-NGiml-B2hkW44IZEuxmK1FbUkOlkqr_KKTj7BgBaT6bdI40VrXVqbOH905/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

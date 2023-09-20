@@ -8,61 +8,175 @@ third_nav_title: Uniform Groups & Clubs
 
 Brownies is part of the Guiding Movement of Girl Guides Singapore. This uniformed group aims to provide our girls with the opportunity for self-training in the development of character, in the realisation of responsible global citizenship and promotion of service to the community.
 
+## Objectives
+As a uniformed group, Brownies CCA aims to develop our girls to their fullest potential.
+
 ### Programme
 
-During the CCA sessions, Brownies are exposed to a range of indoor and outdoor activities to help them to develop them in different aspects: physical, social and mental aspects.
+Brownies CCA is conducted on Mondays from 2.15 p.m. to 3.45 p.m. During the 1.5 h session, the Brownies do a range of activities. These activities include games, sing-along, craft work and test work. They aim at developing the Brownies in different aspects such as physical, social and mental. Apart from school based CCA sessions activities such as Day Camp, Brownies also attend events held at the Division and HQ level.
+
+The activities conducted revolve around our Five-Point Programme:
+1. Personal and Social Development
+2. Home
+3. Outdoors
+4. Community
+5. International
+
 
 ### Achievements 
-<style> 
-table, th{ border: 1px solid black; } 
-td { border: 1px solid black; } 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-|                                Event                                |  Achievements |  Year |
-|:-------------------------------------------------------------------:|:-------------:|:-----:|
-| South Division Day - Basic First Aid Knowledge - 3-Corner Bookmarks |    1st  2nd   |  2019 |
-| Puan Noor Aishah Award                                              |   Gold Award  |  2018 |
-| South Division Day - Environmental Activist Fashion Parade          |      2nd      | 2018  |
-| National Brownie Revel -  Young Innovators                          |      2nd      | 2018  |
-| Puan Noor Aishah Award                                              | Silver Award  | 2017  |
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mcqj">Event</th>
+    <th class="tg-mcqj">Achievements</th>
+    <th class="tg-mqa1">    Year&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-73oq">Puan Noor Aishah Award</td>
+    <td class="tg-wp8o">Bronze Award</td>
+    <td class="tg-wp8o">2022</td>
+  </tr>
+</tbody>
+</table>
 
 ### Individual Brownie Awards 
 
-|      2019      |             2018            |        2017       |
-|:--------------:|:---------------------------:|:-----------------:|
-|                |  Chief Commissioner’s Award |                   |
-|   Flora Hair   |         Christy Chew        |  Coco Kuan Jiamin |
-| Heng Yee-Teng  |         Claire Wong         |    Ho Yee Mun     |
-|                |          Clarice Tay        | Ho Zi Yun Leanne  |
-|                | Darnel Bernadette Yeo Ling  | Nora Teo Woon En  |
-|                |      Ella Louise Quek       |  Manthra Krishna  |
-|                |    Maryclare Nah Sek Min    |                   |
-|                |   Shannon Christabel Ting   |                   |
-|                |    Disney Princess Award    |                   |
-|                |       Ella Louise Quek      |                   |
-|                |   Shannon Christabel Ting   |                   |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mcqj">Event</th>
+    <th class="tg-mcqj">Achievements</th>
+    <th class="tg-mqa1">    Year&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-73oq">Chief Commissioner’s Award</td>
+    <td class="tg-wp8o">Lisa Hayley Chang Li Ying<br>Victoria Goh</td>
+    <td class="tg-wp8o">2022</td>
+  </tr>
+</tbody>
+</table>
 
 ### Activities and Events
 
-|                Activity / Event                |                                               Description                                               |      2019     |
-|:----------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------:|
-| World Thinking Day                             | Celebration activities for World Thinking Day at Tampines Hub South Plaza  Girls Got Talent Competition |     23 Feb    |
-| Free Being Me                                  | Workshop for Brownies on Confidence and Leadership organised by GGS                                     |     9 Mar     |
-| She Solves Engineering Badge Launch            | Workshop for Launch of new GGS Badge                                                                    |     14 Mar    |
-| Pack Holiday                                   | 3 Day 2 Night camp for Brownies at OLGC                                                                 | 16 to 18 Mar  |
-| Chief Commissioner’s Award Outreach Programme  | Beach cleanup at PA Water Venture (Sembawang) organised by GGS                                          |    16 Mar     |
-| South Division Day                             | Competitions and activities organised at the Division Level at Mayflower Secondary School               |     25 May    |
-| Girl Guides Cookie Project                     | Fundraising project organised by GGS                                                                    |    Term 2     |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mcqj">Event</th>
+    <th class="tg-mqa1">    Year&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-73oq">World Thinking Day Celebrations</td>
+    <td class="tg-wp8o">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">World Thinking Day Observance(In School)</td>
+    <td class="tg-wp8o">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">National Brownie Revel</td>
+    <td class="tg-wp8o">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">National Day Observance Ceremony</td>
+    <td class="tg-wp8o">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">GGS Cookie Project</td>
+    <td class="tg-wp8o">2022</td>
+  </tr>
+</tbody>
+</table>
 <br>
 
-|                Activity / Event               |                                               Description                                              |   2019  |
-|:---------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:-------:|
-| World Thinking Day                            | Coastal cleanup at East Coast Park and Celebration activities for World Thinking Day at Marina Barrage |  24 Feb |
-| Chief Commissioner’s Award Outreach Programme | Beach cleanup at PA Water Venture (Sembawang) organised by GGS                                         |  10 Mar |
-|  Inter-unit Challenge                         | Inter-unit competitions with Holy Innocents’ Primary and CHIJ Our Lady of Nativity                     |  13 Apr |
-| South Division Learning Day                   | Division activities at Camp Christine                                                                  | 26 May  |
-| South Division Day                            | Division competitions at MayFlower Secondary                                                           | 21 Jul  |
-|  National Brownie Revel                       | Brownie Competitions at Chongfu School                                                                 |  31 Nov |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mcqj">Event</th>
+    <th class="tg-mqa1">    Year&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-73oq">World Thinking Day Celebrations<br>(CHIJ Toa Payoh Secondary)</td>
+    <td class="tg-wp8o">2023</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">World Thinking Day Observance<br>(In School)</td>
+    <td class="tg-wp8o">2023</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">March Holiday Day Camp<br>(2 days)</td>
+    <td class="tg-wp8o">2023</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">South Division Learning Day<br>(Zoom Workshop)</td>
+    <td class="tg-wp8o">2023</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Brownie Awards Ceremony</td>
+    <td class="tg-wp8o">2023</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">National Day Observance Ceremony</td>
+    <td class="tg-wp8o">2023</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">GGS Cookie Project</td>
+    <td class="tg-wp8o">2023</td>
+  </tr>
+</tbody>
+</table>
+<br>
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfHftlz2wRCLwjY_rYOymfIGmt0oyESPeVxUmaebJOSifvRkDSK2KteYtM2INNlbi2Khs0cyhd9RFf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

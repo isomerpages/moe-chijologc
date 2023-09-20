@@ -6,15 +6,13 @@ third_nav_title: Performing Arts
 ---
 ## Performing Arts
 
-To build up our niche in Aesthetics, we offer our students five Performing Arts Co-curricular Activities (CCAs). They are Choir, Chinese Dance, Indian Dance and Malay Dance and International Dance.  
+To build up our niche in Aesthetics, we offer our students five Performing Arts Co-curricular Activities (CCAs). They are Choir, Drama and Literary Arts and Modern Dance.  
   
 
 **Co-curricular Activities**
 <br>Choir
-<br>Chinese Dance
-<br>Indian Dance
-<br>Malay Dance
-<br>International Dance
+<br>Drama and Literary Arts
+<br>Modern Dance
 
   
 

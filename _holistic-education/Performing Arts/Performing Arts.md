@@ -11,10 +11,7 @@ To build up our niche in Aesthetics, we offer our students five Performing Arts 
 
 **Co-curricular Activities**
 <br>Choir
-<br>Chinese Dance
-<br>Indian Dance
-<br>Malay Dance
-<br>International Dance
+<br>Modern Dance
 
   
 

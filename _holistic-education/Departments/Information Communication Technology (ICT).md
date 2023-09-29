@@ -43,7 +43,7 @@ The programme is designed to
 
 Students enroll in an e-learning module covering skills in office productivity applications such as word processing (Microsoft Word), spreadsheets (Microsoft Excel) and presentation (Microsoft PowerPoint). This e-learning module complements and reinforces the digital skills acquired in the school’s ICT Training programme. 
 
-![](/images/certificate%20of%20participation.jpg)
+
 
 
 

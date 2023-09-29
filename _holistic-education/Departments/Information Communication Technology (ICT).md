@@ -21,17 +21,48 @@ Students will be able to utilise appropriate digital tools and applications to o
 
 ### OLGC ICT Spiral Curriculum
 
-<img style="width: 50%;" src="/images/Learning_with_mobile_tablets.jpeg" align="right">
+<img style="width: 50%;" src="/images/Learning_with_mobile_tablets.jpeg" align="center">
 
-
-|         Level         |                                  Content                                  |
-|:---------------------:|:-------------------------------------------------------------------------:|
-|      Primary One      |      Basic Computer Operations, Touch-typing, Student Learning Space,     |
-|      Primary Two      |                   Student Learning Space, Microsoft Word                  |
-|     Primary Three     |                         Basic Microsoft PowerPoint                        |
-| Primary Four and Five | Intermediate Microsoft PowerPoint<br>Google Apps (using MOE Student ICON) |
-|      Primary Six      |                   Coding (IMDA’s Code-for Fun Programme)                  |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Level</th>
+    <th class="tg-7btt">Content</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Primary One  </td>
+    <td class="tg-0pky">Basic Computer Operations, Touch-typing, Student Learning Space,<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Primary Two  </td>
+    <td class="tg-0pky">Student Learning Space, Microsoft Word</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Primary Three  </td>
+    <td class="tg-0pky">Basic Microsoft PowerPoint</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Primary Four and Five</td>
+    <td class="tg-0pky">Intermediate Microsoft PowerPoint<br>Google Apps (using MOE Student ICON)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Primary Six</td>
+    <td class="tg-0pky">Coding (IMDA’s Code-for Fun Programme)</td>
+  </tr>
+</tbody>
+</table>
 
 ### National Digital Explorer Programme for Primary 4 students
 

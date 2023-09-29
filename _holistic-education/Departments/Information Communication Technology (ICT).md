@@ -30,14 +30,13 @@ Students will be able to utilise appropriate digital tools and applications to o
 .tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-fymr">Level</th>
-    <th class="tg-7btt">Content</th>
+    <th class="tg-fymr">Content</th>
   </tr>
 </thead>
 <tbody>

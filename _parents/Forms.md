@@ -5,7 +5,7 @@ description: ""
 ---
 ## Forms
 
-[Application for Wait List](/files/2021%20Application%20for%20Wait%20List.pdf)
+[Application for Wait List](/files/application%20for%20wait%20list.pdf)
 
 [CCA Transfer Form](/files/2022_New_CCA_Transfer_Form.pdf)
 

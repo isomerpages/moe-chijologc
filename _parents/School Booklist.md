@@ -25,9 +25,9 @@ variant: markdown
 [P2 Booklist](/files%2FBooklist/P2_2024.pdf)<br>
 [P3 Booklist](/files%2FBooklist/P3_2024.pdf)<br>
 [P4 Booklist](/files%2FBooklist/P4_2024.pdf)<br>
-[Primary 5 (Foundation)](/files%2FBooklist/P5_FDN_2024.pdf)<br>
-[Primary 5 (Standard)](/files%2FBooklist/P5_STD_2024.pdf)<br>
-[Primary 6 (Foundation)](/files%2FBooklist/P6_FDN_2024.pdf)<br>
-[Primary 6 (Standard)](/files%2FBooklist/P6_STD_2024.pdf)
+[Primary 5 (Foundation)](/files%2FBooklist/P5__FDN__2024.pdf)<br>
+[Primary 5 (Standard)](/files%2FBooklist/P5__STD__2024.pdf)<br>
+[Primary 6 (Foundation)](/files%2FBooklist/P6__FDN__2024.pdf)<br>
+[Primary 6 (Standard)](/files%2FBooklist/P6__STD__2024.pdf)
 
-End end
+Ok

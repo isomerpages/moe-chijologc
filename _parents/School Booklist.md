@@ -29,5 +29,3 @@ variant: markdown
 [Primary 5 (Standard)](/files%2FBooklist/P5__STD__2024.pdf)<br>
 [Primary 6 (Foundation)](/files%2FBooklist/P6__FDN__2024.pdf)<br>
 [Primary 6 (Standard)](/files%2FBooklist/P6__STD__2024.pdf)
-
-Ok

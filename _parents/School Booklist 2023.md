@@ -17,6 +17,6 @@ variant: markdown
 [Primary 6 (Foundation)](/files/2023%20P6FDN.pdf)<br>
 [Primary 6 (Standard)](/files/2023%20P6STD.pdf)
 
-[P1 Booklist](/file/Booklist/P1_2024.pdf)<br>
+[P1 Booklist](/files%2FBooklist/P1_2024.pdf)<br>
 
-files%2FBooklist
+test

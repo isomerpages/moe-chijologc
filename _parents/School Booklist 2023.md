@@ -2,6 +2,7 @@
 title: School Booklist 2023
 permalink: /parents/School-Booklist-2023/
 description: ""
+variant: markdown
 ---
 ## School Booklist 2023
 
@@ -15,3 +16,5 @@ description: ""
 [Primary 5 (Standard)](/files/2023%20P5STD.pdf)<br>
 [Primary 6 (Foundation)](/files/2023%20P6FDN.pdf)<br>
 [Primary 6 (Standard)](/files/2023%20P6STD.pdf)
+
+[P1 Booklist](/files/booklist/P1_2024.pdf)<br>

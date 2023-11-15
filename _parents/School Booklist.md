@@ -19,6 +19,8 @@ variant: markdown
 
 ## School Booklist 2024
 
+#### Booklist are in PDF Format
+
 [P1 Booklist](/files%2FBooklist/P1_2024.pdf)<br>
 [P2 Booklist](/files%2FBooklist/P2 2024.pdf)<br>
 [P3 Booklist](/files%2FBooklist/P3 2024.pdf)<br>

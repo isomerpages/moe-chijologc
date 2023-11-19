@@ -27,6 +27,6 @@ May God continue to bless CHIJ Our Lady of Good Counsel, her leaders, staff, stu
 
 Yours in Christ
 
-Ms Vivienne Lim
-Chairperson
+Ms Vivienne Lim<br>
+Chairperson<br>
 CHIJ Board of Management

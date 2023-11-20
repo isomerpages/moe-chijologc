@@ -1,6 +1,6 @@
 ---
 title: School Booklist
-permalink: /parents/school-booklist-2023/
+permalink: /parents/school-booklist/
 description: ""
 variant: markdown
 ---

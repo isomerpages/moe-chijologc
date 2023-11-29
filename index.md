@@ -1,9 +1,9 @@
 ---
 layout: homepage
 title: CHIJ Our Lady of Good Counsel
-description: "The Convent of Our Lady of Good Counsel, as the school was
+description: The Convent of Our Lady of Good Counsel, as the school was
   originally called, was established in the 1960 in a single building block with
-  its main school gate at Cooling Close, Serangoon Gardens. "
+  its main school gate at Cooling Close, Serangoon Gardens.
 image: /images/CHIJOLGC shareicon.jpg
 permalink: /
 notification: ""
@@ -23,4 +23,8 @@ sections:
         - title: For Students
           description: (Click for more information)
           url: /forstudents/
+  - infopic:
+      id: infopic
+      image: /images/Main_KV_for_Letterhead_021023.jpg
+      alt: Image alt text
 ---

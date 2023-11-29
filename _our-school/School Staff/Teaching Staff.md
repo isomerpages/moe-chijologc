@@ -178,8 +178,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">4 Integrity</td>
-    <td class="tg-lboi">Ms Lin Ting<br>Ms Joanne Koo</td>
-    <td class="tg-0pky">lin_ting@moe.edu.sg<br>joanne_koo_hui_sze@moe.edu.sg</td>
+    <td class="tg-lboi">Ms Lin Ting<br>Ms Khoo Pei Yi</td>
+    <td class="tg-0pky">lin_ting@moe.edu.sg<br>khoo_pei_yee@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">4 Perseverance</td>

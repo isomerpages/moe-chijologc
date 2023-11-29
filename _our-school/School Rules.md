@@ -2,10 +2,11 @@
 title: School Rules
 permalink: /our-school/School-Rules/
 description: ""
+variant: markdown
 ---
 ## School Rules
 
-<img style="width: 25%;" src="/images/schoolrule.png" align = "center" /> 
+<img style="width: 25%;" src="/images/schoolrule.png" align="center"> 
 
 ##### Code of Conduct
 
@@ -42,7 +43,7 @@ description: ""
 
 ##### Appearances
 
-<img style="width: 50%;" src="/images/school_uniform.jpeg" align = "center" /> 
+![](/images/IJ_Girl_school_rules.jpg)
 
 **Grooming of Hair**
 
@@ -54,12 +55,18 @@ description: ""
 
 **Mobile Phones/Smart Devices**
 
-1.  Electronic devices such as mobile phones may be brought to school only when necessary and for the purpose of communication with parents or caregivers only. Such devices must be switched off at all times during curriculum and CCA hours. The use of such devices is restricted to postcurriculum hours at dismissal and at pick-up points, namely the Foyer and side gate to Crichton Close.  
-    
-2.  Any misuse of mobile phones and electronic devices may result in confiscation of device and student(s) involved may face disciplinary actions accordingly. Parent/Guardian will be informed and will be required to collect the confiscated mobile phone/smart device from the school personally.  
-    
-3.  Students are to take full responsibility for the use and safekeeping of their mobile phone/device. The school will not be held responsible for the loss or damage of mobile phone/device. The staff of the school is not obliged to conduct any investigation following the report of loss or damage of the device.  
-    
+1. Students are to be responsible and accountable for the proper care and safekeeping of all their personal belongings.
+
+2. Students are reminded to use all electronic and mobile devices, including access to social media, appropriately and responsibly and with due regard and consideration for others.
+ 
+3. Save where it is necessary for communication or educational purposes, students are discouraged from bringing any form of electronic or mobile devices to school, including mobile phones, tablets, laptops, smart watches, digital cameras, personal digital assistants, media players, and/ or game consoles of any sort.
+ 
+4. Any electronic or mobile devices that are brought to school must be switched off and stored away during curriculum and CCA time, failing which, the School shall have the right to confiscate them. The use of such devices is restricted to the foyer during dismissal.
+ 
+5. Electronic or mobile devices shall not be charged in school using the school's power sockets, otherwise the School shall have the right to confiscate them.
+ 
+6. Items that are confiscated pursuant to these rules may be claimed from (the Operations Manager the following Monday, during the morning or afternoon break). The School reserves the right to further require the student to undertake such restorative action or community service to remediate any breaches of the school rules.
+
 
 **Possession of Weapons**  
 
@@ -71,4 +78,4 @@ description: ""
 
 **IJ Board’s Anti-Bullying Policy**
 
-In our CHIJ Schools, we uphold the basic principle of respecting the dignity of each person we interact with. Everyone in our school community has the responsibility and a role to play in building a safe learning environment where we treat each other with respect and understanding. As such our school will not tolerate any unlawful or disruptive behaviour, including any form of bullying, cyber-bullying, intimidation or retaliation.
+In our CHIJ Schools, we uphold the basic principle of respecting the dignity of each&nbsp;person we interact with. Everyone in our school community has the responsibility&nbsp;and a role to play in building a safe learning environment where we treat each&nbsp;other with respect and understanding. As such our school will not tolerate any&nbsp;unlawful or disruptive behaviour, including any form of bullying, cyber-bullying, intimidation or retaliation.

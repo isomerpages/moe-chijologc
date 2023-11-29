@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /our-school/School-Staff/Key-Personnel/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 ## Key Personnel
 
@@ -39,11 +40,6 @@ third_nav_title: School Staff
     <td class="tg-lboi">Vice-Principal</td>
     <td class="tg-lboi">Ms Sharon Liat</td>
     <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Year Head (P2, P3, P4)</td>
-    <td class="tg-0lax">Mrs Chak Meow Ling</td>
-    <td class="tg-0lax">chong_meow_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Year Head, Upper Primary (P5-P6)</td>
@@ -115,21 +111,5 @@ third_nav_title: School Staff
     <td class="tg-0lax">Mdm Nursyahidah</td>
     <td class="tg-0lax">nursyahidah_binte_mohamad_jamal@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">LH Chinese</td>
-    <td class="tg-0lax">Mdm Serene Chua</td>
-    <td class="tg-0lax">chua_geok_peng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Admin Manager</td>
-    <td class="tg-0lax">Mdm Lalitha d/o Panjarselon</td>
-    <td class="tg-0lax">lalitha_panjarselon@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Operations Manager</td>
-    <td class="tg-0lax">Mr Sreedharan</td>
-    <td class="tg-0lax">sreedharan_vairamuthu_kathiresu@moe.edu.sg</td>
-  </tr>
 </tbody>
 </table>
-

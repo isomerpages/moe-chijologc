@@ -2,6 +2,7 @@
 title: Announcements
 permalink: /Announcements/
 description: ""
+variant: markdown
 ---
 ## Announcements
 
@@ -15,7 +16,6 @@ description: ""
 
 * [The IJ Education](https://catholicnews.sg/2021/08/08/the-ij-education/)
 
-* [Updates On School Dental Service](/Announcements/Dental-Service-Update/)
 
 * [Cardigan Size Chart](/Announcements/Size-Chart/)
 

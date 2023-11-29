@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/home_2023banner1.gif
+      background: /images/Homepage_banner.gif
       key_highlights:
         - title: Announcements
           description: (Click for more information)
@@ -23,6 +23,7 @@ sections:
         - title: For Students
           description: (Click for more information)
           url: /forstudents/
+      variant: center
   - infopic:
       title: CHIJ 170 YEARS
       id: infopic

@@ -116,20 +116,5 @@ variant: markdown
     <td class="tg-0lax">Mdm Nursyahidah</td>
     <td class="tg-0lax">nursyahidah_binte_mohamad_jamal@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">LH Chinese</td>
-    <td class="tg-0lax">Mdm Serene Chua</td>
-    <td class="tg-0lax">chua_geok_peng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Admin Manager</td>
-    <td class="tg-0lax">Mdm Lalitha d/o Panjarselon</td>
-    <td class="tg-0lax">lalitha_panjarselon@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Operations Manager</td>
-    <td class="tg-0lax">Mr Sreedharan</td>
-    <td class="tg-0lax">sreedharan_vairamuthu_kathiresu@moe.edu.sg</td>
-  </tr>
 </tbody>
 </table>

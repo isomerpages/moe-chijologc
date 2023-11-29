@@ -69,7 +69,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Class</th>
+    <th class="tg-0pky">Primary 2</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -77,28 +77,28 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">2 Compassion</td>
-    <td class="tg-0pky">Ms Laavenya<br>Mrs Norahida Bte Abdol Rahim</td>
-    <td class="tg-0pky">balasubramaniam_laavenya@moe.edu.sg<br>norahida_abdol_rahim@moe.edu.sg</td>
+    <td class="tg-0pky">Mdm Teo Shi Yin<br>Mrs Jacelyn Lim</td>
+    <td class="tg-0pky">teo_shi_yin@moe.edu.sg<br>heng_tian_ying@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">2 Humility</td>
-    <td class="tg-0pky">Ms Chionh Seok Huen<br>Ms Cheng Ka Yee</td>
-    <td class="tg-0pky">chionh_seok_huen@moe.edu.sg<br>cheng_ka_yee@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Oh Bee Ling<br>Ms Lim Soh Peng</td>
+    <td class="tg-0pky">oh_bee_ling@moe.edu.sg<br>lim_soh_peng@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">2 Integrity</td>
-    <td class="tg-0pky">Mrs Jenny Chew<br>Mdm Serene Chua</td>
-    <td class="tg-0pky">koh_ah_lang_jenny@moe.edu.sg<br>chua_geok_peng@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Mandy Doll<br>Ms Joanne Koo</td>
+    <td class="tg-0pky">mandy_yin_mei_doll@moe.edu.sg<br>joanne_koo_hui_sze@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">2 Perseverance</td>
-    <td class="tg-0pky">Ms Shanthi<br>Mrs Julia Lee</td>
-    <td class="tg-0pky">shanthi_a@moe.edu.sg<br>tan_chai_lin_julia@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Norlizah Fazil<br>Mdm Seah Siew Ping</td>
+    <td class="tg-0pky">norlizah_said@moe.edu.sg<br>seah_siew_ping@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">2 Grace</td>
-    <td class="tg-0pky">Mrs Ho Hung Yin<br>Ms Nurulhuda/ Mr Kwek Keng Yang<br></td>
-    <td class="tg-0pky">chow_hung_yin@moe.edu.sg<br>nurulhuda_mohamed_ayub@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg</td>
+    <td class="tg-0pky">Mdm Li Guimei<br>Mdm Nursyahidah</td>
+    <td class="tg-0pky">li_guimei@moe.edu.sg<br>nursyahidah_binte_mohamad_jamal@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

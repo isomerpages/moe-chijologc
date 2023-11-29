@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /our-school/School-Staff/Teaching-Staff/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 ## Teaching Staff
 
@@ -302,7 +303,7 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">2</td>
-    <td class="tg-0pky">Ms Guan Mei Ting Mandy (Special Educational Needs Officer)</td>
+    <td class="tg-0pky">Ms Guan Mei Ting Mandy (Senior Special Educational Needs Officer)</td>
     <td class="tg-0pky">guan_mei_ting@moe.edu.sg</td>
   </tr>
   <tr>

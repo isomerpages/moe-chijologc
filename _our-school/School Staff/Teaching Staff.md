@@ -21,7 +21,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Class</th>
+    <th class="tg-0pky">Primary 1</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -29,28 +29,28 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">1 Compassion</td>
-    <td class="tg-0pky">Mrs Norlizah Fazil<br>Mrs Jacelyn Lim</td>
-    <td class="tg-0pky">norlizah_said@moe.edu.sg<br>heng_tian_ying@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Laavenya<br>Ms Loh Peck Jin</td>
+    <td class="tg-0pky">balasubramaniam_laavenya@moe.edu.sg<br>loh_peck_jin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">1 Humility</td>
-    <td class="tg-0pky">Ms Durga<br>Ms Oh Bee Ling</td>
-    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>oh_bee_ling@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Chionh Seok Huen<br>Ms Lim Hui Yu Winnie</td>
+    <td class="tg-0pky">chionh_seok_huen@moe.edu.sg<br>lim_hui_yu_winnie@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">1 Integrity</td>
-    <td class="tg-0pky">Mrs Mandy Doll<br>Ms Joanne Koo</td>
-    <td class="tg-0pky">mandy_yin_mei_doll@moe.edu.sg<br>joanne_koo_hui_sze@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Durga<br>Mrs Esther Loo</td>
+    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">1 Perseverance</td>
-    <td class="tg-0pky">Ms Quek Kian Lan<br>Mdm Seah Siew Ping</td>
-    <td class="tg-0pky">quek_kian_lan_a@moe.edu.sg<br>seah_siew_ping@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Julia Lee<br>Ms Varsinii<br>Ms Cheang Mi Mei</td>
+    <td class="tg-0pky">tan_chai_lin_julia@moe.edu.sg<br>varsinii_swaminathan@moe.edu.sg<br>cheang_mi_mei@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">1 Grace</td>
-    <td class="tg-0pky">Mdm Teo Shi Yin<br>Mdm Nursyahidah/<br>Mdm Li Guimei</td>
-    <td class="tg-0pky">teo_shi_yin@moe.edu.sg<br>nursyahidah_binte_mohamad_jamal@moe.edu.sg<br>li_guimei@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Nurulhuda<br>Ms Cheng Ka Yee</td>
+    <td class="tg-0pky">nurulhuda_mohamed_ayub@moe.edu.sg<br>cheng_ka_yee@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

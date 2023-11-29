@@ -42,11 +42,6 @@ variant: markdown
     <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Year Head (P2, P3, P4)</td>
-    <td class="tg-0lax">Mrs Chak Meow Ling</td>
-    <td class="tg-0lax">chong_meow_ling@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Year Head, Upper Primary (P5-P6)</td>
     <td class="tg-0lax">Mrs Chu Oi Geok</td>
     <td class="tg-0lax">gwee_oi_geok@moe.edu.sg</td>

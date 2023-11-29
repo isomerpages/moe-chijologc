@@ -24,7 +24,9 @@ sections:
           description: (Click for more information)
           url: /forstudents/
   - infopic:
+      title: "CHIJ 170 YEARS "
       id: infopic
+      description: "Celebrating 170th anniversary of CHIJ schools. "
       image: /images/Main_KV_for_Letterhead_021023.jpg
       alt: Image alt text
 ---

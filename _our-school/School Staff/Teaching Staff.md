@@ -203,7 +203,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Class</th>
+    <th class="tg-0pky">Primary 5</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
     <th class="tg-0pky">Email Address </th>
   </tr>
@@ -211,23 +211,23 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">5 Compassion</td>
-    <td class="tg-0pky">Mrs Claire Thamboo<br>Mrs Chu Oi Geok</td>
-    <td class="tg-0pky">sharminni_rajagopal@moe.edu.sg<br>gwee_oi_geok@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Norahida Bte Abdol Rahim<br>Ms Sim Seok Woon</td>
+    <td class="tg-0pky">norahida_abdol_rahim@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">5 Humility</td>
-    <td class="tg-0pky">Mrs Sharon Nonis<br>Mdm Junie Ong</td>
-    <td class="tg-0pky">nonis_sharon_jacqueline@moe.edu.sg<br>ong_Junie@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Amy Phang<br>Mdm Jin Qing<br>Jessica Tan Jia Hui</td>
+    <td class="tg-0pky">phang_jing_yi_amy@moe.edu.sg<br>jin_qing@moe.edu.sg<br>jessica_tan_jia_hui@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">5 Integrity</td>
-    <td class="tg-lboi">Mr Tan Chen Ping<br>Mrs Deepa Nair</td>
-    <td class="tg-0pky">tan_chen_ping@moe.edu.sg<br>deepa_thampuran@moe.edu.sg</td>
+    <td class="tg-lboi">Mr Darren Lee<br>Ms Wong Jie Jern</td>
+    <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>wong_jie_jern@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">5 Perseverance</td>
-    <td class="tg-0pky">Ms Mahalakshmi<br>Mrs Anne Tay</td>
-    <td class="tg-0pky">mahalakshmi_alaghimanvalan@moe.edu.sg<br>peh_ai_ling_anne@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Linda Tan<br>Ms Chng Peiling</td>
+    <td class="tg-0pky">tan_tiam_lin_linda@moe.edu.sg<br>chng_peiling@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

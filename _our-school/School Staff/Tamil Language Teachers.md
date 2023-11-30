@@ -1,7 +1,7 @@
 ---
 title: Tamil Language Teachers
 permalink: /our-school/school-staff/permalink/tl/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: School Staff
 ---

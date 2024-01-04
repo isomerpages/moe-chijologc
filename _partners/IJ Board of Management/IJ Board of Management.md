@@ -7,6 +7,4 @@ variant: markdown
 ---
 ## IJ Board of Management 
 
-![](/images/2023-ij-bom-members-photo-chart-20230822-(final).jpg)
-
-![](/images/ij-bom-members-photo-chart-20240102.jpg)
+![](/images/IJ_BOM_Members_Photo_Chart_20240102.png)

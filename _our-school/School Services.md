@@ -35,7 +35,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">School-based Student Care Centre (SCC)</td>
-    <td class="tg-0pky">Star Campus (With effect from January 2024)<br>Contact No: 8072 1917<br>Email: chijolgcscc@starcampus.org</td>
+    <td class="tg-0pky">Star Campus<br>Contact No: 8072 1917<br>Email: chijolgcscc@starcampus.org</td>
   </tr>
   <tr>
     <td class="tg-0pky">Dental Clinic</td>

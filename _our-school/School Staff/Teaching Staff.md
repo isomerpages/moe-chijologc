@@ -140,8 +140,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">3 Perseverance</td>
-    <td class="tg-0pky">Ms Ng Yu Fang<br>Ms Cheng Ka Yee</td>
-    <td class="tg-0pky">ng_yu_fang@moe.edu.sg<br>cheng_ka_yee@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Ng Yu Fang<br>Ms Shanthi</td>
+    <td class="tg-0pky">ng_yu_fang@moe.edu.sg<br>shanth_a@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -274,4 +274,3 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-

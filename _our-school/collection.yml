@@ -1,0 +1,26 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - PDPA Notice.md
+      - Principal's Message.md
+      - Our History.md
+      - Mission & Vision.md
+      - Crest & Motto.md
+      - School Values.md
+      - School Song.md
+      - School Hymn.md
+      - School Staff/.keep
+      - School Staff/Key Personnel.md
+      - School Staff/Teaching Staff.md
+      - School Staff/Chinese Language Teachers.md
+      - School Staff/Malay Language Teachers.md
+      - School Staff/Tamil Language Teachers.md
+      - School Staff/Learning Support.md
+      - School Staff/Special Educational Needs Officer & School Counsellor.md
+      - School Staff/Non Teaching Staff.md
+      - School Rules.md
+      - School Services.md
+      - Counselling Services.md
+      - Sexuality Education Programme.md
+      - Financial Information.md

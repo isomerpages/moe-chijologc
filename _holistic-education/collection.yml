@@ -1,0 +1,33 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - Departments/.keep
+      - Departments/English.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Chinese Language.md
+      - Departments/Malay Language.md
+      - Departments/Tamil Language.md
+      - Departments/Aesthetics.md
+      - Departments/Information Communication Technology (ICT).md
+      - Departments/Physical Education.md
+      - Departments/Character and Citizenship Programme.md
+      - Co Curricular Activities (CCA).md
+      - Sports & Games/.keep
+      - Sports & Games/Sports & Games.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Bowling.md
+      - Sports & Games/Rhythmic Gymnastics.md
+      - Sports & Games/Netball.md
+      - Uniform Groups & Clubs/.keep
+      - Uniform Groups & Clubs/Uniform Groups & Clubs.md
+      - Uniform Groups & Clubs/InfoComm Club.md
+      - Uniform Groups & Clubs/Robotics Club.md
+      - Uniform Groups & Clubs/Art Club.md
+      - Uniform Groups & Clubs/Brownies.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama and Literary Arts.md
+      - Performing Arts/Modern Dance.md

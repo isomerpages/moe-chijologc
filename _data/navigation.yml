@@ -1,0 +1,14 @@
+logo: /images/logo1.png
+links:
+  - title: Our School
+    collection: our-school
+  - title: Holistic Education
+    collection: holistic-education
+  - title: School Experience
+    collection: school-experience
+  - title: Partners
+    collection: partners
+  - title: Parents
+    collection: parents
+  - title: Links
+    collection: links

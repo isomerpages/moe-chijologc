@@ -1,0 +1,10 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Slides & Resources/.keep
+      - Slides & Resources/Slides & Resources.md
+      - Slides & Resources/SLS Support For Home Based Learning.md
+      - Forms.md
+      - Parent Volunteer Registration For P1 (2025).md
+      - School Booklist.md

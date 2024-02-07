@@ -7,7 +7,7 @@ variant: markdown
 ## Announcements
 
 
-* [Vote for your Teacher Award ]
+* [Vote for your Teacher Award ](/teacher-award)
 
 * [Edusave Character Award (ECHA) 2023 ](/echa2023)
 

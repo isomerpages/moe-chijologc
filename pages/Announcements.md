@@ -7,6 +7,8 @@ variant: markdown
 ## Announcements
 
 
+* [Vote for your Teacher Award ]
+
 * [Edusave Character Award (ECHA) 2023 ](/echa2023)
 
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)

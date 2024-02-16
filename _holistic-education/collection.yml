@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Departments/Aeshetics.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md

@@ -92,5 +92,7 @@ The Aesthetics Department at OLGC is proud to share the accolades that our stude
   </tr>
 </tbody>
 </table>
-
+    
+  
+	
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjHuS0l-0cloo6n0iyO_2YHc2VnO-tzZJ5FLUd3GzaJxoU_BvYFHAs_4wlgOF9ua6oXUOXTwjBmP_X/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

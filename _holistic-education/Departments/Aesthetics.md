@@ -56,112 +56,71 @@ more accessible for music-making, our primary six students gain the fundamentals
 on performing digital instruments in a pop band setting.</p>
 <p>The Aesthetics Department at OLGC is proud to share the accolades that
 our students have received in the past three years:</p>
-<table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Year</th>
+    <th class="tg-0pky">Title/ Competition</th>
+    <th class="tg-c3ow">Winner</th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Title/ Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Winner</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grand Prize/ Dojima River Forum International Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Josie Low Ya En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Most Artistic Award/ VIA-RT Recycling Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Josie Low Ya En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 10 Best Art/ 2023 Primary Six SOTA Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vivienne Crystalynne Elle Lie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 50 Best Art/ 2023 Primary Six SOTA Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Iqlil Qisha Bella Putri Muhamad Fazli</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Award/ Draw My Stamp Story Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan You Xuan, Heather</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Most Artistic Award/ VIA-RT Recycling Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kayleigh Lim Jiahui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>You Made a Difference Award/ VIA-RT Recycling Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anoushkha Aariella Charles Vincent &amp; Ashlyn Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2012</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Award/ Draw My Stamp Story Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Iqlil Qisha Bella Putri Muhamad Fazli</p>
-</td>
-</tr>
+  <tr>
+    <td class="tg-0pky">2023</td>
+    <td class="tg-0pky">Grand Prize/ Dojima River Forum International Art Competition</td>
+    <td class="tg-0pky">Josie Low Ya En</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2023</td>
+    <td class="tg-0pky">Most Artistic Award/ VIA-RT Recycling Art Competition</td>
+    <td class="tg-0pky">Josie Low Ya En</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2023</td>
+    <td class="tg-0pky">Top 10 Best Art/ 2023 Primary Six SOTA Art Competition</td>
+    <td class="tg-0pky">Vivienne Crystalynne Elle Lie</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Top 50 Best Art/ 2023 Primary Six SOTA Art Competition</td>
+    <td class="tg-0pky">Iqlil Qisha Bella Putri Muhamad Fazli</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Silver Award/ Draw My Stamp Story Art Competition</td>
+    <td class="tg-0pky">Chan You Xuan, Heather</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Most Artistic Award/ VIA-RT Recycling Art Competition</td>
+    <td class="tg-0pky">Kayleigh Lim Jiahui</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">You Made a Difference Award/ VIA-RT Recycling Art Competition</td>
+    <td class="tg-0pky">Anoushkha Aariella Charles Vincent &amp; Ashlyn Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2012</td>
+    <td class="tg-0pky">Silver Award/ Draw My Stamp Story Art Competition</td>
+    <td class="tg-0pky">Iqlil Qisha Bella Putri Muhamad Fazli</td>
+  </tr>
 </tbody>
 </table>
+
 <hr>
-<p></p>
-<div class="iframe-wrapper">
+
+
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjHuS0l-0cloo6n0iyO_2YHc2VnO-tzZJ5FLUd3GzaJxoU_BvYFHAs_4wlgOF9ua6oXUOXTwjBmP_X/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+
 <p></p>

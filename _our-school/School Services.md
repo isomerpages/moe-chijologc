@@ -21,7 +21,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-3gn3">Textbooks<br>School Attire</th>
-    <th class="tg-3gn3">School Bookshop<br>c/o Pacific Bookstores Pte Ltd<br>Call or WhatsApp: 9365 3928<br>Mondays to Fridays (Except Tuesday)<br>8.30am to 3.30pm<br>Tuesdays<br>8.30am to 3pm<br><br>Closed on Sat/Sun/PH and School holidays<br><br>Please call for an appointment before visiting the school bookshop.</th>
+    <th class="tg-3gn3">School Bookshop<br>c/o Pacific Bookstores Pte Ltd<br>Call or WhatsApp: 9365 3928<br>Mondays to Fridays (Except Tuesdays)<br>8.30am to 3.30pm<br>Tuesdays<br>8.30am to 3pm<br><br>Closed on Sat/Sun/PH and School holidays<br><br>Please call for an appointment before visiting the school bookshop.</th>
   </tr>
 </thead>
 <tbody>

@@ -33,5 +33,5 @@ sections:
       image: /images/Main_KV_for_Letterhead_021023.jpg
       alt: Image alt text
       url: https://go.gov.sg/chij170
-      button: COntact  details
+      button: Click here for Contact details
 ---

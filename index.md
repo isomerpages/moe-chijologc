@@ -27,7 +27,11 @@ sections:
   - infopic:
       title: CHIJ 170 YEARS
       id: infopic
-      description: Celebrating 170th anniversary of CHIJ schools.
+      description: Join us to celebrate 170 years of CHIJ schools. Ex-staff/students
+        who are interested to submit your details by 8 May 2024. More details
+        will be given.
       image: /images/Main_KV_for_Letterhead_021023.jpg
       alt: Image alt text
+      url: https://go.gov.sg/chij170
+      button: Submit Contact details here
 ---

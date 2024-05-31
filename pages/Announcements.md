@@ -7,7 +7,7 @@ variant: markdown
 ## Announcements
 
 
-* 2024 Open House
+* [2024 Open House](/events/open-house-2024/)
 
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 

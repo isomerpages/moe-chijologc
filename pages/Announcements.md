@@ -7,14 +7,12 @@ variant: markdown
 ## Announcements
 
 
-* [Vote for your Teacher Award ](/teacher-award)
-
-* [Edusave Character Award (ECHA) 2023 ](/echa2023)
+* [2024 Open House](/events/open-house-2024/)
 
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 
 *   [Student iCON FAQ](/Announcements/Student-iCON-Google-Suite/)
-
+ 
 
 * [The IJ Education](https://catholicnews.sg/2021/08/08/the-ij-education/)
 

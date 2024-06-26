@@ -46,11 +46,12 @@ variant: markdown
     <td class="tg-0lax">Mrs Chu Oi Geok</td>
     <td class="tg-0lax">gwee_oi_geok@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">HOD English</td>
-    <td class="tg-0lax">Mrs Deepa Nair</td>
-    <td class="tg-0lax">deepa_thampuran@moe.edu.sg</td>
+	<tr>
+    <td class="tg-0lax">Year Head, Primary (P3-P4)</td>
+    <td class="tg-0lax">Mrs Anna Koh</td>
+    <td class="tg-0lax">anna_wang_siew_peng@moe.edu.sg</td>
   </tr>
+  
   <tr>
     <td class="tg-0lax">HOD Mathematics</td>
     <td class="tg-0lax">Mrs Anne Tay</td>

@@ -2,42 +2,32 @@
 title: Principal's Message
 permalink: /our-school/principal-message/
 description: ""
+variant: markdown
 ---
 ## Principal's Message
-<img style="width: 25%;" src="/images/2018_Miss%20Grace%20Tan.jpeg" align = "right" />
+<img style="width: 25%;" src="/images/2018_Miss%20Grace%20Tan.jpeg" align="right">
 
-Dear Parents / Guardians  
+Dear Parents / Guardians
 
-This year, the school proudly joins our IJ fraternity to celebrate 165 years of IJ presence in Singapore. The first IJ school was established in Victoria Street in 1854. It was relocated to Toa Payoh and is now known as CHIJ Toa Payoh Primary and Secondary. Over the years, the IJ family has grown steadily, with the establishment of 10 other schools which provide the well-known IJ brand of education to young girls across Singapore. Added to our fold is the IJ Homes and Children Centre, which offers critical support services to children, the sick and elderly. As we mark the 165th Anniversary of IJ presence in Singapore, it is only fitting to reflect on the role played by two significant individuals - Blessed Nicholas Barré, founder of the IJ community and Mother Mathilde Raclot, who was instrumental in setting up the first IJ school in Victoria Street. Both embody the theme of our 165th Anniversary ‘Ever Seeking, Ever Serving’.
+Greetings from the OLGC family. We hope that the year has been a smooth one thus far.  2024 is an especially significant year for the CHIJ community in Singapore as we celebrate 170 years of IJ presence in Singapore. As we take stock of the history of the IJ community in Singapore, we give thanks for the many hands who contributed to the establishment of the IJ mission on our shores and held on to the IJ dream. In a special way, we pay tribute to Mother Mathilde, one of four IJ sisters who was relentless in the pursuit of making the world a better place, overcoming harsh conditions at sea travelling from France to South-east Asia, first to Penang and then arriving in Singapore in 1854. 
 
-  
+**Resilience and an innovative spirit**   
 
-Blessed Barré was a French priest who, in his work with the local population in Rouen, saw the terrible suffering of the people affected by poverty and famine. He especially recognised the needs of the children, and garnered the support of a few others, to set up schools for them. From this humble beginning, more schools were established, as their efforts ignited the passion of many others to contribute and serve. One such individual who was attracted to the mission of Blessed Barré was Marie Justine Raclot, who later took on the name Mathilde Raclot when she joined the IJ community. Surviving the terrible sea voyage from Europe and armed with a little knowledge of English, she arrived in Penang before heading to Singapore in 1854, together with 3 other sisters. Despite the limited resources, Mother Mathilde and the sisters started classes for children, took care of orphans and became beacons of hope to the increasing numbers of families who sought support and solace. Blessed Barré and Mother Mathilde both reflect the same ardour for God and love for others. Without their readiness to respond to the needs of others, there would not have been an IJ presence in Singapore to speak about. We owe them and many others, who made a difference to all who have benefitted from an IJ education, more than a debt of gratitude. Blessed Barré and Mother Mathilde are outstanding models of compassion and humility, thinking always of others, ready to persevere for the common good, and showing courage and integrity to stand up for what is good despite all odds. 
+Throughout her life, Mother Mathilde was led by this simple call: to dedicate her life to the service of others. She left her homeland and family behind to answer God’s call, uncertain of what lay ahead, only knowing that she wanted to create a better world for others. Working hard and with others, she established convents, schools and orphanages from scratch. She did not wait for circumstances to be ‘ready’ for her to help others; she used her wit and ingenuity and took steady steps in her work of uplifting others and doing good. Undeterred by her not speaking English, Mother Mathilde had to quickly pick it up and with her warmth, she gained the trust of the locals, especially as she courageously sought to help families and rescue young girls, to provide for their education and future. With compassion and boldness, Mother Mathilde was a woman ahead of her time as she reflects the enhanced 21st century competencies of critical, adaptive and inventive thinking, as well as communication and collaborative skills, transcending the reliance on words in persuading others that she was someone who genuinely cared for the people and ‘had their backs’. 
 
-  
+**Leader with a heart for others**
 
-When we look at the world around us, we see brokenness. The recent attacks in Christchurch, Sri Lanka and the U.S.A. as well as countless other episodes of violence, starkly remind us that the world is in ever greater need of respect and understanding of human dignity. Our Mother Earth is also in need of love and care as we witness never before seen levels of global warming. In these times, more than ever, heroes and heroines like Blessed Barré and Mother Mathilde are very much needed to show us that there is always a way to make that positive difference, if we allow ourselves to think BEYOND self and to shed our cynicism. Let us not doubt the power one has to do good for others, as it always starts with an individual’s effort.   
+Leading with personal example, Mother Mathilde was known for her compassion for others. There was a postulant (someone starting on the journey to becoming a nun) who had grown up used to having a servant to take care of her and wondered who was going to clean her room and make her bed. When she asked Mother Mathilde who was assigned to be the chambermaid to her room, she received a vague answer. Later that evening, the postulant found a little broom and a feather duster in her room, with a note “A gift from a mother to her child”. The postulant learnt well and not only proceeded to keep her own room clean, she learnt to look out for how else she could help and serve those around her. Without putting her down, Mother Mathilde respectfully taught that girl how she could be better. 
 
-  
+There are many aspects of Mother Mathilde’s life which provide food for thought. While her achievements leave us awestruck, let us be inspired to emulate her character, her virtues and her pioneering spirit as we continue to be Simple in Virtue, Steadfast in Duty. In OLGC, we will continue to shape our girls to be Ladies of Character and Leaders for Tomorrow and play our part to keep the IJ dream vibrantly alive.   
 
-At the IJ Forum held in March this year, 6 alumnae who hail from various walks of life and are all making a positive difference to others both locally and around the world, shared about their lives. One who is in her late 20s, established the Barré Group which is a non-profit organisation benefitting ethnic minorities in Vietnam. What struck us was how upholding the IJ motto “Simple in Virtue, Steadfast in Duty” guided them in everything they did. When asked what sparked these ideals in them, all cited their beliefs and values which they imbibed from school and family. Their life experiences and how they made sense of the world around them and their interactions they had, influenced their outlook in becoming a servant leader. Being a servant leader meant sharing what they had with others and respecting differences around them, working for the common good, even if it meant personal sacrifice. Their lives reflect a deep love for others and hearts ready to serve. And these are what we continue to focus on in the learning experiences we provide in OLGC. We look to all parents of our OLGC girls to work in partnership with us to nourish these seeds of love for others and readiness to serve others. In this way, we hope that our girls would bloom into ‘Ladies of Character, Leaders for Tomorrow’, thus ensuring that the legacy of Blessed Barré and Mother Mathilde will carry on.
+Wishing you and your family a restful mid-year break. 
 
-<center>The Tea Party<br> 
-<br>
-I had a little tea party<br>
-This afternoon at three<br>
-Twas very small<br>
-Three guests in all-<br>
-Just I, myself and me.<br>
-<br>	
-Myself ate up the sandwiches,<br>
-While I drank up the tea.<br>
-Twas also I who ate the pie,<br>
-And passed the cake to me.</center>
-
-<P align="right"> -Jessica Nelson North</P>
-	
 Thank you and God bless.
+
+Ms Grace Tan
+Principal 
+
 
 
 *Ms Grace Tan<br>

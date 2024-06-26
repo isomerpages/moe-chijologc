@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Parents Support Group (PSG).md
       - Alumnae/.keep
       - Alumnae/About Alumnae.md

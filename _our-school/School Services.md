@@ -33,6 +33,6 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">Dental Clinic</td>
-    <td class="tg-0pky">For urgent appointments for your child, please contact the nearby buddy school dental clinic <br>via Whatsapp, including your child’s name, school, and class.<br><br>St Gabriel's Primary School<br>Telephone: 97831761<br>Address: 220 Lorong Chuan, S(556742)<br>Contact Staff: Ms Wong <br><br>YangZheng Primary School<br>Telephone: 89400314<br>Address: 15 Serangoon Ave 3 S(556108)<br>Contact Staff: Ms Ang<br><br>Maris Stella High (Primary School)<br>Telephone: 87648516<br>Address: 25 Mount Vernon Road, S(368051)<br>Contact Staff: Ms satya<br><br>For dental emergencies,  please contact Health Promotion Board at:<br>Contact_YPS@hpb.gov.sg<br><br>Roving Dental Clinic 3<br>Telephone: 97831761</td>
+    <td class="tg-0pky">For urgent appointments for your child, please contact the nearby buddy school dental clinic via Whatsapp, including your child’s name, school, and class.<br><br>St Gabriel's Primary School<br>Telephone: 97831761<br>Address: 220 Lorong Chuan, S(556742)<br>Contact Staff: Ms Wong <br><br>YangZheng Primary School<br>Telephone: 89400314<br>Address: 15 Serangoon Ave 3 S(556108)<br>Contact Staff: Ms Ang<br><br>Maris Stella High (Primary School)<br>Telephone: 87648516<br>Address: 25 Mount Vernon Road, S(368051)<br>Contact Staff: Ms satya<br><br>For dental emergencies,  please contact Health Promotion Board at:<br>Contact_YPS@hpb.gov.sg<br><br>Roving Dental Clinic 3<br>Telephone: 97831761</td>
   </tr>
 </tbody></table>

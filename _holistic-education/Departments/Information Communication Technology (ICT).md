@@ -3,6 +3,7 @@ title: Information Communication Technology (ICT)
 permalink: /holistic-education/Departments/ICT/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ## INFORMATION COMMUNICATION TECHNOLOGY
 
@@ -72,6 +73,8 @@ The programme is designed to
 * encourage students to be self-directed learners who take ownership of their learning.
 
 Students enroll in an e-learning module covering skills in office productivity applications such as word processing (Microsoft Word), spreadsheets (Microsoft Excel) and presentation (Microsoft PowerPoint). This e-learning module complements and reinforces the digital skills acquired in the school’s ICT Training programme. 
+
+![](/images/Certificate_of_Participation_2024.jpg)
 
 ![](/images/certificate%20of%20participation.jpg)
 

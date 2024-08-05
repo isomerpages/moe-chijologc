@@ -7,7 +7,7 @@ variant: markdown
 ## Announcements
 
 
-*   [Edusave Character Award ](/echa/2024)
+*   [Test](/announcements/echa2024/)
 
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 

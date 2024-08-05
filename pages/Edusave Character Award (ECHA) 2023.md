@@ -9,4 +9,4 @@ variant: tiptap
 <p>Please submit your nomination via the following FormSG link: <a href="https://go.gov.sg/chijolgcecha2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/chijolgcecha2024</a>
 </p>
 <p>All nominations must be submitted by the closing date. The closing date
-for nomination is <strong>Monday, 4 September 2023</strong>.</p>
+for nomination is <strong>Tuesday, 20 August 2024</strong>.</p>

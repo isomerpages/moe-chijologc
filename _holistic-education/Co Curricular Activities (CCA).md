@@ -81,7 +81,7 @@ CCA is an integral part of our students’ holistic education. The aim of CCA is
   <tr>
     <td class="tg-de2y"></td>
     <td class="tg-de2y">Choir</td>
-    <td class="tg-de2y">Mr Kwek Keng Yang (1?C)<br>Mrs Ho Hung Yin<br>Mdm Claire Thamboo</td>
+    <td class="tg-de2y">Mr Kwek Keng Yang (1/C)<br>Mrs Ho Hung Yin<br>Mdm Claire Thamboo</td>
     <td class="tg-de2y">Monday</td>
     <td class="tg-de2y">2.15pm-3.45pm</td>
     <td class="tg-de2y">Music Room</td>
@@ -113,7 +113,7 @@ CCA is an integral part of our students’ holistic education. The aim of CCA is
   <tr>
     <td class="tg-de2y"></td>
     <td class="tg-de2y">InfoComm Technology <br>(Media Production)</td>
-    <td class="tg-de2y">Ms Shanthi<br>Mrs Jacelyn Lim (I/C)<br>Mrs Angelia Toh</td>
+    <td class="tg-de2y">Ms Shanthi (I/C)<br>Mrs Jacelyn Lim<br>Mrs Angelia Toh</td>
     <td class="tg-de2y">Monday</td>
     <td class="tg-de2y">2.15pm-3.45pm</td>
     <td class="tg-de2y">Computer Lab 1</td>

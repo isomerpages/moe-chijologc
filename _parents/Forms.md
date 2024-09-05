@@ -2,6 +2,7 @@
 title: Forms
 permalink: /parents/Forms/
 description: ""
+variant: markdown
 ---
 ## Forms
 

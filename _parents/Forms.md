@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Forms
 
-[Application for Wait List](/files/application%20for%20wait%20list.pdf)
+[Application for Wait List ](/files/ApplicationForm_Wait_List_10_2024.pdf)
 
 [CCA Transfer Form](/files/2022_New_CCA_Transfer_Form.pdf)
 

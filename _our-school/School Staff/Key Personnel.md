@@ -59,17 +59,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head, Primary (P1-P2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,7 +99,7 @@ variant: tiptap
 <p>Mr Tan Chen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chen_ping@moe.edu.sg</a> 
+<p><a href="mailto:tan_chen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chen_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>

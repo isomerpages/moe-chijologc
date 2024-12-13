@@ -212,7 +212,8 @@ variant: tiptap
 <p>Ms Sim Seok Woon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_seok_woon@moe.edu.sg</p>
+<p><a href="mailto:sim_seok_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_seok_woon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

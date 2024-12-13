@@ -3,114 +3,227 @@ title: Key Personnel
 permalink: /our-school/School-Staff/Key-Personnel/
 description: ""
 third_nav_title: School Staff
-variant: markdown
+variant: tiptap
 ---
-## Key Personnel
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
-.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
-.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Designation</th>
-    <th class="tg-0pky">Name</th>
-    <th class="tg-0pky">Email Address </th>
-  </tr>
-</thead>
+<h2>Key Personnel</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0pky">Principal</td>
-    <td class="tg-0pky">Ms Grace Tan</td>
-    <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Vice-Principal</td>
-    <td class="tg-0pky">Mrs Angelina Wong</td>
-    <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Vice-Principal</td>
-    <td class="tg-lboi">Ms Sharon Liat</td>
-    <td class="tg-0pky">chijolgcs@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Year Head, Upper Primary (P5-P6)</td>
-    <td class="tg-0lax">Mrs Chu Oi Geok</td>
-    <td class="tg-0lax">gwee_oi_geok@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td class="tg-0lax">Year Head, Primary (P3-P4)</td>
-    <td class="tg-0lax">Mrs Anna Koh</td>
-    <td class="tg-0lax">anna_wang_siew_peng@moe.edu.sg</td>
-  </tr>
-  
-  <tr>
-    <td class="tg-0lax">HOD Mathematics</td>
-    <td class="tg-0lax">Mrs Anne Tay</td>
-    <td class="tg-0lax">peh_ai_ling_anne@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Science</td>
-    <td class="tg-0lax">Ms Linda Tan</td>
-    <td class="tg-0lax">tan_tiam_lin_linda@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Mother Tongue</td>
-    <td class="tg-0lax">Ms Lee Yen Hoon</td>
-    <td class="tg-0lax">lee_yen_hoon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD PE &amp; CCA</td>
-    <td class="tg-0lax">Ms Loh Peck Jin</td>
-    <td class="tg-0lax">loh_peck_jin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD CCE</td>
-    <td class="tg-0lax">Ms Amy Phang</td>
-    <td class="tg-0lax">phang_jing_yi_amy@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD ICT</td>
-    <td class="tg-0lax">Mr Bernard Goh</td>
-    <td class="tg-0lax">goh_boon_heng_bernard@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">School Staff Developer</td>
-    <td class="tg-0lax">Ms Julia Tan</td>
-    <td class="tg-0lax">tan_chai_lin_julia@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Student Management</td>
-    <td class="tg-0lax">Mrs Tan Jia Sian</td>
-    <td class="tg-0lax">tan_jia_sian@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Aesthetics</td>
-    <td class="tg-0lax">Ms Junie Ong</td>
-    <td class="tg-0lax">ong_Junie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">LH English</td>
-    <td class="tg-0lax">Mrs Valerie Tan</td>
-    <td class="tg-0lax">ang_su_lin_valerie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">LH Mathematics</td>
-    <td class="tg-0lax">Ms Sim Seok Woon</td>
-    <td class="tg-0lax">sim_seok_woon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Assistant Year Head (P1)</td>
-    <td class="tg-0lax">Mdm Nursyahidah</td>
-    <td class="tg-0lax">nursyahidah_binte_mohamad_jamal@moe.edu.sg</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chijolgcs@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Angelina Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chijolgcs@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Liat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chijolgcs@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head, Primary (P1-P2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nursyahidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nursyahidah_binte_mohamad_jamal@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head, Primary (P3-P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Anna Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>anna_wang_siew_peng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head, Upper Primary (P5-P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chu Oi Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gwee_oi_geok@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chen Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chen_ping@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Anne Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peh_ai_ling_anne@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Linda Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_tiam_lin_linda@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yen Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_yen_hoon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Camillus Peh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peh_joe_han_camillus@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amy Phang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>phang_jing_yi_amy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bernard Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_boon_heng_bernard@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Julia Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chai_lin_julia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Jia Sian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_jia_sian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Valerie Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_su_lin_valerie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Seok Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_seok_woon@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>

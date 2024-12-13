@@ -62,55 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head, Primary (P1-P2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nursyahidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nursyahidah_binte_mohamad_jamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nursyahidah_binte_mohamad_jamal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head, Primary (P3-P4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Anna Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anna_wang_siew_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anna_wang_siew_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head, Upper Primary (P5-P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chu Oi Geok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gwee_oi_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_oi_geok@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Chen Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chen_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,18 +134,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Julia Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chai_lin_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chai_lin_julia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,6 +141,54 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jia_sian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_sian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head, Primary (P1-P2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nursyahidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nursyahidah_binte_mohamad_jamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nursyahidah_binte_mohamad_jamal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head, Primary (P3-P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Anna Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anna_wang_siew_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anna_wang_siew_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head, Upper Primary (P5-P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chu Oi Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gwee_oi_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_oi_geok@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chen Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chen_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -226,6 +213,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_seok_woon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Julia Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chai_lin_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chai_lin_julia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

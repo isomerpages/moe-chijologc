@@ -203,3 +203,41 @@ variant: markdown
     <td class="tg-0pky">sharminni_rajagopal@moe.edu.sg<br>tan_chen_ping@moe.edu.sg<br>gean_chia_chor_koon@moe.edu.sg</td>
   </tr>
 </tbody></table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Primary 6</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">6 Compassion</td>
+    <td class="tg-0pky">Mrs Norahida Bte Abdol Rahim<br>Ms Sim Seok Woon<br>Mrs Clare Lewis</td>
+    <td class="tg-0pky">norahida_abdol_rahim@moe.edu.sg<br>sim_seok_woon@moe.edu.sg<br>clare_tay_mui_tin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">6 Humility</td>
+    <td class="tg-0pky">Ms Amy Phang<br>Mdm Jin Qing<br>Ms Jessica Tan Jia Hui</td>
+    <td class="tg-0pky">phang_jing_yi_amy@moe.edu.sg<br>jin_qing@moe.edu.sg<br>jessica_tan_jia_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">6 Integrity</td>
+    <td class="tg-lboi">Mr Darren Lee<br>Ms Wong Jie Jern<br>Mr Peh Joe Han Camillus</td>
+    <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>wong_jie_jern@moe.edu.sg<br>peh_joe_han_camillus@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">6 Perseverance</td>
+    <td class="tg-0pky">Ms Linda Tan<br>Ms Chng Peiling<br>Mrs Ng</td>
+    <td class="tg-0pky">tan_tiam_lin_linda@moe.edu.sg<br>chng_peiling@moe.edu.sg<br>tang_so_ha@moe.edu.sg</td>
+  </tr>
+</tbody></table>

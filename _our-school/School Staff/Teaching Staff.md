@@ -127,3 +127,41 @@ variant: markdown
     <td class="tg-0pky">wei_peiling_avelyn@moe.edu.sg<br>seah_swee_huang_angelia@moe.edu.sg</td>
   </tr>
 </tbody></table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Primary 4</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">4 Compassion</td>
+    <td class="tg-0pky">Mdm Rasyidah<br>Mrs Ho Hung Yin</td>
+    <td class="tg-0pky">nur_rasyidah_abdul_rahim@moe.edu.sg<br>chow_hung_yin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">4 Humility</td>
+    <td class="tg-0pky">Mrs Valerie Tan<br>Mr Kwek Keng Yang</td>
+    <td class="tg-0pky">ang_su_lin_valerie@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">4 Integrity</td>
+    <td class="tg-0pky">Mr Bernard Goh<br>Mrs Mandy Doll</td>
+    <td class="tg-0pky">goh_boon_heng_bernard@moe.edu.sg<br>mandy_yin_mei_doll@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">4 Perseverance</td>
+    <td class="tg-0pky">Ms Ng Yu Fang<br>Ms Lim Soh Peng<br>Mrs Tan</td>
+    <td class="tg-0pky">ng_yu_fang@moe.edu.sg<br>lim_soh_peng@moe.edu.sg<br>gean_chia_chor_koon@moe.edu.sg</td>
+  </tr>
+</tbody></table>

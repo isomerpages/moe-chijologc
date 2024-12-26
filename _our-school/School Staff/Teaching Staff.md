@@ -32,10 +32,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Oh Bee Ling
 <br>Ms Lin Ting</p>
+<p>Ms Joanne Koo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_bee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_bee_ling@moe.edu.sg</a>
 <br><a href="mailto:lin_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_ting@moe.edu.sg</a>
+</p>
+<p><a href="mailto:joanne_koo_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_koo_hui_sze@moe.edu.sg</a>
 </p>
 </td>
 </tr>

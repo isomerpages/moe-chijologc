@@ -89,3 +89,41 @@ variant: markdown
     <td class="tg-0pky">nurulhuda_mohamed_ayub@moe.edu.sg<br>cheng_ka_yee@moe.edu.sg<br>ong_soek_peng@moe.edu.sg</td>
   </tr>
 </tbody></table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-pval{background-color:#EBF5FF;border-color:inherit;color:#444;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Primary 3</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">3 Compassion</td>
+    <td class="tg-0pky">Mrs Chan Qiong<br>Mrs Koh<br>Mrs Dorai</td>
+    <td class="tg-0pky">teoh_qiong_ling@moe.edu.sg<br>anna_wang_siew_peng@moe.edu.sg<br>nirmala_selvadorai@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3 Humility</td>
+    <td class="tg-pval">Mrs Kong – Chan Xiao Qing Olivia<br>Ms Lee Yen Hoon<br>Mdm Chee Wai Yee</td>
+    <td class="tg-0pky">chan_xiao_qing_olivia@moe.edu.sg<br>lee_yen_hoon@moe.edu.sg<br>chee_wai_yee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3 Integrity</td>
+    <td class="tg-0pky">Ms Khoo Pei Yi<br>Mrs Anne Tay<br>Ms Alexandria Kirsten Tobias</td>
+    <td class="tg-0pky">khoo_pei_yee@moe.edu.sg<br>peh_ai_ling_anne@moe.edu.sg<br>alexandria_kirsten_tobias@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3 Perseverance</td>
+    <td class="tg-0pky">Ms Wei Peiling Avelyn<br>Mrs Angelia Toh</td>
+    <td class="tg-0pky">wei_peiling_avelyn@moe.edu.sg<br>seah_swee_huang_angelia@moe.edu.sg</td>
+  </tr>
+</tbody></table>

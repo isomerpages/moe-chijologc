@@ -165,3 +165,41 @@ variant: markdown
     <td class="tg-0pky">ng_yu_fang@moe.edu.sg<br>lim_soh_peng@moe.edu.sg<br>gean_chia_chor_koon@moe.edu.sg</td>
   </tr>
 </tbody></table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Primary 5</th>
+    <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-0pky">Email Address </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">5 Compassion</td>
+    <td class="tg-0pky">Mrs Sharon Nonis<br>Ms Shanthi<br>Mrs Chu Oi Geok</td>
+    <td class="tg-0pky">nonis_sharon_jacqueline@moe.edu.sg<br>shanthi_a@moe.edu.sg<br>gwee_oi_geok@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">5 Humility</td>
+    <td class="tg-0pky">Mrs Tan Cheair Huang<br>Ms Ummi<br>Mdm He Lihua</td>
+    <td class="tg-0pky">heng_cheair_huang@moe.edu.sg<br>ummikalthum_mohd_basheer@moe.edu.sg<br>he_lihua_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">5 Integrity</td>
+    <td class="tg-lboi">Mr Chai Wei Jun<br>Mrs Tan Jia Sian<br>Mdm Chow Wai Mun</td>
+    <td class="tg-0pky">chai_wei_jun@moe.edu.sg<br>tan_jia_sian@moe.edu.sg<br>chow_wai_mun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">5 Perseverance</td>
+    <td class="tg-0pky">Mrs Claire Thamboo<br>Mr Tan Chen Ping<br>Mrs Gean Tan</td>
+    <td class="tg-0pky">sharminni_rajagopal@moe.edu.sg<br>tan_chen_ping@moe.edu.sg<br>gean_chia_chor_koon@moe.edu.sg</td>
+  </tr>
+</tbody></table>

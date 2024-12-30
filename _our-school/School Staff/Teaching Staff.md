@@ -75,7 +75,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">2 Integrity</td>
-    <td class="tg-0pky">Ms Durga<br>Mrs Esther Loo<br>Mdm Karen Yow Pin Hwee</td>
+    <td class="tg-0pky">Ms Durga Devi<br>Mrs Esther Loo<br>Mdm Karen Yow Pin Hwee</td>
     <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg<br>karen_yow_pin_hwee@moe.edu.sg</td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">3 Compassion</td>
-    <td class="tg-0pky">Ms Teoh Qiong ling<br>Mrs Koh</td>
+    <td class="tg-0pky">Ms Teoh Qiong ling<br>Mrs Anna Wang Siew Peng</td>
     <td class="tg-0pky">teoh_qiong_ling@moe.edu.sg<br>anna_wang_siew_peng@moe.edu.sg<br></td>
   </tr>
   <tr>
@@ -237,7 +237,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">6 Perseverance</td>
-    <td class="tg-0pky">Ms Linda Tan<br>Ms Chng Peiling<br>Mrs Ng</td>
+    <td class="tg-0pky">Ms Linda Tan<br>Ms Chng Peiling<br>Mrs Tang So Ha</td>
     <td class="tg-0pky">tan_tiam_lin_linda@moe.edu.sg<br>chng_peiling@moe.edu.sg<br>tang_so_ha@moe.edu.sg</td>
   </tr>
 </tbody></table>

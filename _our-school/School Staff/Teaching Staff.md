@@ -108,8 +108,8 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">3 Compassion</td>
-    <td class="tg-0pky">Mrs Chan Qiong<br>Mrs Koh<br>Mrs Dorai</td>
-    <td class="tg-0pky">teoh_qiong_ling@moe.edu.sg<br>anna_wang_siew_peng@moe.edu.sg<br>nirmala_selvadorai@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Teoh Qiong ling<br>Mrs Koh</td>
+    <td class="tg-0pky">teoh_qiong_ling@moe.edu.sg<br>anna_wang_siew_peng@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">3 Humility</td>
@@ -161,7 +161,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">4 Perseverance</td>
-    <td class="tg-0pky">Ms Ng Yu Fang<br>Ms Lim Soh Peng<br>Mrs Tan</td>
+    <td class="tg-0pky">Ms Ng Yu Fang<br>Ms Lim Soh Peng<br>Ms Chia Chor Koon Gean</td>
     <td class="tg-0pky">ng_yu_fang@moe.edu.sg<br>lim_soh_peng@moe.edu.sg<br>gean_chia_chor_koon@moe.edu.sg</td>
   </tr>
 </tbody></table>
@@ -199,8 +199,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">5 Perseverance</td>
-    <td class="tg-0pky">Mrs Claire Thamboo<br>Mr Tan Chen Ping<br>Mrs Gean Tan</td>
-    <td class="tg-0pky">sharminni_rajagopal@moe.edu.sg<br>tan_chen_ping@moe.edu.sg<br>gean_chia_chor_koon@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Claire Thamboo<br>Mr Tan Chen Ping<br>Mr Tan Yong Liang Glen</td>
+    <td class="tg-0pky">sharminni_rajagopal@moe.edu.sg<br>tan_chen_ping@moe.edu.sg<br>tan_yong_liang_glen@moe.edu.sg@moe.edu.sg</td>
   </tr>
 </tbody></table>
 

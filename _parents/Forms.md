@@ -9,8 +9,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2022_New_CCA_Transfer_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Transfer Form</a>
 </p>
-<p><a href="/files/2020%20MOE%20Student%20GPA%20claim%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">School Insurance Claim Form</a>
-</p>
 <p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Submission of insurance claims for students</a>
 </p>
 <p><a href="https://form.gov.sg/66fe2ebbecb8d68b5cd10951" rel="noopener noreferrer nofollow" target="_blank">Application for Leave of Absence</a>

@@ -35,7 +35,7 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lboi">3</td>
-    <td class="tg-lboi">Ms Danya Tan Li Lin (Special Educational Needs Officer)</td>
+    <td class="tg-lboi">Ms Danya Tan Yi Lin (Special Educational Needs Officer)</td>
     <td class="tg-0pky">tan_yi_lin_a@moe.edu.sg</td>
   </tr>
 </tbody>

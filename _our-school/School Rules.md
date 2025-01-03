@@ -63,5 +63,18 @@ variant: markdown
 
 ##### Mobile Phones/Smart Devices
 
+1.	Students are to be responsible and accountable for the proper care and safekeeping of all their personal belongings.
+2.	Students are reminded to use all electronic and mobile devices, including access to social media, appropriately and responsibly and with due regard and consideration for others.
+3.	Save where it is necessary for communication or educational purposes, students are discouraged from bringing any form of electronic or mobile devices to school, including mobile phones, tablets, laptops, smart watches, digital cameras, personal digital assistants, media players, and/ or game consoles of any sort.
+4.	Any electronic or mobile devices that are brought to school must be switched off and stored away during curriculum and CCA time, failing which, the school shall have the right to confiscate them. The use of such devices is restricted to the foyer during dismissal.
+5.	Electronic or mobile devices shall not be charged in school using the school’s power sockets, otherwise the school shall have the right to confiscate them.
+6.	Items that are confiscated pursuant to these rules may be claimed from the Operations Manager the following Monday, during the morning or afternoon break. The school reserves the right to further require the student to undertake such restorative action or community service to remediate any breaches of the school rules.
 
+##### Possession of Weapons
 
+1.	Students are not allowed to have in their possession any weapon.
+2.	Students are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+
+##### IJ Board’s Anti-Bullying Policy
+
+In our CHIJ Schools, we uphold the basic principle of respecting the dignity of each person we interact with. Everyone in our school community has the responsibility and a role to play in building a safe learning environment where we treat each other with respect and understanding. As such our school will not tolerate any unlawful or disruptive behaviour, including any form of bullying, cyber-bullying, intimidation or retaliation.

@@ -53,8 +53,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-73oq">6</td>
-    <td class="tg-73oq">Mrs Jacelyn Lim</td>
-    <td class="tg-73oq">heng_tian_ying@moe.edu.sg</td>
+    <td class="tg-73oq">Miss Tan Hui Leng</td>
+    <td class="tg-73oq">tan_hui_leng_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-73oq">7</td>
@@ -73,8 +73,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-pjk6">10</td>
-    <td class="tg-pjk6">Ms Seng Shu Yian</td>
-    <td class="tg-pjk6">seng_shu_yian@moe.edu.sg</td>
+    <td class="tg-pjk6">Mdm He Lihua</td>
+    <td class="tg-pjk6">he_lihua_a@@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-pjk6">11</td>

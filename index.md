@@ -25,9 +25,10 @@ sections:
           url: /forstudents/
       variant: center
   - infopic:
-      title: CHIJ 170 YEARS
+      title: 65th Anniversary
       id: infopic
-      image: /images/Main_KV_for_Letterhead_021023.jpg
+      image: /images/heart_strings_Logo_V2_Coloured.jpg
       alt: Image alt text
       url: https://go.gov.sg/chij170
+      description: "Hearts in Harmony:  Celebrating a legacy of love and learning"
 ---

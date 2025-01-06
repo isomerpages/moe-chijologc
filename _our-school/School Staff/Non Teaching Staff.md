@@ -62,9 +62,14 @@ third_nav_title: School Staff
     <td class="tg-73oq">Tan Tai Wan Michelle</td>
     <td class="tg-73oq">tan_tai_wan@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-73oq">Corporate Support Officer</td>
+    <td class="tg-73oq">Chan Poh Chee Pauline</td>
+    <td class="tg-73oq">chan_poh_chee_pauline_a@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-73oq">Operations support officer</td>
-    <td class="tg-73oq">Juniar Binti Raub</td>
+    <td class="tg-73oq">Lin Yahua</td>
     <td class="tg-73oq">-</td>
   </tr>
   <tr>

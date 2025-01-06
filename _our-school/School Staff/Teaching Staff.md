@@ -75,8 +75,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">2 Integrity</td>
-    <td class="tg-0pky">Ms Durga Devi<br>Mrs Esther Loo<br>Mdm Karen Yow Pin Hwee</td>
-    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg<br>karen_yow_pin_hwee@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Durga Devi<br>Mrs Esther Loo</td>
+    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">2 Perseverance</td>
@@ -108,8 +108,8 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">3 Compassion</td>
-    <td class="tg-0pky">Ms Teoh Qiong ling<br>Mrs Anna Wang Siew Peng</td>
-    <td class="tg-0pky">teoh_qiong_ling@moe.edu.sg<br>anna_wang_siew_peng@moe.edu.sg<br></td>
+    <td class="tg-0pky">Ms Teoh Qiong ling<br>Mrs Anna Wang Siew Peng<br>Mrs Deepa d/o K Mahalingam</td>
+    <td class="tg-0pky">teoh_qiong_ling@moe.edu.sg<br>anna_wang_siew_peng@moe.edu.sg<br>deepa_k_mahalingam@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">3 Humility</td>
@@ -151,8 +151,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">4 Humility</td>
-    <td class="tg-0pky">Mrs Valerie Tan<br>Mr Kwek Keng Yang</td>
-    <td class="tg-0pky">ang_su_lin_valerie@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Valerie Tan<br>Mr Kwek Keng Yang<br>Miss Tan Hui Leng</td>
+    <td class="tg-0pky">ang_su_lin_valerie@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg<br>tan_hui_leng_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">4 Integrity</td>
@@ -222,8 +222,8 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">6 Compassion</td>
-    <td class="tg-0pky">Mrs Norahida Bte Abdol Rahim<br>Ms Sim Seok Woon<br>Mrs Clare Lewis</td>
-    <td class="tg-0pky">norahida_abdol_rahim@moe.edu.sg<br>sim_seok_woon@moe.edu.sg<br>clare_tay_mui_tin@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Norahida Bte Abdol Rahim<br>Ms Sim Seok Woon<br>Mr Peh Joe Han Camillus</td>
+    <td class="tg-0pky">norahida_abdol_rahim@moe.edu.sg<br>sim_seok_woon@moe.edu.sg<br>peh_joe_han_camillus@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">6 Humility</td>
@@ -232,12 +232,12 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">6 Integrity</td>
-    <td class="tg-lboi">Mr Darren Lee<br>Ms Wong Jie Jern<br>Mr Peh Joe Han Camillus</td>
-    <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>wong_jie_jern@moe.edu.sg<br>peh_joe_han_camillus@moe.edu.sg</td>
+    <td class="tg-lboi">Mr Darren Lee<br>Ms Wong Jie Jern<br>Mrs Tang So Ha</td>
+    <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>wong_jie_jern@moe.edu.sg<br>tang_so_ha@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">6 Perseverance</td>
-    <td class="tg-0pky">Ms Linda Tan<br>Ms Chng Peiling<br>Mrs Tang So Ha</td>
-    <td class="tg-0pky">tan_tiam_lin_linda@moe.edu.sg<br>chng_peiling@moe.edu.sg<br>tang_so_ha@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Linda Tan<br>Ms Chng Peiling<br>Mrs Clare Lewis</td>
+    <td class="tg-0pky">tan_tiam_lin_linda@moe.edu.sg<br>chng_peiling@moe.edu.sg<br>clare_tay_mui_tin@moe.edu.sg</td>
   </tr>
 </tbody></table>

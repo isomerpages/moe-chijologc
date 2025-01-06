@@ -27,8 +27,8 @@ third_nav_title: School Staff
 <tbody>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0pky">Mrs Nirmala Selvadorai</td>
-    <td class="tg-0pky">nirmala_selvadorai@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Deepa d/o K Mahalingam</td>
+    <td class="tg-0pky">deepa_k_mahalingam@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">2</td>

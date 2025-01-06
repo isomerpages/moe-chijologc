@@ -25,7 +25,7 @@ sections:
           url: /forstudents/
       variant: center
   - infopic:
-      title: 65th Anniversary
+      title: OLGC celebrates our 65th Anniversary in 2025
       id: infopic
       image: /images/heart_strings_Logo_V2_Coloured.jpg
       alt: Image alt text

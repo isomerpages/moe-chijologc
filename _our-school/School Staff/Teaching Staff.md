@@ -151,8 +151,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lboi">4 Humility</td>
-    <td class="tg-0pky">Mrs Valerie Tan<br>Mr Kwek Keng Yang</td>
-    <td class="tg-0pky">ang_su_lin_valerie@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg</td>
+    <td class="tg-0pky">Mrs Valerie Tan<br>Mr Kwek Keng Yang<br>Miss Tan Hui Leng</td>
+    <td class="tg-0pky">ang_su_lin_valerie@moe.edu.sg<br>kwek_keng_yang@moe.edu.sg<br>tan_hui_leng_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">4 Integrity</td>

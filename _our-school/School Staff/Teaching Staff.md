@@ -75,8 +75,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">2 Integrity</td>
-    <td class="tg-0pky">Ms Durga Devi<br>Mrs Esther Loo<br>Mdm Karen Yow Pin Hwee</td>
-    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg<br>karen_yow_pin_hwee@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Durga Devi<br>Mrs Esther Loo</td>
+    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">2 Perseverance</td>

@@ -25,7 +25,7 @@ third_nav_title: School Staff
 <tbody>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0pky">Ms Michelle Ho (Senior School Counselor)</td>
+    <td class="tg-0pky">Ms Michelle Ho (School Counselor)</td>
     <td class="tg-0pky">ho_see_ngin_michelle@moe.edu.sg</td>
   </tr>
   <tr>
@@ -37,6 +37,11 @@ third_nav_title: School Staff
     <td class="tg-lboi">3</td>
     <td class="tg-lboi">Ms Danya Tan Yi Lin (Special Educational Needs Officer)</td>
     <td class="tg-0pky">tan_yi_lin_a@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-lboi">4</td>
+    <td class="tg-lboi">Mrs Emily Tony (AED T&amp;L)</td>
+    <td class="tg-0pky">gomez_crystl_emily@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

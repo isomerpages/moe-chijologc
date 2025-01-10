@@ -3,13 +3,46 @@ title: Mathematics
 permalink: /holistic-education/Departments/Mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ## Mathematics 
 
-We seek to promote the learning of Mathematics through the elements of fun to engage students. The department conducts Math Fun@recess activities where students play simple games or try out hands on activities designed and prepared by teachers and parent volunteers from the Mums’ Club. Students can also try out the big floor game at the concourse. P1 and P2 classes are taught to play Math games like Swamp Sum and Rummikub and encouraged to try out the Math activities at the Math Activity corner within the classroom. Through the playing of games, students are encouraged unconsciously to apply their critical thinking and problem solving skills.  
-  
-To better engage our parents in their child’s learning of Mathematics, the department seeks to form a collaborative partnership with parents to promote parent-child bonding well as encourage parental support in their child’s learning in the area of Mathematics. The department has customised Parent-Child Home kits for P1 to P3 on selected topics for parents to work with their children at home.&nbsp; These kits comprise of board games, suggested activities and websites where parent and child can play and learn together.  
-  
-To further relate Mathematics to students’ daily lives, P4 students went through a 1 day Financial Literacy Programme where they learn good saving habits to prepare them for the future. Tapping on the nature of the subject, we also stretch out students to be good problem-solvers through the Mathematics Olympiad training offered by the school.
+In our school, we believe that mathematics is a fundamental subject that develops critical thinking, problem-solving skills, and logical reasonin
+
+Our Approach:
+
+We strive to make math engaging and relevant for all students. Our curriculum balances core mathematical concepts with real-world applications, fostering both understanding and appreciation of the subject. We also emphasise the development of 21st Century Competencies (21CC) skills to prepare our students for the future. This includes fostering critical and inventive thinking, communication, collaboration, and information skills, integrated seamlessly into our mathematics instruction.
+
+Teaching Strategies:
+We employ a range of proven strategies to enhance mathematical understanding:
+
+1. CPA Approach (Concrete, Pictorial, Abstract): Helping students progress from hands-on learning to abstract thinking
+2. Learning Experience: Providing meaningful contexts for mathematical concepts
+3. Polya's Problem Solving Model: Teaching a systematic approach to tackle complex problems
+4. Model Drawing: Using visual representations to solve word problems
+5. Heuristics Skills: Developing a toolkit of problem-solving techniques
+6. Differentiated Instructions: Tailoring teaching methods to meet individual student needs and learning styles
+
+Curriculum:
+We follow the MOE Math curriculum, which centers around problem-solving. This curriculum aims to develop students' ability to apply mathematical concepts and skills to a wide range of problems. Key areas include:
+- Number and Algebra
+- Geometry and Measurement
+- Statistics and Probability
+
+The curriculum emphasizes the development of mathematical processes such as reasoning, communication, and connections, all within the context of problem-solving.
+
+Activities and Programmes:
+We organize a variety of exciting activities throughout the year to make math fun. These include Math Week and various level-specific learning activities. These programmes are designed to reinforce mathematical concepts through hands-on experiences and real-world applications.
+
+Student Voice and Peer Learning:
+We believe in empowering our students and fostering a collaborative learning environment. Our Primary 4 Buddy Programme exemplifies this approach:
+
+- P4 Buddy Programme: Primary 4 students take on the role of mentors, helping their Primary 2 'sisters' learn maths in a fun and engaging manner. This programme not only reinforces mathematical concepts for both age groups but also develops leadership skills and builds strong bonds across year levels.
+
+Enrichment Programmes:
+To challenge and stretch our high-achieving students, we offer:
+
+- Math Olympiad lessons: Preparing students for advanced problem-solving competitions
+- Excellence 2000 Math (E2K Math): An enrichment programme designed to develop higher-order thinking skills and mathematical creativity.
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQP0fBBJid18vcoudzwGJpHpRbu4wJSu-Y8fHOC9H7U_9vFQoCpWdDs2Z2Qaay4OvtBqakttErIaFvV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

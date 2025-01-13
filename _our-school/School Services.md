@@ -16,7 +16,7 @@ variant: markdown
 <table class="tg"><thead>
   <tr>
     <th class="tg-3gn3">Textbooks <br>School Attire </th>
-    <th class="tg-3gn3">School Bookshop<br>c/o Pacific Bookstores Pte Ltd<br>Call or WhatsApp: 9365 3928<br>Mondays to Fridays (Except Tuesdays)<br>8.30am to 3.30pm<br>Tuesdays<br>8.30am to 3pm<br><br>Closed on Sat/Sun/PH and School holidays<br><br>Please call for an appointment before visiting the school bookshop.<br></th>
+    <th class="tg-3gn3">School Bookshop<br>c/o Pacific Bookstores Pte Ltd<br>Call or WhatsApp: 9365 3928<br>Mondays to Fridays (Except Tuesdays)<br>8.30am to 3.30pm<br>Tuesdays<br>8.30am to 3pm<br><br>Closed on Sat/Sun/PH and School holidays<br><br>For parents/guardians who wish to drop by the bookshop, please call/whatsapp the bookshop for an appointment before dropping by.<br></th>
   </tr></thead>
 <tbody>
   <tr>
@@ -33,6 +33,18 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">Dental Clinic</td>
-    <td class="tg-0pky">For urgent appointments for your child, please contact the nearby buddy school dental clinic via Whatsapp, including your child’s name, school, and class.<br><br>St Gabriel's Primary School<br>Telephone: 97831761<br>Address: 220 Lorong Chuan, S(556742)<br>Contact Staff: Ms Wong <br><br>YangZheng Primary School<br>Telephone: 89400314<br>Address: 15 Serangoon Ave 3 S(556108)<br>Contact Staff: Ms Ang<br><br>Maris Stella High (Primary School)<br>Telephone: 87648516<br>Address: 25 Mount Vernon Road, S(368051)<br>Contact Staff: Ms satya<br><br>For dental emergencies,  please contact Health Promotion Board at:<br>Contact_YPS@hpb.gov.sg<br><br>Roving Dental Clinic 3<br>Telephone: 97831761</td>
+    <td class="tg-0pky">The dental clinic at OLGC will only open in July 2025.<br><br>For OLGC students that require dental treatment before July 2025, you may contact the nearby buddy clinics via Whatsapp and include your child’s name, school, and class.
+<br>			
+<br>Details of Buddy Clinics:<br>
+<br>Marist Stella High
+<br>80 Bartley Road
+<br>Singapore 539786
+<br>Tel: 8764 8516
+<br>
+<br>St Gabriel’s Primary
+<br>220 Lorong Chuan
+<br>Singapore 556742
+<br>Tel: 9783 1761			
+</td>
   </tr>
 </tbody></table>

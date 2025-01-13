@@ -2,10 +2,11 @@
 title: Parents Support Group (PSG)
 permalink: /partners/psg/
 description: ""
+variant: markdown
 ---
 ## PARENTS SUPPORT GROUP (PSG)
 
-![](/images/CHIJ%20OLGC%20PSG%20ORG%20CHART%202022.jpeg)
+![](/images/CHIJ_OLGC_PSG_CHART_2025.jpg)
 
 ### Important Links:
 

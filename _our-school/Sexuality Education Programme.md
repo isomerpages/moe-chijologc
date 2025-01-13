@@ -85,7 +85,7 @@ from sexuality-related risks.</p>
 </div>
 <p></p>
 <p>2025 Sexuality Education Lessons in CCE</p>
-<p></p>
+<p>Primary 5</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>

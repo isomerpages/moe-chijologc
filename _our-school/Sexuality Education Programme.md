@@ -2,7 +2,7 @@
 title: Sexuality Education Programme
 permalink: /our-school/sexuality-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>Sexuality Education Programme</h2>
 <h4>MOE SEXUALITY EDUCATION IN SCHOOLS</h4>
@@ -86,10 +86,12 @@ from sexuality-related risks.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p><p align="center">2025 Sexuality Education Lessons in CCE</p>
+<p></p>
+<p>2025 Sexuality Education Lessons in CCE</p>
 <p></p>
 <p></p>
-<p></p><p align="center">Primary 5</p>
+<p></p>
+<p>Primary 5</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P5_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.jpg">
@@ -102,10 +104,12 @@ from sexuality-related risks.</p>
 </div>
 <p></p>
 <p></p>
-<p></p><p align="center">2025 Sexuality Education Lessons in CCE</p>
+<p></p>
+<p>2025 Sexuality Education Lessons in CCE</p>
 <p></p>
 <p></p>
-<p></p><p align="center">Primary 6</p>
+<p></p>
+<p>Primary 6</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -121,8 +125,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="/files/Annex_A_Opt_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 07/02/2025.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a href="/files/Annex_A_2025.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 07/02/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6288 6930 or email <a rel="noopener noreferrer nofollow" target="_blank">chijolgcs@moe.edu.sg</a> for discussion

@@ -86,10 +86,10 @@ from sexuality-related risks.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>2025 Sexuality Education Lessons in CCE</p>
+<p></p><p align="center">2025 Sexuality Education Lessons in CCE</p>
 <p></p>
 <p></p>
-<p>Primary 5</p>
+<p></p><p align="center">Primary 5</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P5_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.jpg">
@@ -102,10 +102,10 @@ from sexuality-related risks.</p>
 </div>
 <p></p>
 <p></p>
-<p>2025 Sexuality Education Lessons in CCE</p>
+<p></p><p align="center">2025 Sexuality Education Lessons in CCE</p>
 <p></p>
 <p></p>
-<p>Primary 6</p>
+<p></p><p align="center">Primary 6</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">

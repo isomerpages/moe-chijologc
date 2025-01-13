@@ -108,7 +108,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">3 Compassion</td>
-    <td class="tg-0pky">Ms Teoh Qiong ling<br>Mrs Anna Wang Siew Peng<br>Mrs Deepa d/o K Mahalingam</td>
+    <td class="tg-0pky">Ms Teoh Qiong ling<br>Mrs Anna Koh<br>Mrs Deepa d/o K Mahalingam</td>
     <td class="tg-0pky">teoh_qiong_ling@moe.edu.sg<br>anna_wang_siew_peng@moe.edu.sg<br>deepa_k_mahalingam@moe.edu.sg</td>
   </tr>
   <tr>

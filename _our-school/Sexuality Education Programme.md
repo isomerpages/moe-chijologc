@@ -86,6 +86,50 @@ from sexuality-related risks.</p>
 <p></p>
 <p></p><p align="center">2025 Sexuality Education Lessons in CCE</p>
 <p></p><p align="center">Primary 5</p>
+	<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-9wq8">LESSON TITLE / DURATION</th>
+    <th class="tg-lboi">Form Teacher &amp; Co-Form Teacher</th>
+    <th class="tg-lboi">LESSON TITLE / DURATION</th>
+    <th class="tg-0lax">TIME PERIOD <br>(e.g. Term 1 Week 2)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Growing Years</td>
+    <td class="tg-0pky">The Changes in Me<br>(60 min)</td>
+    <td class="tg-0pky">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</td>
+    <td class="tg-0lax">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"></td>
+    <td class="tg-0pky">Did You Know?<br>(60 min)</td>
+    <td class="tg-0pky">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0lax">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi">Keeping Myself Safe<br>(60 min)</td>
+    <td class="tg-0pky">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody></table>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>

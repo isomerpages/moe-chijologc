@@ -79,21 +79,16 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
 <h4><strong>At CHIJ Our Lady Of Good Counsel, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEDL_Pri_5.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEDL_Pri_5_body_text.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEDL_Pri_6.png">
-</div>
+<p>2025 Sexuality Education Lessons in CCE</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEDL_Pri_6_body_text.png">
-</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
 <h4><strong>Information for Parents</strong></h4>
 </li>
 <li>

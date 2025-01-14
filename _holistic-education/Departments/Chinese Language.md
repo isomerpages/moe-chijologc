@@ -13,7 +13,6 @@ To enhance the various language skills, cultivate an appreciation for the Chines
 
 •	Chinese New Year Celebrations<br>
 •	Mother Tongue Fortnight<br>
-•	Games/ Activity based learning for students<br>
 •	Speech and Drama Programme<br>
 •	Language and Cultural Camp<br>
 

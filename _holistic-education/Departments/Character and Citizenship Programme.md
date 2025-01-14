@@ -3,6 +3,7 @@ title: Character and Citizenship Programme
 permalink: /holistic-education/Departments/Character-and-Citizenship-Programme/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ## CHARACTER AND CITIZENSHIP EDUCATION
 
@@ -10,7 +11,7 @@ In CHIJ OLGC, we hope to engage our students in the development of values, knowl
   
 We strongly believe that Character Education is a shared responsibility of all staff members, parents and external partners, such as trainers and coaches. Inherently, every teacher is also a CCE teacher and every teacher infuses the teaching of values in their respective subjects, CCA or through their daily interactions with students. With this shared belief and understanding, all staff members are also committed in partnering closely with community groups in character-building.&nbsp;  
   
-Our school core values of Compassion, Humility, Integrity and Perseverance (CHIP) are part of our everyday language as they are promoted during our daily sharing and intentionally articulated by our staff and students. Growing in Grace Passport activities serve as family-bonding activities to further CHIP values at home.  
+Our school core values of Compassion, Humility, Integrity and Perseverance (CHIP) are part of our everyday language as they are promoted during our daily sharing and intentionally articulated by our staff and students.   
   
 Recognising the importance of enhancing relationships with peers and teachers to strengthen a culture of care, the Adopted Sisters Programme and Form Teacher Guidance Periods are an integral part of our character education.  
   

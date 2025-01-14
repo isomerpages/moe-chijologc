@@ -37,7 +37,7 @@ Our CCE programme aims to inculcate in our students \*R3ICH values and equip the
 At CHIJ OLGC, we believe in nurturing compassionate and socially responsible citizens.
 Our Values in Action (VIA) programme is designed to provide students with meaningful
 opportunities to contribute to the community and develop a sense of civic responsibility
-using the Head-Heart-Hand approach.
+using the Head-Heart-Hand approach.<br>
 Through age-appropriate activities, our students learn to empathise with others, understand
 societal needs, and take action to make a positive difference.
 

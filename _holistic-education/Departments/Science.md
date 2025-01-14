@@ -22,5 +22,11 @@ The Science department engages our students and helps them make connections betw
 
 ##### Students observing specimens of different body parts of birds
 
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMVM6speya5DL7BfFz5ypuYzddNCnm2W6lq8rP4SrU6JarJBsrG2hy68wnJ3xyqNerTARSrnF_pmK9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+##### Students learning about sustainable farming
+
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY-LLVhUyyqZm4zJQGWSrSg3Ldmx8ow3sN_tHCj5LupvdAzC0ztlCmj1wt0s3EHtAIyyG50HJLUATV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+##### Students observing live specimens of bugs in their different stages
 

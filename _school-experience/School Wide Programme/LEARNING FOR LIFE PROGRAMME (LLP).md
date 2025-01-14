@@ -3,6 +3,7 @@ title: LEARNING FOR LIFE PROGRAMME (LLP)
 permalink: /school-experience/School-Wide-Programme/permalink/
 description: ""
 third_nav_title: School Wide Programme
+variant: markdown
 ---
 ## LEARNING FOR LIFE PROGRAMME (LLP)
 
@@ -20,8 +21,9 @@ Hand (Inspire, Lead and Serve) – Developing students’ behaviour through prov
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAEzzs1ibNyhnYDUxF9vr_TXqLvirLNbrOKirSKB9TgRjMSaN9GdjxFFn22qs0C3J4oDqZg5Pf9g6R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-### CHIJ 165th Anniversary Forum
+### Laudato Si’ Gardening Project
 
-<img style="width: 50%;" src="/images/CHIJ_165th_Anniversary_Forum.jpeg" align="center"> Selected Primary 5 and 6 student leaders took part in the CHIJ 165th Anniversary Forum held on 9 March 2019 at Catholic Junior College. The keynote speaker and panel members for the forum consist of former CHIJ girls who come from the various industries, have imbued the IJ spirit and live the mission in their lives. The forum aims to inspire our student leaders on how their IJ sisters have contributed to those around them.
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLFk-uIFjiZszis8WPellRxfDdfVtI585xSqK_EkdYFA0LP-PstzlxH3iAw0Z5XK99EIeqLGTH1LsI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-&lt;<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk5Ulu5JQifDlLhIDGMH6-nrFaU7UiE9yQ_ukjaMdeuaNln_ppfIN79TJTP8pUcoc4WdsVhaHnFqfp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+As part of the CHIJ 170th anniversary, our student leaders took on the Laudato Si’ Gardening Project to show their gratitude to Mother Mathilde and the early IJ sisters by committing to care for our common home and making a stand to protect our earth as their way of serving and making a positive difference just like Mother Mathilde and the early sisters. For Teachers’ day, our student leaders also presented a small pot of blue pea plant to our teachers on behalf of the student body. The blue pea plant is chosen because the blue pea flowers symbolise calmness and wisdom, just like our teachers. We are humbled to share that we came in 1st in position for the **Laudato Si’ in Bloom Gardening Competition** for the beginner category. Our student leaders hope to inspire the rest of their fellow schoolmates to be ambassadors for the environment. 
+

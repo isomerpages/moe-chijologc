@@ -18,5 +18,3 @@ To enhance the various language skills, cultivate an appreciation for the Chines
 •	Language and Cultural Camp<br>
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRav935oIz4PlEPRuz9KVnVEfdw8b_YV6YM83Bohp6dhaY5MrbPZw3DKLx_FgHcF347wDdNhd1B7NGR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-

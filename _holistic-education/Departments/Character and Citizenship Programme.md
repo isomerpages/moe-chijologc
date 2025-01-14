@@ -21,7 +21,7 @@ Students are also equipped with goal-setting skills using My Personal Goals Acti
 
 ### Student Well-Being
 
-Various support programmes are also in place to provide the provision of care for the total well-being and development of our students. These support programmes include parent-teacher meetings, teacher-student conferencing sessions, various financial assistance schemes, special needs support and counselling support. These support programmes are headed by the Year Heads, School Administrative Team, Form Teachers, Senior School Counsellor and Allied Educators (Learning and Behavioural Support).
+Various support programmes are also in place to provide the provision of care for the total well-being and development of our students. These support programmes include parent-teacher meetings, teacher-student conferencing sessions, various financial assistance schemes, special needs support and counselling support. These support programmes are headed by the Year Heads, School Administrative Team, Form Teachers, Senior School Counsellor and Special Educational Needs Officer.
 
 ### CCE Curriculum
 
@@ -34,11 +34,29 @@ Our CCE programme aims to inculcate in our students \*R3ICH values and equip the
 
 ### Values In Action(VIA)
 
-These are some of the school-based programmes carried out during CCE:
+At CHIJ OLGC, we believe in nurturing compassionate and socially responsible citizens.
+Our Values in Action (VIA) programme is designed to provide students with meaningful
+opportunities to contribute to the community and develop a sense of civic responsibility
+using the Head-Heart-Hand approach.
+Through age-appropriate activities, our students learn to empathise with others, understand
+societal needs, and take action to make a positive difference.
 
-| Primary 1 and 2 – Blessed to be a blessing<br><br>Finger Print Art Canvas (P4 to P6): to be given to the organisations that they worked with for VIA             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Primary 3 and 4 – Care for the environment <br><br>Upcycling project : Students will bring used items which can be upcycled to do their part for the environment |
-| Primary 5 and 6 – Care for the community <br><br>Service learning through the head-heart-hand approach                                                           |
+**Level Outcomes:<br>
+**Primary 1 and 2: Developing Awareness and Empathy**<br>
+Our youngest students focus on understanding the importance of kindness, helping others, and being a blessing to others. They participate in:<br>
+
+Outcome: NKF Champs VIA programme: Students bring Christmas cheer to National Kidney
+Foundation (NKF) patients by creating cards and handmade Christmas bracelets. Through
+this activity, they learn the importance of compassion and how small gestures can brighten
+the lives of those facing health challenges.
+
+**Primary 3 and 4: “Taking Pride in our School Environment”** to help to create a conducive environment for everyone in the school. 
+
+Students look beyond their immediate surroundings and take an active role in improving their school environment such as:
+
+•	Beautification projects for classrooms and common areas<br>
+•	Creating awareness campaigns for cleanliness and proper use of school facilities
+
+Outcome: Through the "Taking Pride in our School Environment" initiative, students gain a broader understanding of community needs, starting with their immediate school community. They learn to take initiative in improving their surroundings, develop a sense of ownership and responsibility for shared spaces, and understand how their actions can positively impact the entire school community. This expanded perspective prepares them for wider community engagement in later years.
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSb1_m9AieghA5yAgr9Cv-XuEFO8A0j5Y1Qko75Def0ZZESTfXmihUQnP8CJFVe4xoBy4lwXpEbD4wK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

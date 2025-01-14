@@ -59,4 +59,36 @@ Students look beyond their immediate surroundings and take an active role in imp
 
 Outcome: Through the "Taking Pride in our School Environment" initiative, students gain a broader understanding of community needs, starting with their immediate school community. They learn to take initiative in improving their surroundings, develop a sense of ownership and responsibility for shared spaces, and understand how their actions can positively impact the entire school community. This expanded perspective prepares them for wider community engagement in later years.
 
+**Primary 5 and Primary 6: Broadening Perspectives and Community Engagement**<br>
+Our Primary 5 and 6 students expand their understanding of community needs and social
+Issues through exposure to various organisations:
+
+• Mount Alvernia Hospital sharing session: Students attend a presentation to understand
+the work of the hospital, gaining insights into healthcare services and the importance of
+community health.
+
+• Archdiocesan Commission for the Pastoral Care of Migrants and Itinerant People (ACMI)
+sharing: Students learn about the challenges faced by migrants and itinerant people,
+fostering empathy and awareness of diverse community needs.
+
+In turn, our students create cards and virtue bracelets for nurses and migrants to show
+their appreciation. <br>
+<br>
+Outcome: Through the activity, students are able to express their gratitude for the essential
+work of healthcare professionals and show support and appreciation for migrants in our
+community. 
+
+**Primary 6: Community Outreach**
+
+Our Primary 6 students take on leadership roles and engage in activities that connect them
+directly with the wider community:<br>
+• Christmas Card Project: Students continue the tradition of making Christmas cards for
+the neighbours of OLGC to spread the joy of Christmas. 
+This activity:<br>
+•	Encourages creativity and thoughtfulness<br>
+•	Helps students understand the importance of community relations<br>
+•	Promotes the spirit of giving and spreading joy
+
+
+
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSb1_m9AieghA5yAgr9Cv-XuEFO8A0j5Y1Qko75Def0ZZESTfXmihUQnP8CJFVe4xoBy4lwXpEbD4wK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

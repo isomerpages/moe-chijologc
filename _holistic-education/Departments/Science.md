@@ -31,3 +31,10 @@ The Science department engages our students and helps them make connections betw
 ##### Students observing live specimens of bugs in their different stages
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSu-QHvXztbEVHoU_0c6VaQp8mZDWzp1FZPWk9OWc-PpkMYaW49RLZnP3245toLpuTsUnY-n38_hsOL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+##### Students taking care of their veggies in the veggie project
+
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7kjFLEH6iHDnP18vR1t3HiT25whkaZJKF4fMdyxYOXMLJfl_ATWq8V0i0MpqrwQSJn1oad8oSxIyX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+##### Upcycling and Christmas Makers Projects 
+

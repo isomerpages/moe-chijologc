@@ -89,6 +89,14 @@ This activity:<br>
 •	Helps students understand the importance of community relations<br>
 •	Promotes the spirit of giving and spreading joy
 
+P6 prefects, accompanied by their Form teachers, take on the role of postmen to deliver
+the Christmas cards to neighbours. <br>
+This experience:<br>
+•	Develops leadership skills and responsibility in prefects<br>
+•	Provides direct community engagement<br>
+•	Teaches students about the impact of personal interactions in community building
+
+
 
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSb1_m9AieghA5yAgr9Cv-XuEFO8A0j5Y1Qko75Def0ZZESTfXmihUQnP8CJFVe4xoBy4lwXpEbD4wK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

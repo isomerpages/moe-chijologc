@@ -13,6 +13,6 @@ The English department also organises various activities to engage the students 
 
 The English department is involved in the actualisation of the Applied Learning Programme (ALP). Teachers are involved in helping students to be confident and effective communicators as well as critical thinkers; the 21CC skills. For more about the ALP please click&nbsp;[here](https://chijourladyofgoodcounsel.moe.edu.sg/school-experience/School-Wide-Programme/ALP/).  
  
-_Reading Promotion:_
+_Learning Journeys:_
 	
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHs02w0_8PCq0iO3qP362ladB2UZ7fIBXuhbFQX_c1d9H4gU3e7VtD1V9BzSE_JQvTaCiTCsttZsbT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

@@ -12,9 +12,9 @@ eligible for Parent Voluntary Service.</p>
 <p>Parents should only submit the online Parent Volunteer application form
 when your daughter is 5 years of age. (She is born between 2 January 2020
 and 1 January 20201 both dates inclusive.)</p>
-<p>Parent Volunteers will be accepted based only on the <strong><u>needs of the school</u></strong>.</p>
-<p>Parent Volunteers are required to fulfill <strong><u>40 hours</u></strong> of
-voluntary service by <strong><u>30 June 2026</u></strong> to be eligible
+<p>Parent Volunteers will be accepted based only on the <strong><u><mark>needs of the school</mark></u></strong>.</p>
+<p>Parent Volunteers are required to fulfill <strong><u><mark>40 hours</mark></u></strong> of
+voluntary service by <strong><u><mark>30 June 2026</mark></u></strong> to be eligible
 for Phase 2B of the 2026 P1 Registration Exercise.</p>
 <h3>Parent Volunteer Registration Process</h3>
 <ol data-tight="true" class="tight">
@@ -34,7 +34,7 @@ received after the deadline or incomplete forms may be rejected.</p>
 form is received by the school.</p>
 </li>
 <li>
-<p>only selected Parent Volunteer/s will be notified by end July 2025</p>
+	<p>only <u><mark>selected</mark></u> Parent Volunteer/s will be notified by end July 2025</p>
 </li>
 </ul>
 </li>

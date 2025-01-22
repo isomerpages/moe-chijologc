@@ -11,7 +11,7 @@ variant: markdown
 eligible for Parent Voluntary Service.</p>
 <p>Parents should only submit the online Parent Volunteer application form
 when your daughter is 5 years of age. (She is born between 2 January 2020
-and 1 January 20201 both dates inclusive.)</p>
+and 1 January 2021 both dates inclusive.)</p>
 <p>Parent Volunteers will be accepted based only on the <strong><u><mark>needs of the school</mark></u></strong>.</p>
 <p>Parent Volunteers are required to fulfill <strong><u><mark>40 hours</mark></u></strong> of
 voluntary service by <strong><u><mark>30 June 2026</mark></u></strong> to be eligible

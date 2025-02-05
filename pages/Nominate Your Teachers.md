@@ -1,9 +1,12 @@
 ---
 title: Nominate Your Teachers
 permalink: /nominate-your-teachers/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Nominations of the following awards are now open. Please click on the
 relevant icon to nominate the deserving teacher.</p>
-![English Award](/images/English_Award.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Award.png">
+</div>
+<p></p>

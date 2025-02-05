@@ -11,7 +11,7 @@ relevant icon to nominate the deserving teacher.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Tamil_Award.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" align="center" src="/images/Tamil_Award.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Malay_Award.jpg">

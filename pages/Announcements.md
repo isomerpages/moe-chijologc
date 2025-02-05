@@ -6,6 +6,7 @@ variant: markdown
 ---
 ## Announcements
 
+*   [Norminate Your Teacher](/echa2024/)
 
 *   [Edusave Character Award](/echa2024/)
 

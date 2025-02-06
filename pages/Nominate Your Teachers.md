@@ -1,7 +1,7 @@
 ---
 title: Nominate Your Teachers
 permalink: /nominate-your-teachers/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Nominations of the following awards are now open. Please click on the

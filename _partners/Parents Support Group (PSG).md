@@ -11,7 +11,7 @@ variant: markdown
 ### Important Links:
 
 
-Click&nbsp;[here](https://form.gov.sg/forms/moe/5c3be74724c6ef00178067ac)&nbsp;to register.  
+Click&nbsp;[here](https://form.gov.sg/67cf91daa33ac8ee6f871228)&nbsp;to register.  
 
   
 

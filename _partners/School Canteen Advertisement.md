@@ -54,7 +54,8 @@ description: ""
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>attachment</p>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF72023.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 <p></p>
 </li>
 </ul>

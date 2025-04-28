@@ -25,10 +25,12 @@ sections:
           url: /forstudents/
       variant: center
   - infopic:
-      title: OLGC celebrates our 65th Anniversary in 2025
+      title: Home-Based Learning (HBL) on 2 May 2025
       id: infopic
       image: /images/heart_strings_Logo_V2_Coloured.jpg
       alt: Image alt text
-      url: https://go.gov.sg/chij170
-      description: "Hearts in Harmony:  Celebrating a legacy of love and learning"
+      url: https://www.chijourladyofgoodcounsel.moe.edu.sg/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/
+      description: Click the link below for more information regarding support for
+        Student Learning Space (SLS).
+      button: Link
 ---

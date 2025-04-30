@@ -24,7 +24,7 @@ During school operating hours, students should contact the&nbsp;**School-based H
 
 **School-based Helpline: 62886930**
 
-**Mondays - Fridays: 8:00 am - 4:00 pm**
+**Mondays - Fridays: 8:00 am - 3:30 pm**
 
   
 

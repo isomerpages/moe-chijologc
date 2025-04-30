@@ -48,7 +48,7 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-73oq">5</td>
-    <td class="tg-73oq">Mrs Chan Qiong</td>
+    <td class="tg-73oq">Ms Teoh Qiong Ling</td>
     <td class="tg-73oq">teoh_qiong_ling@moe.edu.sg</td>
   </tr>
   <tr>

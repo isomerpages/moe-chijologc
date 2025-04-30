@@ -7,7 +7,7 @@ variant: markdown
 ---
 
 ### SLS SUPPORT FOR HOME-BASED LEARNING
-
+![](/images/2.jpg)
 
 [Getting Started (Annex A &amp; B)](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
 

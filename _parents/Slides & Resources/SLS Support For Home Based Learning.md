@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Slides & Resources
 variant: markdown
 ---
+![](/images/1.jpg)
+![](/images/2.jpg)
+
 ### SLS SUPPORT FOR HOME-BASED LEARNING
 
 

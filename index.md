@@ -25,12 +25,9 @@ sections:
           url: /forstudents/
       variant: center
   - infopic:
-      title: Home-Based Learning (HBL) on 2 May 2025
+      title: E-Open House 2025
       id: infopic
-      image: /images/heart_strings_Logo_V2_Coloured.jpg
+      description: "Date: 20 May 2025 (Tuesday) Time: 2.30 - 4.00  p.m."
+      image: /images/CHIJ_OLGC_Open_House_poster_2025.png
       alt: Image alt text
-      url: https://www.chijourladyofgoodcounsel.moe.edu.sg/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/
-      description: Click the link below for more information regarding support for
-        Student Learning Space (SLS).
-      button: Link
 ---

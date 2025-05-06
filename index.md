@@ -33,4 +33,12 @@ sections:
       description: Click the link below for more information regarding support for
         Student Learning Space (SLS).
       button: Link
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/CHIJ_OLGC_Open_House_poster_2025.png
+      alt: Image alt text
 ---

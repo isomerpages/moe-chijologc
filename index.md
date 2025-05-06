@@ -26,7 +26,6 @@ sections:
       variant: center
   - infopic:
       title: E-Open House 2025
-      subtitle: CV
       id: infopic
       description: "Date: 20 May 2025 (Tuesday) Time: 2.30 - 4.00  p.m."
       image: /images/CHIJ_OLGC_Open_House_poster_2025.png

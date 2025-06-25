@@ -110,6 +110,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Dominic Kwek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daniel_dominic_kwek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_dominic_kwek@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">

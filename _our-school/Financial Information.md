@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## FINANCIAL INFORMATION
 
-[Summary of Donation related Funds Financial Information](/files/Financial%20Information/Summary_of_Donations_related_Funds_Financial_Information_Table_Mar_2022_CHIJOLGC_2024_school_website.pdf)
+[Summary of Donation related Funds Financial Information](/files/Financial%20Information/Summary_of_Funds_Financial_Information_CHIJOLGC_2024_school_website.pdf)
 
 [Non-financial Information](/files/2023%20sch-posting%20of%20non%20financial%20info.pdf)
 

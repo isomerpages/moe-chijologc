@@ -75,8 +75,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">2 Integrity</td>
-    <td class="tg-0pky">Ms Durga Devi<br>Mrs Esther Loo</td>
-    <td class="tg-0pky">durga_devi_sithiasagaran@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg</td>
+    <td class="tg-0pky">Mdm Dorothy Lee<br>Mrs Esther Loo</td>
+    <td class="tg-0pky">lee_geok_hoon@moe.edu.sg<br>tan_wee_boon_esther@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">2 Perseverance</td>
@@ -113,8 +113,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">3 Humility</td>
-    <td class="tg-pval">Mrs Kong – Chan Xiao Qing Olivia<br>Ms Lee Yen Hoon<br>Mdm Chee Wai Yee</td>
-    <td class="tg-0pky">chan_xiao_qing_olivia@moe.edu.sg<br>lee_yen_hoon@moe.edu.sg<br>chee_wai_yee@moe.edu.sg</td>
+    <td class="tg-pval">Mrs Kong – Chan Xiao Qing Olivia<br>Ms Lee Yen Hoon<br>Mdm Chee Wai Yee<br>Mr Daniel Dominic Kwek</td>
+    <td class="tg-0pky">chan_xiao_qing_olivia@moe.edu.sg<br>lee_yen_hoon@moe.edu.sg<br>chee_wai_yee@moe.edu.sg<br>daniel_dominic_kwek@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">3 Integrity</td>

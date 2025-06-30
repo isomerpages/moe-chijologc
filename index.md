@@ -25,9 +25,9 @@ sections:
           url: /forstudents/
       variant: center
   - infopic:
-      title: E-Open House 2025
+      title: "Come & Connect:"
       id: infopic
-      description: "Date: 20 May 2025 (Tuesday) Time: 2.30 - 4.00  p.m."
-      image: /images/CHIJ_OLGC_Open_House_poster_2025.png
+      description: Share the Love at  The cozy IJ "Kopitiam"
+      image: /images/The_CozyIJ_Kopitiam.jpg
       alt: Image alt text
 ---

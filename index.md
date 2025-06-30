@@ -27,7 +27,7 @@ sections:
   - infopic:
       title: "Come & Connect:"
       id: infopic
-      description: Share the Love The cozy IJ "Kopitiam"
+      description: Share the Love at  The cozy IJ "Kopitiam"
       image: /images/The_CozyIJ_Kopitiam.jpg
       alt: Image alt text
 ---

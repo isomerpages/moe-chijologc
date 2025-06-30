@@ -8,7 +8,7 @@ variant: markdown
 
 
 
-*   [The Cozy IJ "Kopitiam](/files/The_CozyIJ_Kopitiam.pdf)
+*   [The Cozy IJ "Kopitiam](/come-&-connect)
 
 *   [Norminate Your Teacher](/nominate-your-teachers/)
 

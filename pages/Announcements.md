@@ -6,6 +6,10 @@ variant: markdown
 ---
 ## Announcements
 
+
+
+*   [The Cozy IJ "Kopitiam](/files/The_CozyIJ_Kopitiam.pdf)
+
 *   [Norminate Your Teacher](/nominate-your-teachers/)
 
 *   [Edusave Character Award](/echa2024/)

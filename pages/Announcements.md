@@ -8,7 +8,7 @@ variant: markdown
 
 
 
-*   [The Cozy IJ "Kopitiam](/come-&-connect)
+*   [The Cozy IJ "Kopitiam](/come-connect/)
 
 *   [Norminate Your Teacher](/nominate-your-teachers/)
 

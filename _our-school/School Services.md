@@ -64,7 +64,7 @@ the bookshop for an appointment before dropping by.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School-based Student Care Centre (SCC)</p>
+<p>School-based Student Care Centreb (SCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Star Campus

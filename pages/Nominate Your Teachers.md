@@ -13,3 +13,8 @@ relevant icon to nominate the deserving teacher.</p><a class="isomer-image-wrapp
 <p></p><a class="isomer-image-wrapper" href="https://contest.sph.com.sg/campaigns/dclta2025/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Distinguished_Chinese_Language.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://www.shhk.com.sg/leap-award/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/The_LEAP_Award.png"></a>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/CTA_icon.jpg">
+</div>
+<p></p>

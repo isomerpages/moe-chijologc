@@ -233,7 +233,7 @@ variant: markdown
   <tr>
     <td class="tg-lboi">6 Integrity</td>
     <td class="tg-lboi">Mr Darren Lee<br>Ms Wong Jie Jern<br>Mrs Tang So Ha</td>
-    <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>wong_jie_jern@moe.edu.sg<br>tang_so_ha@moe.edu.sg</td>
+    <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>wong_jie_jern@moe.edu.sg<br>tang_so_ha_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-lboi">6 Perseverance</td>

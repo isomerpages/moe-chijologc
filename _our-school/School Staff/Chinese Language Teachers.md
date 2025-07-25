@@ -109,7 +109,7 @@ third_nav_title: School Staff
   <tr>
     <td class="tg-ur59">17</td>
     <td class="tg-ur59">Mrs Tang So Ha</td>
-    <td class="tg-ur59">tang_so_ha@moe.edu.sg</td>
+    <td class="tg-ur59">tang_so_ha_a@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

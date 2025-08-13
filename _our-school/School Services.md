@@ -36,6 +36,6 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">Dental Clinic</td>
-    <td class="tg-0lax">SCHOOL DENTAL SERVICE <br>DENTAL CLINIC <br>RDC3 <br>Tel: 9783 1761 <br>OPERATING HOURS<br><br>Monday to Thursday: 8.00am to 5.30pm <br>Friday· : 8.00am to 5.00pm<br><br>In case the clinic is closed, please refer to Notice of Buddy Clinics.<br><br>Maris Stella High Pr School <br>Tel: 8764 8516 <br>25 Mount Vernon Road <br>Singapore-368051<br><br>Holy Innocents' Primary School <br>Tel: 8764- 7746 <br>5 Lorong Low Koon <br>Singapore pore-536451<br></td>
+    <td class="tg-0lax">SCHOOL DENTAL SERVICE <br>DENTAL CLINIC <br>RDC3 <br>Tel: 9783 1761 <br>OPERATING HOURS<br><br>Monday to Thursday: 8.00am to 5.30pm <br>Friday· : 8.00am to 5.00pm<br><br>In case the clinic is closed, please refer to Notice of Buddy Clinics.<br><br>Maris Stella High Pr School <br>Tel: 8764 8516 <br>25 Mount Vernon Road <br>Singapore-368051<br><br>Holy Innocents' Primary School <br>Tel: 8764- 7746 <br>5 Lorong Low Koon <br>Singapore pore-536451<br><br><span style="font-weight:bold">As the dental team will not be available on a daily basis, we strongly encourage you to make an appointment in advance prior to your child's visit.</span><br><br>To make an appointment, please contact: 9783 1761<br><br></td>
   </tr>
 </tbody></table>

@@ -24,10 +24,4 @@ sections:
           description: (Click for more information)
           url: /forstudents/
       variant: center
-  - infopic:
-      title: "Come & Connect:"
-      id: infopic
-      description: Share the Love at  The cozy IJ "Kopitiam"
-      image: /images/The_CozyIJ_Kopitiam.jpg
-      alt: Image alt text
 ---

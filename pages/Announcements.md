@@ -7,12 +7,9 @@ variant: markdown
 ## Announcements
 
 
-
-*   [The Cozy IJ "Kopitiam](/come-connect/)
-
 *   [Norminate Your Teacher](/nominate-your-teachers/)
 
-*   [Edusave Character Award](/echa2024/)
+*   [Edusave Character Award](/echa2025/)
 
 * [SLS Support For Home-Based Learning](/parents/Slides-and-Resources/SLS-Support-Home-Based-Learning/)
 

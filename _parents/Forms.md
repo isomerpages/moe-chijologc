@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Forms</h2>
 <p><a href="/files/ApplicationForm_Wait_List_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Wai</a>
-<a href="/files/ApplicationForm_Wait_List_2025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/ApplicationForm_Wait_List_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">t List</a>
+<a href="/files/ApplicationForm_Wait_List_2025.pdf" rel="noopener nofollow" target="_blank">t</a><a href="/files/ApplicationForm_Wait_List_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> List</a>
 </p>
 <p><a href="/files/2022_New_CCA_Transfer_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Transfer Form</a>
 </p>

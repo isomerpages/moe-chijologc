@@ -50,4 +50,4 @@ for others. And may we always strive to be “Simple in Virture, Steadfast
 in Duty”. <br><br>It has been my profound honour to share this journey with you.<br><br>
 May God continue to bless CHIJ Our Lady of Good Counsel, her leaders, teaching
 and non-teaching staff, students, parents and alumnae, now and always.</p><br><br>
-<p>With Thanksgiving and Love, <br><br>Vivienne Lim <br>Chairperson<br> IJ Board of Management</p>
+<p>With Thanksgiving and Love, <br><br>Vivienne Lim<br>Chairperson<br> IJ Board of Management</p>

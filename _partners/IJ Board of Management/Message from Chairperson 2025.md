@@ -8,8 +8,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header.jpeg">
 </div>
-<p><strong>Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</strong>
-</p>
+<p><strong></strong></p><center><strong>Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</strong></center>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="Ms Vivienne Lim" src="/images/Vivienne_Lim.jpg">
 </div>

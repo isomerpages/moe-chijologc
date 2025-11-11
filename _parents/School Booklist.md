@@ -13,6 +13,6 @@ variant: markdown
 [P3 Booklist](/files/Booklist/2026/2026_BOOKLIST_P3.pdf)<br>
 [P4 Booklist](/files/Booklist/2026/2026_BOOKLIST_P4.pdf)<br>
 [Primary 5 (Foundation)](/files/Booklist/2026/2026_booklist_p5_fdn_.pdf)<br>
-[Primary 5 (Standard)](/files/Booklist/2026/2026_BOOKLIST_P5__STD_.pdf)<br>
-[Primary 6 (Foundation)](/files/Booklist/2026/2026_BOOKLIST_P6__FDN_.pdf)<br>
+[Primary 5 (Standard)](/files/Booklist/2026/2026_BOOKLIST_P5_STD_.pdf)<br>
+[Primary 6 (Foundation)](/files/Booklist/2026/2026_booklist_p6_fdn_.pdf)<br>
 [Primary 6 (Standard)](/files/Booklist/2026/2026_BOOKLIST_P6__STD_.pdf)

@@ -6,10 +6,7 @@ description: ""
 ---
 <p>Nominations of the following awards are now open. Please click on the
 relevant icon to nominate the deserving teacher.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="https://go.gov.sg/pat2026" src="/images/PAT_2026_website.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/pat2026"><img style="width: 30%;" height="auto" width="100%" alt="https://go.gov.sg/pat2026" src="/images/PAT_2026_website.jpg"></a>
 <p></p><a class="isomer-image-wrapper" href="/files/Nomination_for_Inspiring_Teacher_of_English_Award_2025.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/English_Award.png"></a>
 <p></p><a class="isomer-image-wrapper" href="/files/Nominate%20Your%20Teachers%20/malay_language_teacher_award_2025.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Malay_Award.jpg"></a>
 <a class="isomer-image-wrapper" href="/files/Nominate%20Your%20Teachers%20/tamil_teachers_award_2025.pdf">

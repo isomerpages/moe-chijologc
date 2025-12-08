@@ -234,7 +234,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">6 Perseverance</td>
-    <td class="tg-0pky">Mrs Claire Thamboo<br>Mr Tan Chen PingMs Linda Tan<br></td>
+    <td class="tg-0pky">Mrs Claire Thamboo<br>Mr Tan Chen Ping<br>Ms Linda Tan<br></td>
     <td class="tg-0pky">sharminni_rajagopal@moe.edu.sg<br>tan_chen_ping@moe.edu.sg<br>tan_tiam_lin_linda@moe.edu.sg</td>
   </tr>
 </tbody></table>

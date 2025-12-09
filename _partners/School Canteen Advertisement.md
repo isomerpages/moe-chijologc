@@ -36,3 +36,9 @@ description: ""
 [Application Form ](/files/APPLICATION_FOR_CANTEEN_STALL_IN_EXISTING_SCHOOL.pdf)
 
 2. Attached the following documents together with the application form:
+* Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+

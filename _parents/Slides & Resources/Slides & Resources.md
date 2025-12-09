@@ -7,9 +7,6 @@ variant: markdown
 ---
 ## Slides &amp; Resources
 
-### Precautionary measures to manage COVID-19
-
-[Precautionary measures guide](/images/Beat%20the%20Bug.jpeg)
 
 ### Parenting Resources
 

@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_2025.gif
+      background: /images/Banner_2026.gif
       key_highlights:
         - title: Announcements
           description: (Click for more information)

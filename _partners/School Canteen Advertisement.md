@@ -42,3 +42,9 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
+* Address: 2C Burghley Drive Singapore 558979
+* Contact No: 6288 6930
+* Email: chijolgcs@moe.edu.sg
+* Contact Person: Mr Sree / Ms Alvina  
+
+#### How to get there?

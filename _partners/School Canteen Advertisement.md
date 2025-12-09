@@ -32,3 +32,6 @@ description: ""
 #### Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+
+[](/files/APPLICATION_FOR_CANTEEN_STALL_IN_EXISTING_SCHOOL.pdf)
+

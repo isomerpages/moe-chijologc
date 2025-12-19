@@ -23,7 +23,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">OLGC cardigan, and Fabric name tags<br></td>
-    <td class="tg-0pky"><span style="font-weight:bold">Magdalene Sewing Centre</span><br>Call 6293 5840 or, WhatsApp 8638 0499<br><a rel="noopener noreferrer" target="_blank" href="https://www.magdalene.com.sg/">https://www.magdalene.com.sg/</a><br>Address: 5000 Ang Mo Kio Ave 5, Techplace II, #05-09, (569870)<br>**Direct purchase of school attire via online/ walk-in.<br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Magdalene Sewing Centre</span><br><a rel="noopener noreferrer" target="_blank" href="https://www.magdalene.com.sg/">https://www.magdalene.com.sg/</a><br>Address: 5000 Ang Mo Kio Ave 5, Techplace II, #05-09, (569870)<br>**Direct purchase of school attire via online/ walk-in.<br><br><b>Important</b>:The name to be displayed on the fabric name tag of your child’s pinafore must contain full or part of her statutory name.</td>
   </tr>
   <tr>
     <td class="tg-0pky">School Bus</td>

@@ -24,9 +24,8 @@ The following table outlines the basic digital skills that students acquire at k
 .tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
@@ -41,34 +40,34 @@ The following table outlines the basic digital skills that students acquire at k
     <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/bdfd1a65-c8d3-4dd0-bfbc-bbda76a80fb5">Basic Operations of Computing Devices</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Log in and set passwords</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/796235c2-3702-439b-8a27-fe2e1fee2ce3">Login and Passwords</a></td>
+    <td class="tg-0pky">Log in and set passwords</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/796235c2-3702-439b-8a27-fe2e1fee2ce3">Login and Passwords</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Perform basic operations of applications</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/6361c2d0-7ec1-4ffa-9b9d-67baacee6cf0">Basic Operations of Applications</a></td>
+    <td class="tg-0pky">Perform basic operations of applications</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/6361c2d0-7ec1-4ffa-9b9d-67baacee6cf0">Basic Operations of Applications</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Navigate SLS</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/slsonboardingpri1">SLS Onboarding (P1) [Guide for Parents]</a></td>
+    <td class="tg-0pky">Navigate SLS</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/slsonboardingpri1">SLS Onboarding (P1) [Guide for Parents]</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh">Primary 2</td>
-    <td class="tg-0lax">Demonstrate keyboarding skills</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/c00f867f-601c-4490-aeea-6de15229730f">Basic Keyboarding Skills</a></td>
+    <td class="tg-c3ow">Primary 2</td>
+    <td class="tg-0pky">Demonstrate keyboarding skills</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/c00f867f-601c-4490-aeea-6de15229730f">Basic Keyboarding Skills</a></td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-baqh">Primary 3 and 4<br></td>
-    <td class="tg-0lax">Understand basic software operations related to data storage and file sharing</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/9e031fbb-13fd-4459-8b99-bf168e64cd0b">Basic Operations related to Data Storage and File Sharing</a></td>
+    <td rowspan="3" class="tg-9wq8">Primary 3 &amp; 4<br></td>
+    <td class="tg-0pky">Understand basic software operations related to data storage and file sharing</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/9e031fbb-13fd-4459-8b99-bf168e64cd0b">Basic Operations related to Data Storage and File Sharing</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Use basic software operations to create text-based digital artefacts</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/bbf5a484-9105-4450-bf14-b8019914ed27">Learn to use Word Processing Tool</a></td>
+    <td class="tg-0pky">Use basic software operations to create text-based digital artefacts</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/bbf5a484-9105-4450-bf14-b8019914ed27">Learn to use Word Processing Tool</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Understand basic information and application of AI in daily lives and how it impacts learning</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/1c835ec2-b0e5-4c2d-a939-d664fb24e041">Basic Module on AI and AI-enabled Features in SLS</a></td>
+    <td class="tg-0pky">Understand basic information and application of AI in daily lives and how it impacts learning</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/1c835ec2-b0e5-4c2d-a939-d664fb24e041">Basic Module on AI and AI-enabled Features in SLS</a></td>
   </tr>
 </tbody></table>
 

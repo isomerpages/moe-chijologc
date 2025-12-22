@@ -86,21 +86,13 @@ Students enroll in an e-learning module covering skills in office productivity a
 
 ![](/images/certificate%20of%20participation.jpg)
 
-### OLGC Coding Introductory Workshop  
-
-
-
-Starting in 2022, the school organizes the above enrichment workshop for interested P3, P4 and P5 students.&nbsp;
-
-  
-
-Students are taught how to use the code.org platform to learn block-based coding.&nbsp;_Please click on the image below_&nbsp;to view the students' reflection of their learning as well as samples of their completed coding tasks.
-
-<a href="https://sites.google.com/moe.edu.sg/2022codingworkshopolgc">
-<img src="/images/2022-Coding-workshop-image1.jpeg" alt="W3Schools.com">
-</a>
 
 ### Code-For-Fun Programme by IMDA
+
+The Code-for-Fun programme introduces Primary Six students to computational thinking as a fun and practical way to solve problems, both in school and in everyday life. Through hands-on activities, students learn to think logically by breaking down complex problems into smaller, manageable steps. 
+
+Using tools such as the Sphero robot, students are introduced to basic programming concepts and work collaboratively to plan and create simple programmes together. The programme also provides early exposure to emerging technologies, including Artificial Intelligence (AI), while helping students develop an awareness of the responsible and ethical use of technology.
+
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbre9NKT_2IwpVn6qYg_WENqPdediSJs1QUbkBe1N8xqJ02rbzmPaRJX4in1pzWMxZ9kEUjdCxRYYr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="627" height="396" allowfullscreen="true"></iframe>
 <br>

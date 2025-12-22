@@ -7,22 +7,15 @@ variant: markdown
 ---
 ## INFORMATION COMMUNICATION TECHNOLOGY
 
-The evolution of Information Communication and Technology (ICT) has transformed the way teaching and learning takes place in the classrooms. Increasingly, ICT has played an important role in shaping our education landscape and practices.
+The evolution of Educational Technology (EdTech) has transformed the way teaching and learning take place in our classrooms. To support engaging and meaningful learning experiences grounded in sound teaching practices, our teachers use a range of EdTech tools and platforms, including the MOE Student Learning Space (SLS), Koobits, E-Zhishi, and other age-appropriate digital tools. 
 
-![](/images/Computer_Lab.jpeg)
+At the same time, students are equipped with foundational digital skills such as basic operational skills, responsible use, and safe online behaviours, which are developed progressively across the primary school years to ensure learning is well-scaffolded and appropriate to their developmental needs.
 
-### Baseline ICT Standards (New Media Literacies)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqPgxQT7u6D_iIQTYbcByv1X2GpWmunsvxIbG2eNmYTdXaiNBwwKYK9moIjS4L1ZZGyA2Xg8KIPhSD/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-In OLGC, students undergo an ICT training programme to equip them with the skills and competencies to leverage on the affordances of using technology for learning.
+### Baseline Digital Skills
 
-Students will be able to utilise appropriate digital tools and applications to organise own learning, create reports or presentations to document own learning and utilise appropriate digital tools and applications to work with others and share information.
-
-<img style="width: 50%;" src="/images/2022%20ICT%20Values.png" align="center">
-
-
-### OLGC ICT Spiral Curriculum
-
-<img style="width: 50%;" src="/images/Learning_with_mobile_tablets.jpeg" align="center">
+The following table outlines the basic digital skills that students acquire at key junctures.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
@@ -30,39 +23,53 @@ Students will be able to utilise appropriate digital tools and applications to o
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
+<table class="tg"><thead>
   <tr>
-    <th class="tg-fymr">Level</th>
-    <th class="tg-fymr">Content</th>
-  </tr>
-</thead>
+    <th class="tg-0pky">Key Junctures</th>
+    <th class="tg-0pky">Basic Digital Skills</th>
+    <th class="tg-0pky">SLS Learning Resources</th>
+  </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Primary One  </td>
-    <td class="tg-0pky">Basic Computer Operations, Touch-typing, Student Learning Space,<br></td>
+    <td rowspan="4" class="tg-9wq8">Primary 1 </td>
+    <td class="tg-0pky">Perform basic operations of computing devices </td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/bdfd1a65-c8d3-4dd0-bfbc-bbda76a80fb5">Basic Operations of Computing Devices</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Primary Two  </td>
-    <td class="tg-0pky">Student Learning Space, Microsoft Word</td>
+    <td class="tg-0pky">Log in and set passwords</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/796235c2-3702-439b-8a27-fe2e1fee2ce3">Login and Passwords</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Primary Three  </td>
-    <td class="tg-0pky">Basic Microsoft PowerPoint</td>
+    <td class="tg-0pky">Perform basic operations of applications</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/6361c2d0-7ec1-4ffa-9b9d-67baacee6cf0">Basic Operations of Applications</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Primary Four and Five</td>
-    <td class="tg-0pky">Intermediate Microsoft PowerPoint<br>Google Apps (using MOE Student ICON)</td>
+    <td class="tg-0pky">Navigate SLS</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/slsonboardingpri1">SLS Onboarding (P1) [Guide for Parents]</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Primary Six</td>
-    <td class="tg-0pky">Coding (IMDA’s Code-for Fun Programme)</td>
+    <td class="tg-c3ow">Primary 2</td>
+    <td class="tg-0pky">Demonstrate keyboarding skills</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/c00f867f-601c-4490-aeea-6de15229730f">Basic Keyboarding Skills</a></td>
   </tr>
-</tbody>
-</table>
+  <tr>
+    <td rowspan="3" class="tg-9wq8">Primary <br>3 &amp; 4<br></td>
+    <td class="tg-0pky">Understand basic software operations related to data storage and file sharing</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/9e031fbb-13fd-4459-8b99-bf168e64cd0b">Basic Operations related to Data Storage and File Sharing</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Use basic software operations to create text-based digital artefacts</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/bbf5a484-9105-4450-bf14-b8019914ed27">Learn to use Word Processing Tool</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Understand basic information and application of AI in daily lives and how it impacts learning</td>
+    <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/1c835ec2-b0e5-4c2d-a939-d664fb24e041">Basic Module on AI and AI-enabled Features in SLS</a></td>
+  </tr>
+</tbody></table>
 
 ### National Digital Explorer Programme for Primary 4 students
 
@@ -78,30 +85,18 @@ Students enroll in an e-learning module covering skills in office productivity a
 
 ![](/images/certificate%20of%20participation.jpg)
 
-### OLGC Coding Introductory Workshop  
-
-
-
-Starting in 2022, the school organizes the above enrichment workshop for interested P3, P4 and P5 students.&nbsp;
-
-  
-
-Students are taught how to use the code.org platform to learn block-based coding.&nbsp;_Please click on the image below_&nbsp;to view the students' reflection of their learning as well as samples of their completed coding tasks.
-
-<a href="https://sites.google.com/moe.edu.sg/2022codingworkshopolgc">
-<img src="/images/2022-Coding-workshop-image1.jpeg" alt="W3Schools.com">
-</a>
 
 ### Code-For-Fun Programme by IMDA
+
+The Code-for-Fun programme introduces Primary Six students to computational thinking as a fun and practical way to solve problems, both in school and in everyday life. Through hands-on activities, students learn to think logically by breaking down complex problems into smaller, manageable steps. 
+
+Using tools such as the Sphero robot, students are introduced to basic programming concepts and work collaboratively to plan and create simple programmes together. The programme also provides early exposure to emerging technologies, including Artificial Intelligence (AI), while helping students develop an awareness of the responsible and ethical use of technology.
+
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbre9NKT_2IwpVn6qYg_WENqPdediSJs1QUbkBe1N8xqJ02rbzmPaRJX4in1pzWMxZ9kEUjdCxRYYr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="627" height="396" allowfullscreen="true"></iframe>
 <br>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYVtgQvRvKKyrqDmLs2k-RO7Rusrqiy_A8YyzgafWirvX4SniJRUR0mgaIYkP5W1qeTNVU07gj7P42/embed?start=false&amp;loop=false&amp;delayms=300" frameborder="0" width="627" height="396" allowfullscreen="true"></iframe>
-
-### Student iCON/Google Suite Training
-
-<iframe allowfullscreen="true" height="396" width="627" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFfHQqhWk4PAwe8GVQG9XM1pq21QhsoIcB3dyUcYExbP2qLtjP3ndGvW0UCwwYUQJ8223d4rSQ3Wzx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Cyber Wellness
 

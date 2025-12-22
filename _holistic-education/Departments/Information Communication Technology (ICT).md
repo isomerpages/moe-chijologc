@@ -57,7 +57,7 @@ The following table outlines the basic digital skills that students acquire at k
     <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/c00f867f-601c-4490-aeea-6de15229730f">Basic Keyboarding Skills</a></td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-9wq8">Primary 3 &amp; 4<br></td>
+    <td rowspan="3" class="tg-9wq8">Primary <br>3 &amp; 4<br></td>
     <td class="tg-0pky">Understand basic software operations related to data storage and file sharing</td>
     <td class="tg-0pky"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/moe-library/module/attempt/9e031fbb-13fd-4459-8b99-bf168e64cd0b">Basic Operations related to Data Storage and File Sharing</a></td>
   </tr>

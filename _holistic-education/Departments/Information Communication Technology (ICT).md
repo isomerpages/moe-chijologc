@@ -11,8 +11,7 @@ The evolution of Educational Technology (EdTech) has transformed the way teachin
 
 At the same time, students are equipped with foundational digital skills such as basic operational skills, responsible use, and safe online behaviours, which are developed progressively across the primary school years to ensure learning is well-scaffolded and appropriate to their developmental needs.
 
-![](/images/ICT_pic_1.jpg)
-![](/images/Computer_Lab.jpeg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqPgxQT7u6D_iIQTYbcByv1X2GpWmunsvxIbG2eNmYTdXaiNBwwKYK9moIjS4L1ZZGyA2Xg8KIPhSD/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Baseline ICT Standards (New Media Literacies)
 

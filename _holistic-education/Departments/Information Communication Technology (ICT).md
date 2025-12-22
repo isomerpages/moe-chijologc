@@ -7,7 +7,10 @@ variant: markdown
 ---
 ## INFORMATION COMMUNICATION TECHNOLOGY
 
-The evolution of Information Communication and Technology (ICT) has transformed the way teaching and learning takes place in the classrooms. Increasingly, ICT has played an important role in shaping our education landscape and practices.
+The evolution of Educational Technology (EdTech) has transformed the way teaching and learning take place in our classrooms. To support engaging and meaningful learning experiences grounded in sound teaching practices, our teachers use a range of EdTech tools and platforms, including the MOE Student Learning Space (SLS), Koobits, E-Zhishi, and other age-appropriate digital tools. 
+
+At the same time, students are equipped with foundational digital skills such as basic operational skills, responsible use, and safe online behaviours, which are developed progressively across the primary school years to ensure learning is well-scaffolded and appropriate to their developmental needs.
+
 
 ![](/images/Computer_Lab.jpeg)
 

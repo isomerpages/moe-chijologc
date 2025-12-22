@@ -52,7 +52,6 @@ variant: markdown
     <td class="tg-0pky">chan_xiao_qing_olivia@moe.edu.sg<br>lee_geok_hoon@moe.edu.sg<br>norlizah_said@moe.edu.sg<br></td>
   </tr>
 </tbody></table>
-<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
@@ -94,7 +93,7 @@ variant: markdown
     <td class="tg-0pky">de_souza_nicole_marie@moe.edu.sg<br>seah_siew_ping@moe.edu.sg</td>
   </tr>
 </tbody></table>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
@@ -132,7 +131,7 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
@@ -169,7 +168,7 @@ variant: markdown
     <td class="tg-0pky">clare_tay_mui_tin@moe.edu.sg<br>mandy_yin_mei_doll@moe.edu.sg<br>seah_swee_huang_angelia@moe.edu.sg<br></td>
   </tr>
 </tbody></table>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
@@ -206,7 +205,7 @@ variant: markdown
     <td class="tg-0pky">lee_chuan_rong_darren@moe.edu.sg<br>phang_jing_yi_amy@moe.edu.sg<br>tan_hui_leng_b@moe.edu.sg</td>
   </tr>
 </tbody></table>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;

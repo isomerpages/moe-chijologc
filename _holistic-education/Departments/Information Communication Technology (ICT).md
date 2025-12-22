@@ -72,51 +72,6 @@ The following table outlines the basic digital skills that students acquire at k
   </tr>
 </tbody></table>
 
-
-### OLGC ICT Spiral Curriculum
-
-<img style="width: 50%;" src="/images/Learning_with_mobile_tablets.jpeg" align="center">
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
-.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
-.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-fymr">Level</th>
-    <th class="tg-fymr">Content</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">Primary One  </td>
-    <td class="tg-0pky">Basic Computer Operations, Touch-typing, Student Learning Space,<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Primary Two  </td>
-    <td class="tg-0pky">Student Learning Space, Microsoft Word</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Primary Three  </td>
-    <td class="tg-0pky">Basic Microsoft PowerPoint</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Primary Four and Five</td>
-    <td class="tg-0pky">Intermediate Microsoft PowerPoint<br>Google Apps (using MOE Student ICON)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Primary Six</td>
-    <td class="tg-0pky">Coding (IMDA’s Code-for Fun Programme)</td>
-  </tr>
-</tbody>
-</table>
-
 ### National Digital Explorer Programme for Primary 4 students
 
 All Primary 4 students participate in the National Digital Explorer Programme, an e-learning module designed by ICDL Asia, the world’s leading computer skills certification.  

@@ -99,10 +99,6 @@ Using tools such as the Sphero robot, students are introduced to basic programmi
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYVtgQvRvKKyrqDmLs2k-RO7Rusrqiy_A8YyzgafWirvX4SniJRUR0mgaIYkP5W1qeTNVU07gj7P42/embed?start=false&amp;loop=false&amp;delayms=300" frameborder="0" width="627" height="396" allowfullscreen="true"></iframe>
 
-### Student iCON/Google Suite Training
-
-<iframe allowfullscreen="true" height="396" width="627" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFfHQqhWk4PAwe8GVQG9XM1pq21QhsoIcB3dyUcYExbP2qLtjP3ndGvW0UCwwYUQJ8223d4rSQ3Wzx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
 ### Cyber Wellness
 
 

@@ -102,7 +102,9 @@ variant: markdown
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+
+		&lt;
+  <table class="tg"><thead>
   <tr>
     <th class="tg-0pky">Primary 3</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
@@ -116,9 +118,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">3 Humility</td>
-    <td class="tg-0pky">Mrs Ho Hung Yin<br>Ms Tan Li Ting</td>
-    <td class="tg-0pky">chow_hung_yin@moe.edu.sg<br></td>
-  </tr>
+    <td class="tg-0pky">Mrs Ho Hung Yin<br>Mrs Tan Li Ting</td>
+    <td class="tg-0pky">chow_hung_yin@moe.edu.sg<br>tan_li_ting_b@moe.edu.sg</td></tr>
   <tr>
     <td class="tg-0pky">3 Integrity</td>
     <td class="tg-0pky">Mr Kwek Keng Yang<br>Mdm Rasyidah</td>

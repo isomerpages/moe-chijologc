@@ -102,7 +102,9 @@ variant: markdown
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+
+		&lt;
+  <table class="tg"><thead>
   <tr>
     <th class="tg-0pky">Primary 3</th>
     <th class="tg-0pky">Form Teacher &amp; Co-Form Teacher</th>
@@ -116,9 +118,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">3 Humility</td>
-    <td class="tg-0pky">Mrs Ho Hung Yin<br>Ms Tan Li Ting</td>
-    <td class="tg-0pky">chow_hung_yin@moe.edu.sg<br></td>
-  </tr>
+    <td class="tg-0pky">Mrs Ho Hung Yin<br>Mrs Tan Li Ting</td>
+    <td class="tg-0pky">chow_hung_yin@moe.edu.sg<br>tan_li_ting_b@moe.edu.sg</td></tr>
   <tr>
     <td class="tg-0pky">3 Integrity</td>
     <td class="tg-0pky">Mr Kwek Keng Yang<br>Mdm Rasyidah</td>
@@ -159,7 +160,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">4 Integrity</td>
-    <td class="tg-0pky">Ms Khoo Pei Yi<br>Mrs Anne Tay</td>
+    <td class="tg-0pky">Ms Khoo Pei Yee<br>Mrs Anne Tay</td>
     <td class="tg-0pky">khoo_pei_yee@moe.edu.sg<br>peh_ai_ling_anne@moe.edu.sg</td>
   </tr>
   <tr>
@@ -186,7 +187,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">5 Compassion</td>
-    <td class="tg-0pky">Mrs Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woo</td>
+    <td class="tg-0pky">Mrs Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woon</td>
     <td class="tg-0pky"><br>peh_joe_han_camillus@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
   </tr>
   <tr>

@@ -159,7 +159,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">4 Integrity</td>
-    <td class="tg-0pky">Ms Khoo Pei Yi<br>Mrs Anne Tay</td>
+    <td class="tg-0pky">Ms Khoo Pei Yee<br>Mrs Anne Tay</td>
     <td class="tg-0pky">khoo_pei_yee@moe.edu.sg<br>peh_ai_ling_anne@moe.edu.sg</td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">5 Compassion</td>
-    <td class="tg-0pky">Mrs Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woo</td>
+    <td class="tg-0pky">Mrs Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woon</td>
     <td class="tg-0pky"><br>peh_joe_han_camillus@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
   </tr>
   <tr>

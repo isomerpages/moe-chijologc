@@ -103,7 +103,7 @@ variant: markdown
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 
-		&lt;
+		
   <table class="tg"><thead>
   <tr>
     <th class="tg-0pky">Primary 3</th>

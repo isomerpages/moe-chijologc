@@ -188,7 +188,7 @@ variant: markdown
   <tr>
     <td class="tg-0pky">5 Compassion</td>
     <td class="tg-0pky">Mrs Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woon</td>
-    <td class="tg-0pky"><br>peh_joe_han_camillus@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
+    <td class="tg-0pky">anne_fernandez@moe.edu.sg<br>peh_joe_han_camillus@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">5 Humility</td>

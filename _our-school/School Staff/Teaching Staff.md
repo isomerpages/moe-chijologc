@@ -75,7 +75,7 @@ variant: markdown
   <tr>
     <td class="tg-0pky">2 Humility</td>
     <td class="tg-0pky">Ms Lim Shurong<br>Miss Tan Shi-Ning Jocelyn<br>Ms Wei Peiling Avelyn</td>
-    <td class="tg-0pky"><br>tan_shi-ning_jocelyn@moe.edu.sg<br>wei_peiling_avelyn@moe.edu.sg</td>
+    <td class="tg-0pky">lim_shurong@moe.edu.sg<br>tan_shi-ning_jocelyn@moe.edu.sg<br>wei_peiling_avelyn@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">2 Integrity</td>
@@ -103,7 +103,7 @@ variant: markdown
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 
-		&lt;
+		
   <table class="tg"><thead>
   <tr>
     <th class="tg-0pky">Primary 3</th>
@@ -188,7 +188,7 @@ variant: markdown
   <tr>
     <td class="tg-0pky">5 Compassion</td>
     <td class="tg-0pky">Mrs Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woon</td>
-    <td class="tg-0pky"><br>peh_joe_han_camillus@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
+    <td class="tg-0pky">anne_fernandez@moe.edu.sg<br>peh_joe_han_camillus@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">5 Humility</td>

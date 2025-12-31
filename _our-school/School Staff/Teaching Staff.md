@@ -75,7 +75,7 @@ variant: markdown
   <tr>
     <td class="tg-0pky">2 Humility</td>
     <td class="tg-0pky">Ms Lim Shurong<br>Miss Tan Shi-Ning Jocelyn<br>Ms Wei Peiling Avelyn</td>
-    <td class="tg-0pky"><br>tan_shi-ning_jocelyn@moe.edu.sg<br>wei_peiling_avelyn@moe.edu.sg</td>
+    <td class="tg-0pky">lim_shurong@moe.edu.sg<br>tan_shi-ning_jocelyn@moe.edu.sg<br>wei_peiling_avelyn@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">2 Integrity</td>

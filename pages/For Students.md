@@ -4,7 +4,6 @@ permalink: /forstudents/
 description: ""
 variant: markdown
 ---
-
 * [Check in survey [Primary 1 and 2]](https://forms.moe.edu.sg/forms/ePbpnX)
 * [Check in survey [Primary 3 and 4]](https://forms.moe.edu.sg/forms/JlgnQb)
 * [Check in survey [Primary 5 and 6]](https://forms.moe.edu.sg/forms/vj7nr6)

@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /our-school/Contact-Us/
 description: ""
+variant: markdown
 ---
 ## Contact Us
 
@@ -10,7 +11,4 @@ description: ""
 2C Burghley Drive Singapore 558979<br>
 Contact Us At:<br>
 Telephone: 62886930<br>
-Fax: 62814132
-
 Email us:&nbsp;[chijolgcs@moe.edu.sg](mailto:chijolgcs@moe.edu.sg)
-

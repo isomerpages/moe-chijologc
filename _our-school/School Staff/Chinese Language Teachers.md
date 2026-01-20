@@ -107,9 +107,5 @@ third_nav_title: School Staff
     <td class="tg-ur59">cheng_ka_yee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ur59">17</td>
-    <td class="tg-ur59">Mrs Tang So Ha</td>
-    <td class="tg-ur59">tang_so_ha_a@moe.edu.sg</td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>

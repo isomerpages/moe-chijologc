@@ -48,7 +48,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">1 Faith</td>
-    <td class="tg-0pky">Mrs Kong – Chan Xiao Qing Olivia<br>Mdm Dorothy Lee<br>Mrs Norlizah Fazil</td>
+    <td class="tg-0pky">Mrs Kong – Chan Xiao Qing Olivia<br>Mdm Dorothy Lee<br>Mrs Norlizah Fazli</td>
     <td class="tg-0pky">chan_xiao_qing_olivia@moe.edu.sg<br>lee_geok_hoon@moe.edu.sg<br>norlizah_said@moe.edu.sg<br></td>
   </tr>
 </tbody></table>
@@ -150,7 +150,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">4 Compassion</td>
-    <td class="tg-0pky">Mrs Anna Koh<br>Ms Teoh Qiong ling</td>
+    <td class="tg-0pky">Mrs Anna Koh<br>Ms Teoh Qiong Ling</td>
     <td class="tg-0pky">anna_wang_siew_peng@moe.edu.sg<br>teoh_qiong_ling@moe.edu.sg</td>
   </tr>
   <tr>
@@ -187,7 +187,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">5 Compassion</td>
-    <td class="tg-0pky">Mrs Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woon</td>
+    <td class="tg-0pky">Mrs Anne Fernandez<br>Mr Peh Joe Han Camillus<br>Ms Sim Seok Woon</td>
     <td class="tg-0pky">anne_fernandez@moe.edu.sg<br>peh_joe_han_camillus@moe.edu.sg<br>sim_seok_woon@moe.edu.sg</td>
   </tr>
   <tr>
@@ -197,8 +197,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">5 Integrity</td>
-    <td class="tg-0pky">Ms Jessica Tan Jia Hui<br>Mrs Norahida Bte Abdol Rahim<br>Mrs Tang So Ha</td>
-    <td class="tg-0pky">jessica_tan_jia_hui@moe.edu.sg<br>norahida_abdol_rahim@moe.edu.sg<br>tang_so_ha_a@moe.edu.sg<br></td>
+    <td class="tg-0pky">Ms Jessica Tan Jia Hui<br>Mrs Norahida Bte Abdol Rahim<br></td>
+    <td class="tg-0pky">jessica_tan_jia_hui@moe.edu.sg<br>norahida_abdol_rahim@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">5 Perseverance</td>

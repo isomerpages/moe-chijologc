@@ -82,5 +82,10 @@ third_nav_title: School Staff
     <td class="tg-73oq">Teo Ah Chang</td>
     <td class="tg-73oq">-</td>
   </tr>
+	<tr>
+    <td class="tg-73oq">Operations support officer</td>
+    <td class="tg-73oq">Nam tai Seng</td>
+    <td class="tg-73oq">-</td>
+  </tr>
 </tbody>
 </table>

@@ -70,7 +70,7 @@ variant: markdown
   <tr>
     <td class="tg-0pky">2 Compassion</td>
     <td class="tg-0pky">Ms Joanne Koo<br>Ms Lin Ting<br>Ms Oh Bee Ling</td>
-    <td class="tg-0pky">joanne_koo_hui_sze@moe.edu.sg<br>lin_ting@moe.edu.sg<br>oh_bee_ling@moe.edu.sg</td>
+    <td class="tg-0pky">joanne_koo_hui_sze_A@moe.edu.sg<br>lin_ting@moe.edu.sg<br>oh_bee_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0pky">2 Humility</td>

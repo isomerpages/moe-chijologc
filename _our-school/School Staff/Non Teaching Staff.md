@@ -67,6 +67,16 @@ third_nav_title: School Staff
     <td class="tg-73oq">Chan Poh Chee Pauline</td>
     <td class="tg-73oq">chan_poh_chee_pauline_a@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-73oq">Desktop Engineer</td>
+    <td class="tg-73oq">Casey Tan</td>
+    <td class="tg-73oq">-</td>
+  </tr>
+	<tr>
+    <td class="tg-73oq">Desktop Engineer</td>
+    <td class="tg-73oq">Mohammad Fahmi Semi</td>
+    <td class="tg-73oq">-</td>
+  </tr>
   <tr>
     <td class="tg-73oq">Operations support officer</td>
     <td class="tg-73oq">Lin Yahua</td>

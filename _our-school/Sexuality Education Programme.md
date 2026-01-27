@@ -84,7 +84,7 @@ health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
 <p></p>
-<ol data-tight="true" class="tight">
+</li>
 <li>
 <p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
 Primary 5 and 6. Through these lessons, students will learn healthy ways
@@ -113,8 +113,6 @@ will be taught in 2026:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education Programme/2026_PRIMARY_6.png">
 </div>
 <h4><strong>Information for Parents</strong></h4>
-</li>
-</ol>
 </li>
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or

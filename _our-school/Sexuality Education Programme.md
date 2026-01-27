@@ -22,21 +22,37 @@ on sexuality issues.</p>
 <p></p>
 </li>
 <li>
-<p>The Goals of Sexuality Education are:</p>
+<p>The <strong>Goals</strong> of Sexuality Education are:</p>
+<p></p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
+<p></p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
+<p></p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
+<p></p>
 </li>
 <li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p></p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+<p></p>
+<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4>Overview of CHIJ Our Lady of Good Counsel’s Sexuality Education Programme for 2025</h4>
+<h4>Overview of CHIJ Our Lady of Good Counsel’s Sexuality Education Programme for 2026</h4>
 <p></p>
 </li>
 <li>
@@ -53,7 +69,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 <p></p>
-<h4>Sexuality Education Lessons:</h4>
+<h4>Sexuality Education Lessons</h4>
 <p></p>
 </li>
 <li>
@@ -68,7 +84,7 @@ health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
 <p></p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
 Primary 5 and 6. Through these lessons, students will learn healthy ways
@@ -78,20 +94,15 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<h4><strong>At CHIJ Our Lady Of Good Counsel, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<p>At CHIJ Our Lady Of Good Counsel, the following Sexuality Education lessons
+will be taught in 2026:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>2025 Sexuality Education Lessons in CCE</p>
-<p></p>
-<p></p>
-<p></p>
-<p>Primary 5</p>
+<h3>2026 Sexuality Education Lessons in CCE</h3>
+<h3>Primary 5</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P5_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.jpg">
@@ -117,6 +128,8 @@ from sexuality-related risks.</p>
 </div>
 <p></p>
 <h4><strong>Information for Parents</strong></h4>
+</li>
+</ol>
 </li>
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or

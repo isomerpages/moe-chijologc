@@ -2,7 +2,7 @@
 title: Sexuality Education Programme
 permalink: /our-school/sexuality-education/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h2>Sexuality Education Programme</h2>
 <h4>MOE SEXUALITY EDUCATION IN SCHOOLS</h4>
@@ -22,21 +22,37 @@ on sexuality issues.</p>
 <p></p>
 </li>
 <li>
-<p>The Goals of Sexuality Education are:</p>
+<p>The <strong>Goals</strong> of Sexuality Education are:</p>
+<p></p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
+<p></p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
+<p></p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
+<p></p>
 </li>
 <li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p></p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+<p></p>
+<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4>Overview of CHIJ Our Lady of Good Counsel’s Sexuality Education Programme for 2025</h4>
+<h4>Overview of CHIJ Our Lady of Good Counsel’s Sexuality Education Programme for 2026</h4>
 <p></p>
 </li>
 <li>
@@ -53,7 +69,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 <p></p>
-<h4>Sexuality Education Lessons:</h4>
+<h4>Sexuality Education Lessons</h4>
 <p></p>
 </li>
 <li>
@@ -78,44 +94,24 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<h4><strong>At CHIJ Our Lady Of Good Counsel, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<p>At CHIJ Our Lady Of Good Counsel, the following Sexuality Education lessons
+will be taught in 2026:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>2025 Sexuality Education Lessons in CCE</p>
-<p></p>
-<p></p>
-<p></p>
-<p>Primary 5</p>
+<h3><center>2026 Sexuality Education Lessons in CCE</center></h3>
+<h3><center>Primary 5</center></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P5_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education Programme/2026_PRIMARY_5.png">
 </div>
-<p><strong>&nbsp;</strong>
-</p>
+<h3><center>Primary 6</center></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education Programme/2026_PRIMARY_6.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p>2025 Sexuality Education Lessons in CCE</p>
-<p></p>
-<p></p>
-<p></p>
-<p>Primary 6</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P6_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.jpg">
-</div>
-<p></p>
 <h4><strong>Information for Parents</strong></h4>
 </li>
 <li>
@@ -125,8 +121,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="/files/Annex_A_2025.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 07/02/2025.</p>
+to parents at the start of the year and is also available <a href="/files/Sexuality Education Programme/ANNEX_A.pdf" rel="noopener nofollow" target="_blank">file</a>.
+The completed opt-out form is to be submitted by 16/02/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6288 6930 or email <a rel="noopener noreferrer nofollow" target="_blank">chijolgcs@moe.edu.sg</a> for discussion

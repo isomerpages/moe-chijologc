@@ -104,12 +104,42 @@ will be taught in 2026:</p>
 <h3>2026 Sexuality Education Lessons in CCE</h3>
 <h3>Primary 5</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P5_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.jpg">
-</div>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow">CCE(FTGP) THEME</th>
+    <th class="tg-c3ow">LESSON TITLE / DURATION</th>
+    <th class="tg-0pky">LESSON OVERVIEW </th>
+    <th class="tg-c3ow">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Growing Years</td>
+    <td class="tg-c3ow">The Changes in Me<br>(60min)</td>
+    <td class="tg-0pky">This lesson focuses on helping students identify the emotions and <br>stress caused by physical changes during puberty. Students will <br>learn to describe the healthy ways to manage their negative <br>feelings during this time. They will also learn to recognise that one’s <br>identity need not be negatively affected, even when one’s body is <br>experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different <br>classrooms, so that the students will feel more comfortable during <br>the discussions.</td>
+    <td class="tg-c3ow">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">Did You Know?<br>(60 min)</td>
+    <td class="tg-0pky">This lesson focuses on helping students know what pornography is <br>and how it can affect themselves and others. Students will learn <br>about the dangers of being exposed to sexually explicit materials <br>and reject the viewing and/or reading of pornographic materials. <br>They will learn to evaluate their own responses when they <br>encounter pornography by applying the strategy ‘<span style="font-weight:bold">Stop-Think-Do</span>’. <br><br>This lesson is conducted separately for boys and girls in different <br>classrooms, so that the students will feel more comfortable during <br>the discussions.</td>
+    <td class="tg-c3ow">Term 3 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-c3ow">Keeping Myself Safe<br>(60 min)</td>
+    <td class="tg-0pky">In this lesson, students will learn about sexual abuse, how it can <br>happen during online and offline interactions and the impact of such <br>abuse on victims. They also learn how to take precautionary <br>measures to be safe and how to seek help for themselves and their <br>friends.<br><br>This lesson is conducted separately for boys and girls in different <br>classrooms, so that the students will feel more comfortable during <br>the discussions.</td>
+    <td class="tg-c3ow">Term 3 Week 5</td>
+  </tr>
+</tbody></table>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
 </div>

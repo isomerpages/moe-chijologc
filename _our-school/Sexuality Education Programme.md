@@ -102,7 +102,7 @@ will be taught in 2026:</p>
 </div>
 <p></p>
 <h3>2026 Sexuality Education Lessons in CCE</h3>
-<h3>Primary 5</h3>
+<h3><center>Primary 5</center></h3>
 <p></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}

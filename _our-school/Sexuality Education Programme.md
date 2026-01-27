@@ -107,10 +107,11 @@ will be taught in 2026:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education Programme/2026_PRIMARY_5.png">
 </div>
-<p></p>
 <h3>Primary 6</h3>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education Programme/2026_PRIMARY_6.png">
+</div>
 <h4><strong>Information for Parents</strong></h4>
 </li>
 </ol>

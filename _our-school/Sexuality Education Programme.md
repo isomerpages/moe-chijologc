@@ -101,13 +101,13 @@ will be taught in 2026:</p>
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
 </div>
 <p></p>
-<h3>2026 Sexuality Education Lessons in CCE</h3>
-<h3>Primary 5</h3>
+<h3><center>2026 Sexuality Education Lessons in CCE</center></h3>
+<h3><center>Primary 5</center></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education Programme/2026_PRIMARY_5.png">
 </div>
-<h3>Primary 6</h3>
+<h3><center>Primary 6</center></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education Programme/2026_PRIMARY_6.png">

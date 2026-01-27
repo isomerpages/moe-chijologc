@@ -7,11 +7,15 @@ variant: markdown
 ---
 ## English 
 
-At CHIJ OLGC, students’ learning is enhanced and extended during curriculum time through various programmes. Our teachers actively promote extensive and intensive reading among students. There are several activities where students are engaged in learning. These include reading promotions at the library, oratorical presentations and class newsletters, to name a few.
+#### Department Vision
+ 
+To nurture 21st Century leaders who are effective communicators with a passion for the English Language.
 
-The English department also organises various activities to engage the students such as our termly D’Lite Day, where students are able to learn the language in fun and creative ways such as poetry recitals or playing games such as Boggle or Scrabble. Our lower primary students also have opportunities to take their learning out of the classroom and go for different learning journeys which are in line with the nation’s STELLAR curriculum.
 
-The English department is involved in the actualisation of the Applied Learning Programme (ALP). Teachers are involved in helping students to be confident and effective communicators as well as critical thinkers; the 21CC skills. For more about the ALP please click&nbsp;[here](https://chijourladyofgoodcounsel.moe.edu.sg/school-experience/School-Wide-Programme/ALP/).  
+
+ 
+ 
+ 
  
 _Learning Journeys:_
 	

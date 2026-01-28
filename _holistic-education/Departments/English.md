@@ -94,16 +94,3 @@ https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/b
 1. Longman Dictionary (https://www.ldoceonline.com/)
 2. Cambridge Dictionary (https://dictionary.cambridge.org/)
 3. Oxford Dictionary (https://www.oed.com/)
-
-
-
-
-
-
-
-
-
- 
-_Learning Journeys:_
-	
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHs02w0_8PCq0iO3qP362ladB2UZ7fIBXuhbFQX_c1d9H4gU3e7VtD1V9BzSE_JQvTaCiTCsttZsbT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

@@ -34,6 +34,12 @@ Through Supplementary, Remedial and Learning Clinics, we ensure every child—re
 
 We provide platforms for students to shine, from internal storytelling competitions and national writing competitions to the Reading Sisters programme where our older girls accompany the younger ones on their reading progress.
  
+#### Our Curriculum
+ 
+**The Core: STELLAR 2.0 National Curriculum**
+
+
+ 
 _Learning Journeys:_
 	
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHs02w0_8PCq0iO3qP362ladB2UZ7fIBXuhbFQX_c1d9H4gU3e7VtD1V9BzSE_JQvTaCiTCsttZsbT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

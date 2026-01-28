@@ -89,7 +89,9 @@ Importantly, we partner our parents in the following areas:
 * by encouraging your daughter to journal her thoughts and ideas using standard English
 
 **Recommended Reading List**
+<br>
 [https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/booklists](https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/booklists)
+<br>
 **Recommended Online Dictionaries**
 1. [Longman Dictionary ](https://www.ldoceonline.com/)
 2. [Cambridge Dictionary ](https://dictionary.cambridge.org/)

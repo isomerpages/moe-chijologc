@@ -26,6 +26,9 @@ With the pedagogical emphasis on Multiliteracies, Metacognition, and Inquiry thr
 
 From public speaking to media literacy to critical investigation of current affairs, we equip our students with skills to navigate a complex, digital, and globalised world.
 
+3.**Differentiated Learning, Inclusivity and Support:**
+
+Through Supplementary, Remedial and Learning Clinics, we ensure every child—regardless of their starting point—finds success. This structured scaffold allows our students to receive the support needed to strengthen their literacy skills.
  
 _Learning Journeys:_
 	

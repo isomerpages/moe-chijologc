@@ -18,11 +18,11 @@ At the heart of our English curriculum is the commitment to developing our stude
 
 #### The Four Pillars of Our Approach
 
-1. **Engaging Pedagogy:**
+1.**Engaging Pedagogy:**
 
 With the pedagogical emphasis on Multiliteracies, Metacognition, and Inquiry through Dialogue in the EL classroom, our teachers enact STELLAR 2.0 to make literacy development an exciting journey–where learning is contextualised, learner-centred and one in which receptive and productive literacy skills are scaffolded, process-oriented and spiral in progression.
 
-2. **Fostering Future-Ready Confident Communicators:**
+2.**Fostering Future-Ready Confident Communicators:**
 
 From public speaking to media literacy to critical investigation of current affairs, we equip our students with skills to navigate a complex, digital, and globalised world.
 
@@ -30,7 +30,7 @@ From public speaking to media literacy to critical investigation of current affa
 
 Through Supplementary, Remedial and Learning Clinics, we ensure every child—regardless of their starting point—finds success. This structured scaffold allows our students to receive the support needed to strengthen their literacy skills.
 
-4. **Leadership and Excellence:**
+4.**Leadership and Excellence:**
 
 We provide platforms for students to shine, from internal storytelling competitions and national writing competitions to the Reading Sisters programme where our older girls accompany the younger ones on their reading progress.
  

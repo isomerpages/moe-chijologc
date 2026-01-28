@@ -43,7 +43,14 @@ STELLAR 2.0 (Strategies for English Language Learning and Reading) is provides o
 * **Lower Primary (P1–P3a):** Focuses on experiential learning, using shared stories to build a strong foundation in grammar and vocabulary.
 * **Upper Primary (P3b–P6):** Shifts toward collaborative learning, where students engage with complex texts and develop advanced comprehension skills.
 
+#### School-Based Curriculum and Programmes
 
+To complement the national curriculum, we have designed bespoke packages that address the specific needs and talents of our students.
+
+i) D’LitE Fortnight, Reading Circles and Explorations and Inquiry
+* With our Applied Learning Programme (ALP) in Drama and Literary Arts, our students are engaged in drama productions, creative writing and literary appreciation programmes such as reading and writing workshops, Readers’ Theatre and Reading Circles at P4 and P5.
+
+ii) 
 
 
  

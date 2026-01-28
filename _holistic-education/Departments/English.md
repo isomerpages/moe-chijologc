@@ -88,6 +88,15 @@ Importantly, we partner our parents in the following areas:
 * by being good role models by writing gratitude notes or reflections to your daughter
 * by encouraging your daughter to journal her thoughts and ideas using standard English
 
+**Recommended Reading List**
+https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/booklists
+**Recommended Online Dictionaries**
+1. Longman Dictionary (https://www.ldoceonline.com/)
+2. Cambridge Dictionary (https://dictionary.cambridge.org/)
+3. Oxford Dictionary (https://www.oed.com/)
+
+
+
 
 
 

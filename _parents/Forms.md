@@ -4,8 +4,9 @@ permalink: /parents/Forms/
 description: ""
 variant: tiptap
 ---
-<h2>Forms</h2>
-<p><a href="/files/ApplicationForm_Wait_List_2025.pdf" rel="noopener nofollow" target="_blank">Application Wait List</a>
+<p>Forms</p>
+<p>
+<br><a href="https://form.gov.sg/697966432cdc4be6fbcdb241" rel="noopener nofollow" target="_blank">Application for Wait List</a>
 </p>
 <p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Submission of insurance claims for students</a>
 </p>

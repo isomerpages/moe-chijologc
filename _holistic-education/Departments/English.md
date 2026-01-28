@@ -82,6 +82,13 @@ Importantly, we partner our parents in the following areas:
 * by being good role models in reading for pleasure and for information
 * by fostering a reading culture at home, including visits to the public libraries
 
+**iv) Being Skilled Writers:**
+
+* by creating authentic opportunities to write such as during the celebration of festive or family occasions
+* by being good role models by writing gratitude notes or reflections to your daughter
+* by encouraging your daughter to journal her thoughts and ideas using standard English
+
+
 
 
 

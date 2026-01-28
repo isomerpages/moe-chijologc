@@ -29,6 +29,10 @@ From public speaking to media literacy to critical investigation of current affa
 3.**Differentiated Learning, Inclusivity and Support:**
 
 Through Supplementary, Remedial and Learning Clinics, we ensure every child—regardless of their starting point—finds success. This structured scaffold allows our students to receive the support needed to strengthen their literacy skills.
+
+4. **Leadership and Excellence:**
+
+We provide platforms for students to shine, from internal storytelling competitions and national writing competitions to the Reading Sisters programme where our older girls accompany the younger ones on their reading progress.
  
 _Learning Journeys:_
 	

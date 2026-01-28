@@ -38,6 +38,13 @@ We provide platforms for students to shine, from internal storytelling competiti
  
 **The Core: STELLAR 2.0 National Curriculum**
 
+STELLAR 2.0 (Strategies for English Language Learning and Reading) is provides our foundational framework. It moves beyond rote learning to fostering a deep, authentic mastery of the English language.
+
+* **Lower Primary (P1–P3a):** Focuses on experiential learning, using shared stories to build a strong foundation in grammar and vocabulary.
+* **Upper Primary (P3b–P6):** Shifts toward collaborative learning, where students engage with complex texts and develop advanced comprehension skills.
+
+
+
 
  
 _Learning Journeys:_

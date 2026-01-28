@@ -78,6 +78,11 @@ Importantly, we partner our parents in the following areas:
 * to encourage your daughter to think deeply and intentionally before speaking by asking “What makes you say that?” and “Could you elaborate on that?”
 * by being discerning in media consumption by watching the news and/or listening to reputable podcasts and radio stations.
 
+**iii) Being Discerning Readers:**
+* by being good role models in reading for pleasure and for information
+* by fostering a reading culture at home, including visits to the public libraries
+
+
 
 
 

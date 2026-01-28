@@ -11,7 +11,7 @@ variant: markdown
  
 To nurture 21st Century leaders who are effective communicators with a passion for the English Language.
 
-
+![](/images/English%20Department/Outcome_of_an_OLGC_Student.png)
 
  
  

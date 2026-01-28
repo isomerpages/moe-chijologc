@@ -37,8 +37,7 @@ We provide platforms for students to shine, from internal storytelling competiti
 #### Our Curriculum
  
 **The Core: STELLAR 2.0 National Curriculum**
-
-STELLAR 2.0 (Strategies for English Language Learning and Reading) is provides our foundational framework. It moves beyond rote learning to fostering a deep, authentic mastery of the English language.
+<br>STELLAR 2.0 (Strategies for English Language Learning and Reading) is provides our foundational framework. It moves beyond rote learning to fostering a deep, authentic mastery of the English language.
 
 * **Lower Primary (P1–P3a):** Focuses on experiential learning, using shared stories to build a strong foundation in grammar and vocabulary.
 * **Upper Primary (P3b–P6):** Shifts toward collaborative learning, where students engage with complex texts and develop advanced comprehension skills.
@@ -61,8 +60,7 @@ iii) *Cultivating a Reading Culture*
 * Author Spotlights allow our students the opportunity to meet-and-greet our local authors, inspiring our next generation of writers.
 
 iv)*Outreach: Literacy Beyond the Classroom*
-
-Learning in OLGC extends far beyond the four walls of the classroom. Our outreach programmes encourage students to apply their skills in authentic, real-world settings.
+<br>Learning in OLGC extends far beyond the four walls of the classroom. Our outreach programmes encourage students to apply their skills in authentic, real-world settings.
 * **Learning Journeys:** Whether it is recount writing from their learning journey to the Zoo or being enraptured by interesting science facts at the Science Centre, then talking and writing about what they had learnt, our students see English as a tool for exploration and communication.
 
 

@@ -13,9 +13,19 @@ To nurture 21st Century leaders who are effective communicators with a passion f
 
 ![](/images/English%20Department/Outcome_of_an_OLGC_Student.png)
 #### Our Philosophy: Nurturing Future-Ready Communicators
- 
- 
- 
+
+At the heart of our English curriculum is the commitment to developing our students who are not only literate across the literacy skills of reading, writing, speaking and listening, but also students who are articulate, empathetic, and critically aware of the world around them. Our approach integrates the national STELLAR 2.0 framework with school-specific innovations to create a dynamic learning environment.
+
+#### The Four Pillars of Our Approach
+
+1. **Engaging Pedagogy:**
+
+With the pedagogical emphasis on Multiliteracies, Metacognition, and Inquiry through Dialogue in the EL classroom, our teachers enact STELLAR 2.0 to make literacy development an exciting journey–where learning is contextualised, learner-centred and one in which receptive and productive literacy skills are scaffolded, process-oriented and spiral in progression.
+
+2. **Fostering Future-Ready Confident Communicators:**
+
+From public speaking to media literacy to critical investigation of current affairs, we equip our students with skills to navigate a complex, digital, and globalised world.
+
  
 _Learning Journeys:_
 	

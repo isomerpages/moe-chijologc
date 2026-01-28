@@ -62,8 +62,21 @@ iii) *Cultivating a Reading Culture*
 iv)*Outreach: Literacy Beyond the Classroom*
 <br>Learning in OLGC extends far beyond the four walls of the classroom. Our outreach programmes encourage students to apply their skills in authentic, real-world settings.
 * **Learning Journeys:** Whether it is recount writing from their learning journey to the Zoo or being enraptured by interesting science facts at the Science Centre, then talking and writing about what they had learnt, our students see English as a tool for exploration and communication.
+* **Community Engagement:** Through assembly showcases and walks around the school, our students learn to observe, describe, and interact with the world around them.
+* **National Platforms:** We actively encourage participation in external speaking and writing competitions such as PESA and Commonwealth Writing Competition to build grit and confidence.
 
+Importantly, we partner our parents in the following areas:
+<br>
+**i) Being Active Listeners:**
+* to be attentive to how your daughter express herself
+* to ask 5W1H questions to encourage your daughter to express her thoughts with intention
 
+**ii) Being Eloquent Speakers:**
+
+* to role model the speaking of standard English with good pronunciation and enunciation
+* to encourage your daughter to express her thoughts and justify her viewpoints using standard English
+* to encourage your daughter to think deeply and intentionally before speaking by asking “What makes you say that?” and “Could you elaborate on that?”
+* by being discerning in media consumption by watching the news and/or listening to reputable podcasts and radio stations.
 
 
 

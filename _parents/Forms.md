@@ -6,9 +6,9 @@ variant: tiptap
 ---
 <p>Forms</p>
 <p>
-<br><a href="https://form.gov.sg/697966432cdc4be6fbcdb241" rel="noopener nofollow" target="_blank">Application for Wait List</a>
+<br><a href="https://go.gov.sg/olgcwaitlist" rel="noopener nofollow" target="_blank">Application for Wait List</a>
 </p>
 <p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Submission of insurance claims for students</a>
 </p>
-<p><a href="https://form.gov.sg/66fe2ebbecb8d68b5cd10951" rel="noopener noreferrer nofollow" target="_blank">Online form for Leave of Absence (LOA)/ School Withdrawal</a>
+<p><a href="https://go.gov.sg/olgc-loa-msl" rel="noopener nofollow" target="_blank">Application for Leave of Absence/Mainstream School Leaver </a>
 </p>

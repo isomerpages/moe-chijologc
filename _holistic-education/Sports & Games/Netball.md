@@ -3,6 +3,7 @@ title: Netball
 permalink: /holistic-education/Sports-and-Games/Netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Netball
 
@@ -80,5 +81,4 @@ Trainings occur on Monday for Primary 3 students and the recreational team. Scho
 </table>
 <br>
 
-
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlmanRF_tb5KE4D-chAp5F8rae0wbdAKY1Rksb6YckPNMC5zATJZ2R30vEfS4s2Srcyqe6MCGz9qWx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgrleBS0YccZf3l4hroKkaKwURqXIx71E4I1GrwjRJR9te3Ujqwq0IYFslCXmN7LFfhF_8JBKPe6MJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

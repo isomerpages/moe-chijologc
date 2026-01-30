@@ -3,6 +3,7 @@ title: Drama and Literary Arts
 permalink: /holistic-education/Performing-Arts/Drama-and-Literary-Arts/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Drama and Literary Arts
 
@@ -25,4 +26,4 @@ From the sessions, students would build self-esteem and increase their ability t
 
 Nativity Play (2022) 
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtYOs9LuMJkpGMO4W38-NGiml-B2hkW44IZEuxmK1FbUkOlkqr_KKTj7BgBaT6bdI40VrXVqbOH905/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdrOEvjdVTqRSR_YP5FV_okVhf3iZyGF-jgpJIkLi-UiqYnIpROheCV7qwJuOwrHO88ZsQpuRfYluR/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

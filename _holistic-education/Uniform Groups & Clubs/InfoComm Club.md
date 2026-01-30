@@ -3,6 +3,7 @@ title: InfoComm Club
 permalink: /holistic-education/Uniform-Groups-and-Clubs/InfoComm-Club/
 description: ""
 third_nav_title: Uniform Groups & Clubs
+variant: markdown
 ---
 ## InfoComm Club
 
@@ -30,4 +31,4 @@ Activities and Events
 
 -Engaged trainers from Roboto and learnt game development from an online software Scratch. (2022)
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaDkoQHmdLK91Crv-U5DY9KIQwGhHiefVyR2_AYks_iEA1HBzq1qm0pSqgiRRnzqdOK4Q9D5SBT8Kj/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSxRnOM-uCWS9otXgkpBu_duOIRwypF_T6jqOosS67rxLsriVK5pGtVmiHbCHRNNOpW4eEC81T8MS_q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

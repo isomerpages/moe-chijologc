@@ -3,6 +3,7 @@ title: Robotics Club
 permalink: /holistic-education/Uniform-Groups-and-Clubs/Robotics-Club/
 description: ""
 third_nav_title: Uniform Groups & Clubs
+variant: markdown
 ---
 ## Robotic Club
 
@@ -28,4 +29,4 @@ Through the Robotics Club, students will be able to explain and apply their know
 
 None for 2021 and 2022 (Due to covid restrictions and restricted training sessions)
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzBD_Py18kDrN9TM5hv5CdC-8Y-29eyO2v04Kh_6krltmlGU9XojozlSemC1Tv0Y98orAnkKsZzgVr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9LGvMBYCt1slJXjVDcBYYrAxrpP9qNgEF8qycdkZqGqkuz2PPGekzUuNOyOETLJ90EqT6y2daZnz9/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

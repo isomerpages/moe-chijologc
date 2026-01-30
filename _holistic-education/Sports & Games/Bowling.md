@@ -3,6 +3,7 @@ title: Bowling
 permalink: /holistic-education/Sports-and-Games/Bowling/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Bowling
 
@@ -51,4 +52,4 @@ Our training venue is Forte Bowl located within JForte Sportainment Centre. The 
 </tbody>
 </table>|
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqeJVXyoId0W3X0la0lSUSqB2hDkD9zA2pvZsZHGnQazyaVbZMCM2DjsKBBY9gEPYX0DYENCsWA-4s/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGF_0yfDv23kDu9DSapAuClYlfRR1chTqh1wPB6oOvNdAFDhpH2JVJTLyGZKWM_98A2D0RaQ4p5yuW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

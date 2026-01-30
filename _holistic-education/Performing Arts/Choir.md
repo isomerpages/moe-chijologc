@@ -3,6 +3,7 @@ title: Choir
 permalink: /holistic-education/Performing-Arts/Choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Choir
 
@@ -55,4 +56,4 @@ During CCA practice sessions, students are taught warming up techniques that enh
 </table>
 <br>
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTktZqjQy8Jak81HX8bSNptuc08QOuUzgv-hCpi8Slb59je7fVIC53bNIK09l3v7DEoWiK6W0t4c7B_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAYEr2rR8I3CmKPWMbonLZGTBn_BmjnpVLAV1oiJHytvzn4HT2uSo6f_E_vPDmOXvWvlxA0KKFc9Za/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

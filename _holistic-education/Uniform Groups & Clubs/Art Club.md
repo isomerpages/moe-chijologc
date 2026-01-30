@@ -3,6 +3,7 @@ title: Art Club
 permalink: /holistic-education/Uniform-Groups-and-Clubs/Art-Club/
 description: ""
 third_nav_title: Uniform Groups & Clubs
+variant: markdown
 ---
 ## Art Club
 
@@ -61,4 +62,4 @@ Students practice turn-taking, decision making, perseverance and teamwork throug
 </table>
 <br>
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZLTpmq6Be-1EwjibRRAwJflSwUWPL6n61l7w2E3doVvOm5Ai4cJLHCbUC1e4finyIdQ48PY6X0YR9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSP9esV_i2jWHf_y-hTkGFuGvqnUit036SSlYyhrIOvIQipwNC9vI1fcA7wX4_YgtLzrLMJFbJ6-mKk/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

@@ -3,6 +3,7 @@ title: Rhythmic Gymnastics
 permalink: /holistic-education/Sports-and-Games/Rhythmic-Gymnastics/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## RHYTHMIC GYMNASTICS
 
@@ -67,5 +68,4 @@ Mrs Jenny Chew
 </table>
 <br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3QdPLMStvxYLXNq-pqMyOLR8xCPVIR08EylLMDYO3W01bPficPVfxQ_niNTcNR7LG23R1HhvJRqP4/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
-
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBCrDEwwtDYQRa-VIDMABmSqL0fWn-7dDYu3gezma4Es5m0HfS22efAgQLx3rc5Ts11PAFnGsk0FPT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

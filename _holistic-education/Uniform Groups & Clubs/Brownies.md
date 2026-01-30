@@ -3,6 +3,7 @@ title: Brownies
 permalink: /holistic-education/Uniform-Groups-and-Clubs/Brownies/
 description: ""
 third_nav_title: Uniform Groups & Clubs
+variant: markdown
 ---
 ## Brownies 
 
@@ -179,4 +180,4 @@ The activities conducted revolve around our Five-Point Programme:
 </table>
 <br>
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfHftlz2wRCLwjY_rYOymfIGmt0oyESPeVxUmaebJOSifvRkDSK2KteYtM2INNlbi2Khs0cyhd9RFf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHta9_FZLWcfHQnj0-IIPyuBgHjf8dqW4SFuTQkL8LFWbXV_aLl81fckmZ2O_ZZsynn-vKRehXa6Gj/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

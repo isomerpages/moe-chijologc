@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /holistic-education/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Modern Dance
 
@@ -104,4 +105,4 @@ Students will be able to:
 </table>
 <br>
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKH-0XEDgJlMIwSq5GxRppxaVNvnvP3jjMWdJSWcRgdrAJiNtBQx_KEVWoathHcPX6b0ZCb41XaaFO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ91b7pRtzxvBuguFEJISPCuvO5TQ19th04VHIvQOerny7giPtPnak4HY_jHgxosD2MBdOUY3xYDxup/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

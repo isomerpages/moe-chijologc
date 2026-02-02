@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Mathematics 
 
-In our school, we believe that mathematics is a fundamental subject that develops critical thinking, problem-solving skills, and logical reasonin
+In our school, we believe that mathematics is a fundamental subject that develops critical thinking, problem-solving skills, and logical reasoning
 
 Our Approach:
 
@@ -37,7 +37,7 @@ We organize a variety of exciting activities throughout the year to make math fu
 Student Voice and Peer Learning:
 We believe in empowering our students and fostering a collaborative learning environment. Our Primary 4 Buddy Programme exemplifies this approach:
 
-- P4 Buddy Programme: Primary 4 students take on the role of mentors, helping their Primary 2 'sisters' learn maths in a fun and engaging manner. This programme not only reinforces mathematical concepts for both age groups but also develops leadership skills and builds strong bonds across year levels.
+- Math Buddy Programme: Primary 4 students take on the role of mentors, helping their Primary 2 ‘sisters’ learn maths in a fun and engaging manner. This programme not only reinforces mathematical concepts for both age groups but also develops leadership skills and builds strong bonds across year levels. Encouraged by the good response from the P2 students, we started the P3 and P5 Math Buddy Programme in 2025.
 
 Enrichment Programmes:
 To challenge and stretch our high-achieving students, we offer:
@@ -45,4 +45,4 @@ To challenge and stretch our high-achieving students, we offer:
 - Math Olympiad lessons: Preparing students for advanced problem-solving competitions
 - Excellence 2000 Math (E2K Math): An enrichment programme designed to develop higher-order thinking skills and mathematical creativity.
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQP0fBBJid18vcoudzwGJpHpRbu4wJSu-Y8fHOC9H7U_9vFQoCpWdDs2Z2Qaay4OvtBqakttErIaFvV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyEtyKvQNPT51sdGdzNzk3IvFuPpou1zVbDb2h59pMb7rVVFqnskBA2_7sTIlli65gA-buPGOcMomy/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

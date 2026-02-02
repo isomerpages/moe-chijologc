@@ -11,7 +11,7 @@ The evolution of Educational Technology (EdTech) has transformed the way teachin
 
 At the same time, students are equipped with foundational digital skills such as basic operational skills, responsible use, and safe online behaviours, which are developed progressively across the primary school years to ensure learning is well-scaffolded and appropriate to their developmental needs.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqPgxQT7u6D_iIQTYbcByv1X2GpWmunsvxIbG2eNmYTdXaiNBwwKYK9moIjS4L1ZZGyA2Xg8KIPhSD/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_jJJWMMzYVGmxMFse2U1ebkrN6DfHzEkJL7WnjsjEfl2vvks8YJOncbGjIXt-O2b0K1MWQ3XN8Kju/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Baseline Digital Skills
 

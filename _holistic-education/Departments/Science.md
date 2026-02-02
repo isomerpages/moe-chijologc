@@ -39,3 +39,11 @@ The Science department engages our students and helps them make connections betw
 ##### Upcycling and Christmas Makers Projects
 
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrof226MV5zc7CVBWnvMLpLz2lfQ14l2EEUWJyuB_2X6Z_vtWtNPzLAx61I5-ycD5F3KO3GVIbpcTY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+##### Science Barre Sony Toy Competition
+
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3ZKgn27dm9nRWq59Lmn1EO0Up1GZ1OFwHoX9pfXXczzfFVp_oslj-dn-qnYEOzcEe7OBIhRIwU_Pj/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+##### Eco-Stewardship
+
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSj8c-J7RJn3BjEE3aoWQjbyQt2naf48DeUHMgxnbi4LiwnZ3MrSexGSe2gX3HbMKWj7RGt_JP7YlHY/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Mathematics 
 
-In our school, we believe that mathematics is a fundamental subject that develops critical thinking, problem-solving skills, and logical reasonin
+In our school, we believe that mathematics is a fundamental subject that develops critical thinking, problem-solving skills, and logical reasoning
 
 Our Approach:
 
@@ -37,7 +37,7 @@ We organize a variety of exciting activities throughout the year to make math fu
 Student Voice and Peer Learning:
 We believe in empowering our students and fostering a collaborative learning environment. Our Primary 4 Buddy Programme exemplifies this approach:
 
-- P4 Buddy Programme: Primary 4 students take on the role of mentors, helping their Primary 2 'sisters' learn maths in a fun and engaging manner. This programme not only reinforces mathematical concepts for both age groups but also develops leadership skills and builds strong bonds across year levels.
+- Math Buddy Programme: Primary 4 students take on the role of mentors, helping their Primary 2 ‘sisters’ learn maths in a fun and engaging manner. This programme not only reinforces mathematical concepts for both age groups but also develops leadership skills and builds strong bonds across year levels. Encouraged by the good response from the P2 students, we started the P3 and P5 Math Buddy Programme in 2025.
 
 Enrichment Programmes:
 To challenge and stretch our high-achieving students, we offer:

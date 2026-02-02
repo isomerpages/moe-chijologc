@@ -45,4 +45,4 @@ To challenge and stretch our high-achieving students, we offer:
 - Math Olympiad lessons: Preparing students for advanced problem-solving competitions
 - Excellence 2000 Math (E2K Math): An enrichment programme designed to develop higher-order thinking skills and mathematical creativity.
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQP0fBBJid18vcoudzwGJpHpRbu4wJSu-Y8fHOC9H7U_9vFQoCpWdDs2Z2Qaay4OvtBqakttErIaFvV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyEtyKvQNPT51sdGdzNzk3IvFuPpou1zVbDb2h59pMb7rVVFqnskBA2_7sTIlli65gA-buPGOcMomy/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

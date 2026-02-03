@@ -17,9 +17,6 @@ sections:
         - title: In The Spotlight
           description: (Click for more information)
           url: /Spotlight/
-        - title: Events
-          description: (Click for more information)
-          url: /Events/
         - title: For Students
           description: (Click for more information)
           url: /forstudents/

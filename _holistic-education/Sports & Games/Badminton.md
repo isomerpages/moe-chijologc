@@ -3,6 +3,7 @@ title: Badminton
 permalink: /holistic-education/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Badminton 
 
@@ -67,4 +68,4 @@ Under the guidance of our experienced coaches, players learn various badminton s
  <br>
 <br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRP4n_YankT3vmjVl7X6et7dBbb-fvp4vM-dn8vsdN2fi9dJONAwYQDzJ2pxEWmV7P2wsE1f3g6RWj/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRW6jwfZ0eIHlIeRD7dwsu9NZWWAWIS47mfo6DIFvYl5OqwfCDyR6q6vShU6mLgLAPSrrO0mGbn90MQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

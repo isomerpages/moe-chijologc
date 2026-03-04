@@ -15,7 +15,7 @@ relevant icon to nominate the deserving teacher.</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Tamil_Award.png">
 </a>
 <p></p><a class="isomer-image-wrapper" href="https://contest.sph.com.sg/campaigns/dclta2025/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Distinguished_Chinese_Language.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://www.shhk.com.sg/leap-award/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/The_LEAP_Award.png"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.shhk.com.sg/newsroom/15th-leap-award-nominations-now-open/#:~:text=The%20LEAP%20Award%20recognises%20exceptional,as%20well%20as%20Junior%20Colleges.&amp;text=Each%20school%20may%20submit%20a%20maximum%20of%20two%20nominations."><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/The_LEAP_Award_new.png"></a>
 <p></p><a class="isomer-image-wrapper" href="/files/Nominate%20Your%20Teachers%20/CTA_2026_A4Poster.pdf"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/CTA_icon.jpg"></a>
 <p></p>

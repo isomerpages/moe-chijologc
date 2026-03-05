@@ -6,14 +6,9 @@ variant: markdown
 ---
 ## PARENTS SUPPORT GROUP (PSG)
 
-![](/images/CHIJ_OLGC_PSG_CHART_2025.jpg)
+![](/images/CHIJ_OLGC_PSG_CHART_2026.jpg)
 
 ### Important Links:
-
-
-Click&nbsp;[here](https://form.gov.sg/67cf91daa33ac8ee6f871228)&nbsp;to register.  
-
-  
 
 **Dads' Club:**
 <br>Website: [https://www.facebook.com/OlgcDadsClub](https://www.facebook.com/OlgcDadsClub)

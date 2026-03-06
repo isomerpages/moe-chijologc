@@ -98,4 +98,17 @@ Students are encouraged to participate in activities such as:
 
 These platforms help students develop communication skills while fostering pride in the Tamil language.
 
+#### Assembly Performances and Cultural Showcases
 
+Students also present during school assemblies and special events, performing storytelling segments, skits or cultural showcases related to Tamil festivals and traditions.
+
+### Partnering Parents
+
+Parents play an important role in supporting their child’s language development. The department encourages parents to:
+
+* Speak Tamil Language with their children at home whenever possible
+* Encourage reading of Tamil storybooks
+* Provide opportunities to watch or listen to Tamil media
+* Engage children in conversations about Tamil culture and traditions
+
+Through this partnership between school and home, we nurture students who are c**onfident Tamil speakers with a strong appreciation of their language and cultural heritage.**

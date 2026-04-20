@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Announcements
 
-*   [E-Open House 2026](images/open_house/2026_OLGC_e_Open_House_poster)
+*   [E-Open House 2026](images/open-house/2026_OLGC_e_Open_House_poster)
 
 *   [Norminate Your Teacher](/nominate-your-teachers/)
 

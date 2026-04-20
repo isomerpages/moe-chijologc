@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Announcements
 
-*   [E-Open House 2026](/nominate-your-teachers/)
+*   [E-Open House 2026](sfa)
 
 *   [Norminate Your Teacher](/nominate-your-teachers/)
 

@@ -4,4 +4,4 @@ permalink: /events/open-house/
 description: ""
 variant: markdown
 ---
-![](/images/CHIJ_OLGC_Open_House_2024___FINAL.png)
+![](/images/Open%20House/2026_e_open_house.jpg)

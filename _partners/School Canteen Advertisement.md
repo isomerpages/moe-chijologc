@@ -23,8 +23,8 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0pky">Mixed Rice Stall </td>
-    <td class="tg-0pky">19 December </td>
-    <td class="tg-0pky">NIL</td>
+    <td class="tg-0pky">31st December 2026</td>
+    <td class="tg-0pky">The application will&nbsp;close once we have found a suitable applicant</td>
   </tr>
 </tbody>
 </table>

@@ -13,4 +13,3 @@ Students are introduced to six key aspects of **Malay culture**—traditional ga
 
 Beyond academic learning, this initiative nurtures cultural awareness, respect, and a deeper appreciation for Malay heritage. By the end of their primary education, students will have developed a strong awareness of their own cultural identity and that of others, enabling them **to play active and constructive roles in promoting social cohesion.**
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ35z3yXpkX51ynOY-m78iflGH3M-IcX3zTipbVTD8lGPPk2HVgpwN45U6A2yDPKLvzUQuwJuTmMsWd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

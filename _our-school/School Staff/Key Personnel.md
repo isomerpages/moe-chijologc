@@ -218,6 +218,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Darren Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chuan_rong_darren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chuan_rong_darren@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -160,8 +160,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky">4 Integrity</td>
-    <td class="tg-0pky">Ms Khoo Pei Yee<br>Mrs Anne Tay</td>
-    <td class="tg-0pky">khoo_pei_yee@moe.edu.sg<br>peh_ai_ling_anne@moe.edu.sg</td>
+    <td class="tg-0pky">Ms Khoo Pei Yee<br></td>
+    <td class="tg-0pky">khoo_pei_yee@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">4 Perseverance</td>

@@ -62,18 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Anne Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:peh_ai_ling_anne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_ai_ling_anne@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">

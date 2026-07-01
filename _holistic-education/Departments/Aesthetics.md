@@ -117,10 +117,3 @@ our students have received in the past three years:</p>
   </tr>
 </tbody>
 </table>
-
-<hr>
-
-
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjHuS0l-0cloo6n0iyO_2YHc2VnO-tzZJ5FLUd3GzaJxoU_BvYFHAs_4wlgOF9ua6oXUOXTwjBmP_X/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-<p></p>
